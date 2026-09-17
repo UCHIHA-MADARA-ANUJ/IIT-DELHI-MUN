@@ -1,0 +1,12 @@
+# SWITZERLAND — MASTER BRIEF | DISEC LAWS
+
+**One-Line Stance:** **SUPPORTS negotiation of legally binding instrument** — lead sponsor of 78/241 [Switzerland SG submission 78-241-Switzerland-EN][automatedresearch Switzerland 25 Jun 2026]. **Two-tier champion** — specific prohibitions + regulations at center [Switzerland SG].
+
+**Detailed:**
+- **SG submission May 2024 (78-241-Switzerland-EN, 2pp):** Views: new/emerging tech hold promise but need adequate rules to ensure conformity with international law, uphold ethical requirements, humanitarian considerations. Sees need to continue codification/progressive development of IHL applicable in armed conflict re: AWS. **Supports SG+ICRC joint call for legally binding instrument by 2026 at latest** [Switzerland SG]. **Strong value in two-tier**: First, **actively supporting negotiation to prevent systems not compliant with IHL** — includes systems that cannot perform with sufficiently high degree of reliability/predictability in line with intent of operator/commander or could function outside defined parameters; whose effects cannot be limited per IHL (extent/timing insufficiently restricted); otherwise cannot be used per IHL/human rights [Switzerland SG]. Second, advocates **regulations/measures for systems that can in principle be used per IHL** — focus risk mitigation, **positive obligations to uphold human control, imposing limitations on weapon parameters and deployment contexts**, ensure legal conformity, human control embedded at appropriate stages of lifecycle [Switzerland SG]. **Progress in CCW crucial and urgent — no other forum better placed**, but recognizes weapons with increasing autonomy broader military AI needs attention [Switzerland SG].
+- **Votes:** Co-sponsored + FOR Dec 2023 78/241, Oct 2024 L.77, Dec 2025 80/57, joined 42-state Sept 2025 [automatedresearch].
+- **Domestic ethics:** 2017 Federal Council deemed pre-emptive ban premature because might ban useful systems that prevent collateral damage — compliance-based approach [Foraus 2017]. But 2023 officials: "We don't want killer robots! Clearly opposed to fully autonomous weapons" [SWI 28 Jan 2024].
+
+**Bloc:** CORE SUPPORTER — Swiss neutrality + ICRC host = strong moral authority, perfect for Brazil to co-sponsor.
+
+*Sources: Switzerland SG May 2024 78-241-Switzerland-EN, automatedresearch Switzerland 25 Jun 2026, Foraus 2017, SWI 28 Jan 2024, SwissInfo 30 Apr 2024.*
