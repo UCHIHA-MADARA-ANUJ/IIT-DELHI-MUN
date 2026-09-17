@@ -1,0 +1,19 @@
+# PAKISTAN — MASTER BRIEF | DISEC LAWS
+
+**One-Line Stance:** **STRONGLY SUPPORTS legally binding instrument** — among most proactive. **First state to call for ban on autonomous weapons, at 2013 UN HRC** [automatedresearch Pakistan 19 Feb 2026]. Supports new legally binding instrument to elaborate/clarify how existing IHL applies, address significant risks comprehensively [automatedresearch Aug 2024]. Supports definition: "designed to select and apply force to target(s) without human intervention after activation" — says *lethal* means capability to apply lethal force, regardless of actual consequences [automatedresearch Aug 2024]. Proposes **two-tier prohibitions/regulations:** prohibit unpredictable/unexplainable that take decisions without human control; regulate via limits on duration, geographical scope, scale, number of engagements [automatedresearch]. 
+
+**Votes:** **Voted FOR all:** Dec 2023 78/241, Dec 2024 79/62 L.77, Dec 2025 80/57 [automatedresearch]. Endorsed Vienna Chair's Summary 2024 "with urgency for international legal instrument" [automatedresearch].
+
+**Submissions:** 
+- **March 2023 Working Paper:** Proposal for international legal instrument on LAWS under CCW — proposed prohibitions: systems that take decisions without human control and does not enable human to understand/predict/explain; cannot distinguish civilian/hors de combat/combatants or indiscriminately targets civilian objects; causes unnecessary suffering; not able to take all feasible precautions; causes excessive incidental harm; effects cannot be predicted/understood/explained [Pakistan Statement 6 Mar 2023][automatedresearch]. Restrictions: not change situation/use or targeting parameters without human approval; limit to military objectives by nature; temporal/spatial/scale limits; transparency/reliability/predictability; only areas without civilians; interruptible at all stages [Pakistan GGE].
+- **May 2024 SG submission (78-241-Pakistan-EN):** 6pp — IHL relies on human agency, delegating target selection/engagement problematic for distinction/proportionality/precautions/military necessity; principles predictability/reliability/understandability/explainability as bridge; IHL not static, CCW preamble calls for codification; two-tier consistent with Protocols I & IV (ban) etc; functional definition of LAWS; prohibitions as above + restrictions (a-f) [Pakistan SG submission].
+
+**GGE statements:** **4 Mar 2024?** Actually 6 Mar 2023 statement: known challenges of unpredictability, anonymous/clandestine ops, force multiplication/asymmetry → miscalculation, lowered threshold, pre-emptive strikes, escalation, arms race + NSA access [Pakistan GGE 6 Mar 2023]. Oct 2022: "development emerged as perhaps defining concern along with WMD, dismay handful stall progress, call to lift opposition" [Pakistan 24 Oct 2022]. Dec 2021: "unique nature warrants further legally binding international rules" [automatedresearch].
+
+**Bloc:** CORE ALLY (Group A) — your NATURAL ALLY vs India. Nuclear power, India rival, NAM, strong treaty supporter.
+
+**Your tactic:** Pakistan is **AUTOMATIC FRIEND** — bring them immediately in unmod. Quote Pakistan's 2013 first ban call. Pakistan wants Protocol VI under CCW — same as Brazil. Co-sponsor prohibition language together.
+
+**POI to Pakistan (pull, not attack):** "Pakistan first called for ban in 2013 and proposed Protocol VI prohibiting systems without human control to understand/predict/explain — does Pakistan agree Brazil's IEEE 7007 standard could operationalize your predictability principle?"
+
+*Sources: automatedresearch Pakistan 19 Feb 2026, automatedresearch Overview Aug 2024, Pakistan SG submission May 2024 (78-241-Pakistan-EN), Pakistan GGE Statement 6 Mar 2023, Pakistan UNGA 23 Oct 2023, IPI 6 May 2026, CJIL Chicago coding matrix.*
