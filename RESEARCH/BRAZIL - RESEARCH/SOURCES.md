@@ -62,5 +62,24 @@
 44. USANA 6 Jan 2026 — Regulating LAWS fractured order — USA/Russia block, 128 CCW — https://usanasfoundation.com/regulating-lethal-autonomous-weapons-systems-laws-in-a-fractured-multipolar-order
 45. RCW CCW Report Vol12 No3 5 Sept 2024 — Brazil window warning — https://reachingcriticalwill.org/disarmament-fora/ccw/2024/laws/ccwreport/17219-ccw-report-vol-12-no-3
 
+## HUMAN RIGHTS / INDIGENOUS / POLICE VIOLENCE (NEW — Vulnerabilities & Strength)
+46. IACHR + UN Human Rights 17 Oct 2024 — Violence vs Indigenous Peoples Bahia/Paraná/Mato Grosso do Sul, deaths Lucas Santos (Dec 2023) & Nega Pataxó (Jan 2024) — https://www.oas.org/en/iachr/jsForm/?File=%2Fen%2Fiachr%2Fmedia_center%2Fpreleases%2F2024%2F252.asp
+47. Amazon Watch 19 Sept 2024 — Marco Temporal, Law 14.701/2023, Gilmar Mendes Special Commission, APIB withdrawal 25 Aug 2024, Guarani-Kaiowá militia attacks — https://amazonwatch.org/news/2024/0919-attacks-on-indigenous-rights-in-brazil-by-agribusiness-and-mining-are-fueling-amazon-fires-and-climate-change
+48. Amnesty Brazil 2025 — Environmental Licensing Law 15.190/2025, 52/63 vetoes rejected, Quilombola Alcântara 78,000 ha — https://www.amnesty.org/en/location/americas/south-america/brazil/report-brazil/
+49. HRW Letter 3 Aug 2026 — Amazon police abuses Aug 2020, 6 killed, torture, freezer, no accountability — https://www.hrw.org/news/2026/08/03/hrw-letter-on-a-case-of-police-abuses-in-the-brazilian-amazon
+50. OHCHR 31 Oct 2025 — Operação Contenção Rio 28 Oct 2025, 120 dead incl 4 police, hands tied/head shots, racialised policing, 6k killed annually 3x Black — https://www.ohchr.org/en/press-releases/2025/10/brazil-un-experts-urge-swift-investigation-deadly-police-operation-rio-de
+51. Reuters 5 Nov 2025 — Lula called Contenção "mass killing"/"disastrous" at COP30, political bind — https://www.reuters.com/world/americas/brazils-deadliest-police-raid-puts-lula-political-bind-2025-11-05/
+52. HRW 10 Oct 2024 — EMLER report, police kill >6k/yr 3x Black, investigations by police themselves — https://www.hrw.org/news/2024/10/10/un-experts-spotlight-devastating-police-brutality-brazil
+53. OHCHR 6 Jul 2022 — 23 killed Favela Cruzeiro 25 May 2022 — https://www.ohchr.org/en/press-releases/2022/07/brazil-un-experts-decry-acts-racialised-police-brutality
+54. HRW World Report 2024 — Supreme Court upheld Indigenous rights but Congress counter bill, deforestation down but defenders still threatened — https://www.hrw.org/world-report/2024/country-chapters/brazil
+
+## UKRAINE / NON-ALIGNMENT VOTES
+55. Reuters 26 Feb 2022 — Brazil voted FOR UNSC condemnation despite Bolsonaro reluctance — https://www.reuters.com/world/americas/brazil-vote-resolution-condemning-russian-invasion-ukraine-sources-2022-02-25/
+56. UN News 7 Apr 2022 — 93-24-58 HRC suspension, Brazil abstained — https://news.un.org/en/story/2022/04/1115782
+57. ASEEES 21 Aug 2024 — Brazil-Russia relations & Ukraine, neutrality, abstentions on register, German arms refusal — https://aseees.org/letter/brazil-russia-relations-and-the-ukrainian-crisis/
+58. EULAS Aug 2026 — Why Brazil won't pick side, 2025-2026 abstaining on every Ukraine resolution — https://www.eulas.network/post/why-won-t-brazil-pick-a-side-on-the-ukraine-war-two
+59. Times of India 2 Oct 2022 — Brazil abstained UNSC condemning referendums (with India) — https://timesofindia.indiatimes.com/world/rest-of-world/brazil-too-abstains-from-unsc-vote-condemning-russia-actions-in-ukraine/articleshow/94591514.cms
+60. Americas Quarterly 8 Feb 2024 — Balancing act foreign policy — https://www.americasquarterly.org/article/a-balancing-act-for-brazils-foreign-policy/
+
 ---
-**Total: 45 primary sources. Use citation numbers in committee: "Source 5, Brazil SG Submission May 2024, para 3" — chair will note you cite like a diplomat, not like Google.**
+**Total: 60 primary sources. Use citation numbers in committee: "Source 1, Brazil SG Submission 2024, para X" — chair will note you cite like a diplomat, not like Google.**
