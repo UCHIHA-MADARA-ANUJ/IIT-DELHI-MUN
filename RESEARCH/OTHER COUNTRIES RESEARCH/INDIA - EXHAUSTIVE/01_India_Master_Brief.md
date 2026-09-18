@@ -1,0 +1,17 @@
+# INDIA — MASTER BRIEF | DISEC LAWS | EXHAUSTIVE UPGRADE
+
+**One-Line Stance:** **Does NOT support legally binding instrument — says premature, technology-gap, stigmatization; supports POLITICAL declaration based on 11 Guiding Principles (2019) instead** [automatedresearch India 19 Feb 2026][Carnegie Feb 2026][India explanation BRAZIL? Actually India EOV 1 Nov 2023]. **Voted AGAINST Dec 2023 78/241 (among 4 NO: Belarus/India/Mali/Russia), ABSTAINED Dec 2024 L.77 (among 15), voted FOR Dec 2025 80/57** (shift? Dec 2025 80/57 India voted FOR — see South Africa doc uses 80/57 FOR, but India 2024 abstain) [automatedresearch][HRW]. Chaired GGE 2017-2018 affirming 11 principles.
+
+**Detailed:**
+- **SG submission 2024 + Explanation of Vote Nov 2024 (L.77):** CCW GGE addressing full range comprehensively/inclusively, CCW appropriate forum to strike balance military necessity/humanitarian imperatives [India EOV Nov 2024]. Parallel mandates duplication [India EOV]. Substantial body of work needs built upon developing common understandings particularly definitions/characterization [India EOV]. Voted against PP4 broadening scope beyond emerging technologies referencing contentious concepts, against PP2 because IHRL/ICL not under First Committee subject matter [India EOV].
+- **Carnegie Feb 2026:** Building consensus takes time, lack clarity definitions/differing security realities — legally binding premature [Carnegie]. Supports politically binding instrument embodying high-level commitments, leads to national policies/regulatory frameworks [Carnegie]. Notes GGE strikes right balance military necessities/humanitarian concerns, CCW successfully done before (protocols) [Carnegie]. **Do NOT stigmatize technology** — autonomy imparts more precision/accuracy avoids human errors [India GGE 03 Aug 2021][Carnegie].
+- **Domestic DRDO development March 2026:** Parliamentary committee Lok Sabha confirmed DRDO + DPSUs actively developing LAWS — killer robots — alongside AI for underwater autonomous vehicles, missile, facial recognition even when disguised; tri-services AI policy 9 Mar 2026 explicitly endorses LAWS as earliest prominent military application, envisions drone swarms/area denial/transition to unmanned combat near term, unmanned aerial bombing/close-combat/border patrol [IDRW 24 Aug 2026]. But **no law, no oversight body, no legislation** — law silent, accountability vacuum [IDRW]. Funding via Adani Defense & Aerospace [FutureOfLife Guide].
+- **Long contradiction:** Supports political declaration not legally binding — maintains IHL technology-neutral sufficient (effects not underlying tech) [IDSA May 2025].
+
+**Votes:** AGAINST 2023, ABSTAIN 2024, FOR 2025 80/57? Actually Dec 2025 80/57 includes India? Check — 80/57 list: China abstain, but India? 80/57 vote 2025: 164-6-7 — India not among 6 NO nor 7 abstain (China etc), so presumably FOR. So drift toward FOR.
+
+**Bloc:** HEDGE major military power — opposes binding with USA/Russia/Japan/Korea.
+
+**Your attack:** "India says legally binding premature for 13 years, chaired GGE 2017 — yet March 2026 parliamentary report shows DRDO already developing swarms + facial recognition killer robots with no law. When is not premature? Who is accountable under Indian law when swarm selects target?"
+
+*Sources: automatedresearch India 19 Feb 2026, Carnegie Feb 2026 / Aug 2024, India EOV Nov 2024 L.77, India GGE 03 Aug 2021, IDRW 24 Aug 2026, IDSA May 2025, FutureOfLife Guide 30, Takshashila Dec 2025.*

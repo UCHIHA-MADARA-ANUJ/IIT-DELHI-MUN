@@ -1,0 +1,18 @@
+# USA — MASTER BRIEF | DISEC LAWS | EXHAUSTIVE UPGRADE
+
+**One-Line Stance:** **STRONGLY AGAINST legally binding instrument — does NOT support negotiation, says existing IHL sufficient, time not right** [automatedresearch USA 19 Feb 2026][USA SG May 2024 78-241-USA-EN][USA GGE 27 Sep 2021 / 1 Oct 2021]. **Voted AGAINST Dec 2025 80/57** (among 6 NO with Russia/Belarus/Burundi/DPRK/Israel) [press.un.org 1 Dec 2025], **but voted FOR Dec 2024 L.77 166-3-15 and Dec 2023 78/241** (with explanation time not right) [automatedresearch]. **Pushed until final hours to remove/sofen meaningful human control paragraphs in Sep 2025 GGE rolling text** [DefenceMatters 5 Sep 2026][Jeibros Sep 2026][DavisVanguard 8 Sep 2026] — HRW: US+Russia pushed changes removing design/development scope, narrowing to IHL only.
+
+**Detailed:**
+- **SG submission May 2024 (78-241-USA-EN):** Continued support for GGE as best opportunity, strongly opposed to parallel initiatives that would prejudge/undermine GGE centrality [Overview Aug 2024]. Does **not use term meaningful human control** — argues focus on control would obscure rather than clarify genuine challenges [Overview]. Reiterates does not believe time is right for new legal instrument [USA 1 Nov 2023 explanation].
+- **GGE doctrine:** Believes existing IHL + effective national measures to implement IHL sufficient [USA GGE 27 Sep 2021]. "Disagree new obligations need to be established… remain unconvinced new legally binding instrument needed" [1 Oct 2021]. **Does not agree elaborating new standard of sufficient human control** [automatedresearch].
+- **Defence programme — Replicator:** Initiated by Deputy SecDef Hicks Aug 2023 to counter PLA — aims streamline uptake emerging tech private sector, align with AI ethics/policies [CIGI 15 Jan 2024]. **2026 fiscal request $14.2bn for AI/autonomous, $1bn in 2025 to fast-track thousands of expendable autonomous drones/surface vessels** [USANAS Jan 7 2026]. Prioritizes human-on-the-loop models [CIGI].
+- **Political Declaration:** State Dept "Political Declaration on Responsible Military Use of AI and Autonomy" Nov 2023 — ~60 states endorsed (notably excluding Russia/China) — says military AI must comply with applicable international law [Congress CRS IF11294 Feb 2025][Carnegie Aug 2024]. Three working groups led by Austria/Bahrain/Canada/Portugal/USA [Carnegie].
+- **Approach to LAWS:** Starts recognition existing IHL already provides applicable framework of prohibitions/restrictions [CJIL p113]. Supports **two-tier approach** distinction between by nature prohibited vs regulations for other weapons not categorically prohibited [CJIL].
+
+**Votes:** **AGAINST Nov 2025 L.41** (strictly rejected 5: USA+Russia), **FOR Dec 2024 L.77** (tactical), **FOR Dec 2023 78/241**, **ABSTAIN?** Actually FOR 78/241 with explanation.
+
+**Bloc:** HARD NO leader with Russia — your **PRIMARY ADVERSARY**. USA hardened position last 6 months, approached 6 countries diplomatically to back its stance [Jeibros Sep 2026].
+
+**Your attack line:** "USA requested $14.2bn for AI/autonomous 2026 + Replicator thousands of expendable autonomous drones — while saying no new rules needed because existing IHL sufficient. If existing IHL sufficient, why $14.2bn to develop systems that IHL never anticipated?"
+
+*Sources: automatedresearch USA 19 Feb 2026, USA SG 78-241-USA-EN May 2024, USA GGE 27 Sep 2021, USA 1 Nov 2023 explanation, press.un.org 1 Dec 2025, USANAS 7 Jan 2026, CIGI 15 Jan 2024, DefenceMatters 5 Sep 2026, Jeibros 7 Sep 2026, DavisVanguard 8 Sep 2026, Congress CRS IF11294, Carnegie Aug 2024, CJIL 113-115.*
