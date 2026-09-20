@@ -57,3 +57,22 @@ For each matrix state in the group, research still needs to establish:
 
 Primary source:
 https://documents.un.org/api/symbol/access?l=en&s=CCW%2FMSP%2F2025%2FWP.5&t=pdf
+
+
+## 7. September 2026 update — 47-state statement
+
+The 2025 42-HCP paper remains the correct institutional record for the 42-state group.
+
+However, it should no longer be treated as the newest procedural signal. Monitoring of the final 2026 GGE session reports that Brazil delivered an updated joint statement supported by 47 States, continuing to support the GGE elements as a basis for negotiations within the CCW.
+
+Four reported new endorsers were Bangladesh, Cyprus, Greece and Malta.
+
+In the 86-country MUN matrix, the reported 2026 endorsers are:
+Algeria, Bangladesh, Brazil, Chile, Denmark, Ecuador, France, Germany, Greece, Hungary, Ireland, Italy, Kazakhstan, Malta, Mexico, New Zealand, Nigeria, Norway, Pakistan, Peru, Portugal, Spain, Sweden, Switzerland and Thailand.
+
+This is a **2026 procedural convergence signal**, not proof of identical treaty preferences.
+
+Source:
+https://automatedresearch.org/news/over-70-states-support-rolling-text-as-basis-for-negotiations/
+
+Before quoting the 47-state list as a primary UN document, retrieve the final 2026 working paper from the official CCW/UN document system.
