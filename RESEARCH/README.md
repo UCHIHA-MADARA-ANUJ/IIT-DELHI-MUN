@@ -1,30 +1,81 @@
 # RESEARCH — Brazil DISEC LAWS | Master Research Hub
 
-This folder = Your **verified research arsenal**.
+This folder is the **research-only phase** of the Brazil preparation.
 
-## FILES INSIDE:
+## Current rule
 
-1.  **`01_Brazil_Position_Brief.md`** — FULL country brief (190 lines)
-    - Brazil's official stance: legally binding two-tier instrument, meaningful human control
-    - Timeline 2013-2026 (Austria-Brazil-Chile 2018, Chile-Mexico-Brazil 2021 outline, 42-state statement March 2026)
-    - Treaties: CCW + all Protocols, Ottawa, Tlatelolco, ATT, Article 36 AP I, Martens Clause
-    - Votes: 166-3-15 (Dec 2, 2024) and 164-6-7 (Dec 2025)
-    - Stats: 120+ states for treaty, 62% Brazilians oppose killer robots, IEEE 7007-2021
-    - Foreign policy DNA: Constitution Art. 4 (non-intervention, peaceful settlement)
-    - 6 weaknesses + defenses (cluster munitions, Harpia/Elbit, BRICS)
+**Do NOT lock MOD topics, bloc composition, GSLs, POIs or a resolution yet.**
 
-2.  **`02_Core_Arguments_5_Spine.md`** — Your 5 non-negotiable arguments:
-    - #1 MHC is legal requirement (distinction/proportionality)
-    - #2 Two-tier ban+regulate
-    - #3 Consensus ≠ veto (rolling text + 2026 mandate)
-    - #4 IEEE 7007 + Article 36 verifiability
-    - #5 Prevent arms race before proliferation
+First we build an evidence-backed map of the agenda and the exact MUN country matrix. Lobbying will then tell us which issues naturally attract support; only after that do we convert the research into a bloc strategy and debate material.
 
-## HOW TO USE IN COMMITTEE:
-- **Cite treaty numbers and vote counts, not adjectives.** Say "166 states, Resolution 79/62" not "many countries"
-- **Distinguish verified (votes, statements) vs analysis (BRICS tension)**
-- **Quote Brazil's own words:** "without meaningful human control... would undermine IHL and violate human dignity" (2021 GGE)
+## Files
 
----
+### 01 — `01_Brazil_Position_Brief.md`
+Existing Brazil country brief. Use it as the starting point, but cross-check important claims against primary UN/CCW/Brazilian sources before quoting.
 
-*All sources cited with links. Cross-check before quoting. Next: BLOC, GSL, MODs.*
+### 02 — `02_Core_Arguments_5_Spine.md`
+Existing Brazil argument spine. These are research themes, **not yet speeches or MODs**.
+
+### 03 — `03_UN_LAWS_Record_2023_2026.md`
+Verified UNGA trajectory, 2023–2025 voting record, 2025 resolution substance, 2026 CCW process and sponsor information.
+
+### 04 — `04_MUN_Country_Matrix_2026.md`
+The **exact committee matrix** supplied for this MUN. First-pass 2025 vote classification + sponsor status + research fields to complete. This is the core file for building the eventual bloc map.
+
+### 05 — `05_Source_Ledger_2026.md`
+Primary-source hierarchy and links. Use this to prevent weak/secondary claims from becoming "facts" in our preparation.
+
+## Research priorities
+
+### Phase A — Brazil
+- exact official Brazil statements
+- CCW/GGE interventions
+- 2021 Brazil-Chile-Mexico proposal
+- 2018 Austria-Brazil-Chile initiative
+- 2025/2026 Brazil statements and sponsorship
+- legal, diplomatic and technical vocabulary Brazil actually uses
+
+### Phase B — Exact country matrix
+For every country in `04_MUN_Country_Matrix_2026.md`:
+1. 2023/2024/2025 UNGA votes
+2. 2025 sponsorship
+3. official national statements
+4. CCW GGE statements / working papers
+5. preferred legal form
+6. position on prohibition vs regulation
+7. position on meaningful human control / IHL / Article 36 / testing / verification / accountability
+8. areas of overlap with Brazil
+9. areas of friction with Brazil
+
+### Phase C — Agenda substance
+Research the actual policy questions before deciding how we will debate them:
+- definitions and scope of LAWS/AWS
+- human control and human judgment
+- distinction, proportionality and precautions
+- predictability, reliability, explainability and traceability
+- testing and evaluation
+- legal reviews / Article 36
+- accountability and responsibility
+- geographic, temporal and target constraints
+- command-and-control / chain of command
+- intervention and deactivation
+- verification and compliance
+- technology transfer / capacity-building
+- proliferation and arms-race concerns
+- CCW vs wider UN processes
+- legal form of a future instrument
+
+## Research discipline
+
+- **Vote ≠ complete policy position.**
+- **Sponsor ≠ identical ally.**
+- **A statement ≠ treaty commitment unless it actually says so.**
+- Attribute contested interpretations.
+- Prefer primary sources.
+- Record uncertainty instead of filling gaps with assumptions.
+
+## What comes later
+
+Only after the research + lobbying picture is complete:
+
+**Country map → bloc architecture → resolution strategy → GSL → MODs → POIs → execution.**
