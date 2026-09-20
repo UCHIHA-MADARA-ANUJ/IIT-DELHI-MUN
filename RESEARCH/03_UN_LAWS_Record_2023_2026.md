@@ -6,11 +6,17 @@
 
 | Resolution | Date | Yes | No | Abstain | Brazil | Important point |
 |---|---:|---:|---:|---:|---|---|
-| A/RES/78/241 | 22 Dec 2023 | 152 | 5 | 17 | YES | First GA resolution specifically on LAWS; established the Secretary-General reporting process. |
-| A/RES/79/62 | 2 Dec 2024 | 166 | 3 | 15 | YES | Very broad support; Belarus, DPRK and Russia voted NO. |
-| A/RES/80/57 | 1 Dec 2025 | 164 | 6 | 7 | YES | Calls on CCW High Contracting Parties to work toward completing elements of an instrument for future negotiations. |
+| A/RES/78/241 | 22 Dec 2023 | **152** | **4** | **11** | YES | First GA resolution specifically on LAWS; established the Secretary-General reporting process. |
+| A/RES/79/62 | 2 Dec 2024 | **166** | **3** | **15** | YES | Very broad support; Belarus, DPRK and Russia voted NO. |
+| A/RES/80/57 | 1 Dec 2025 | **164** | **6** | **7** | YES | Calls on CCW High Contracting Parties to work toward completing elements of an instrument for future negotiations. |
 
-**Sources:** UN Digital Library voting records and adopted resolutions.
+### 2023 correction
+Older versions of the repository contained **152-5-17** for A/RES/78/241. The official UN record is **152-4-11**. Do not use the older figure.
+
+Primary sources:
+- A/RES/78/241: https://digitallibrary.un.org/record/4013284
+- A/RES/79/62: https://digitallibrary.un.org/
+- A/RES/80/57: https://digitallibrary.un.org/record/4094456
 
 ## 2. 2025 vote — exact matrix-relevant classification
 
@@ -24,12 +30,12 @@ The official UN voting record for A/RES/80/57 gives **164 YES, 6 NO, 7 abstentio
 
 **Important:** a vote is a research signal, not proof of a state's complete substantive position. Do not label a country a permanent opponent or ally solely from one vote.
 
-**Primary source:** https://digitallibrary.un.org/record/4094456
+Primary:
+https://digitallibrary.un.org/record/4094456
 
 ## 3. 2025 resolution: substantive content
 
 A/RES/80/57:
-
 - calls for a comprehensive and inclusive multilateral approach;
 - addresses legal, technological, ethical, humanitarian and security perspectives;
 - stresses the urgency of addressing autonomous weapons in the CCW context;
@@ -38,17 +44,20 @@ A/RES/80/57:
 - recognizes the importance of international cooperation and capacity-building, including meaningful participation of developing countries;
 - takes note of the Secretary-General's call to commence negotiations of a legally binding instrument based on a two-tier approach of prohibitions and regulations.
 
-**Primary source:** https://digitallibrary.un.org/record/4094456
+Primary:
+https://digitallibrary.un.org/record/4094456
 
 ## 4. 2026 CCW process
 
 The 2026 CCW GGE mandate is to further consider and formulate, **by consensus**, elements of an instrument, **without prejudging its nature**, and other possible measures addressing emerging technologies in the area of LAWS.
 
-The 2026 meetings were scheduled for **2–6 March** and **31 August–4 September 2026**. The second session therefore occurred immediately before this MUN's September 2026 date.
+The 2026 meetings were **2–6 March** and **31 August–4 September 2026**.
 
-The 2026 work uses the Chair's **rolling text** as a basis for substantive discussion. This matters for research because the committee is not operating in a policy vacuum: states have already been debating concrete elements of a possible instrument.
+The 2026 work used the Chair's **rolling text** as a basis for substantive discussion.
 
-**Primary source:** https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-Group_of_Governmental_Experts_on_Lethal_Autonomous_Weapons_Systems_%282026%29/CCW-GGE.1-2026-WP.2.pdf
+Official:
+https://meetings.unoda.org/meeting/79329
+https://meetings.unoda.org/meeting/79329/documents
 
 ## 5. 2025 draft resolution sponsors
 
@@ -56,20 +65,29 @@ Brazil was among the original sponsors of A/C.1/80/L.41. Other original sponsors
 
 Additional sponsors included Armenia, Barbados, Cabo Verde, Colombia, Dominican Republic, Ecuador, Honduras, Trinidad and Tobago, Vanuatu and the State of Palestine.
 
-**Primary source:** https://digitallibrary.un.org/record/4091330
+Primary:
+https://digitallibrary.un.org/record/4091330
 
-## 6. What this means for our research — NOT bloc formation yet
+## 6. Current September 2026 context
+
+The MUN occurs after the second 2026 GGE session and before the Seventh Review Conference in November 2026.
+
+The August 2026 UN Secretary-General/ICRC appeal called for urgent negotiations on a legally binding instrument with clear prohibitions and restrictions.
+
+Primary:
+https://www.ungeneva.org/en/news-media/press-release/2026/08/renewed-call-united-nations-secretary-general-and-president
+
+## 7. What this means for our research — NOT bloc formation yet
 
 These facts give us a starting map, but we should **not** decide the bloc or MOD topics from them alone.
 
 Before lobbying, the research should answer:
-
 1. Which countries in our exact MUN matrix consistently support the UN process?
 2. Which changed their vote between 2024 and 2025?
 3. Which sponsored the 2025 draft?
 4. Which have official statements supporting a legally binding instrument?
 5. Which prefer prohibition, regulation, or a combination?
-6. Which emphasize meaningful human control, IHL, Article 36/legal review, verification, definitions, security, development or capacity-building?
+6. Which emphasize human control, IHL, Article 36/legal review, verification, definitions, security, development or capacity-building?
 7. Which apparently compatible countries have reservations that could affect a Brazil-led bloc?
 8. Which states have useful cross-regional diplomatic relationships with Brazil?
 
