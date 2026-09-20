@@ -86,7 +86,7 @@ Primary source: https://digitallibrary.un.org/record/4094456
 | Switzerland | YES | YES | YES | 42-state participant and major CCW actor; supports movement toward negotiations and 2025 sponsor. |
 | Syria | NV | NO | NO | No reliable current independent LAWS position established from the present record; 2025 was non-voting. |
 | Tanzania | YES | NO | NO | Supports a legally binding instrument in current monitored position; African Group/NAM context. |
-| Thailand | YES | NO | YES | 42-state participant; supports movement toward negotiations; current legal-form details need primary-source audit. |
+| Thailand | YES | NO | NO | 42-state participant; supports movement toward negotiations; current legal-form details need primary-source audit. |
 | Togo | YES | NO | NO | Supports a legally binding instrument; March 2026 African Group statement backed moving toward negotiations on the rolling text. |
 | Trinidad & Tobago | YES | YES | NO | Supports a legally binding instrument; CARICOM position supports negotiation; 2025 sponsor. |
 | Tunisia | YES | NO | NO | Supports a legally binding instrument; March 2026 African Group statement backed movement toward negotiations. |
