@@ -14,7 +14,7 @@
 Older versions of the repository contained **152-5-17** for A/RES/78/241. The official UN record is **152-4-11**. Do not use the older figure.
 
 Primary sources:
-- A/RES/78/241: https://digitallibrary.un.org/record/4033027
+- A/RES/78/241: https://digitallibrary.un.org/record/4068497record/4033027
 - A/RES/79/62: https://digitallibrary.un.org/
 - A/RES/80/57: https://digitallibrary.un.org/record/4094456
 
