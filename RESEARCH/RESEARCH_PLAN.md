@@ -1,88 +1,241 @@
-# RESEARCH PLAN — Brazil DISEC LAWS | AGGRESSIVE INFORMATIVE TARGETING
-> Matrix: 93 countries | Your Country: Brazil | Goal: Best Delegate | Approach: Informative + Targeting + Dominant
+# RESEARCH MASTER PLAN — BRAZIL / UNGA DISEC / LAWS
+> Exact committee matrix: 86 countries | Portfolio: Brazil | MUN: 26–27 September 2026
+>
+> **Status:** Deep research phase. No bloc, MOD topic, GSL, POI bank, or resolution strategy is fixed here.
 
-## MATRIX ANALYSIS
-**Total Countries (93):** Afghanistan, Algeria, Angola, Argentina, Armenia, Australia, Azerbaijan, Bahrain, Bangladesh, Belarus, Botswana, Brazil, Cambodia, Canada, Chile, China, Colombia, Cuba, Czech Republic, Denmark, Ecuador, Egypt, Ethiopia, France, Germany, Ghana, Greece, Hungary, India, Indonesia, Iran, Iraq, Ireland, Israel, Italy, Japan, Jordan, Kazakhstan, Kenya, Kuwait, Lebanon, Libya, Malaysia, Malta, Mexico, Micronesia, Myanmar, Nepal, Netherlands, New Zealand, Nigeria, North Korea, Norway, Oman, Pakistan, Peru, Philippines, Poland, Portugal, Qatar, Russia, Saudi Arabia, Serbia, Seychelles, Singapore, South Africa, South Korea, Spain, Sri Lanka, Sudan, Sweden, Switzerland, Syria, Tanzania, Thailand, Togo, Trinidad & Tobago, Tunisia, Turkey, Ukraine, UAE, UK, USA, Venezuela, Vietnam, Yemen
+## 0. Research standard
 
-## PRIORITY TIERS (TACTICAL - NOT ALPHABETICAL)
+This repository is being built as a **fact-first negotiation dossier**, not a collection of generic MUN notes.
 
-### TIER 0: YOURSELF — BRAZIL (DEEP DIVE)
-**Status:** 70% done, needs aggressive expansion
-**Files:** BRAZIL - RESEARCH/01-04 (adding 03_Aggressive_Sheet + 04_Stats_Quotes + 05_Defense_Manual)
-**Depth:** 10000 pages equivalent → Treaty-by-treaty, vote-by-vote, quote-by-quote
+Every substantive claim should be classified as one of:
 
-### TIER 1: KILL / PULL — THE DECIDERS (Must research FIRST - they will speak most)
-These 10 will dominate GSL and Mods. If you can destroy them in POIs, you win.
-1.  **USA** — Replicator, voted AGAINST 2025, says IHL enough. YOUR PRIMARY TARGET.
-2.  **Russia** — S-70 Okhotnik, voted AGAINST 166-3-15, blocks consensus. SECONDARY TARGET.
-3.  **China** — ABSTAINED, swarm program, vague definition. SWING YOU MUST FLATTER+ISOLATE.
-4.  **India** — Abstained, swarm drones, STRONG SPEAKER in Indian MUNs — will be your direct competitor for BD.
-5.  **Israel** — Lavender/Gospel in Gaza, Harop, voted AGAINST. HIGH EMOTION TARGET.
-6.  **Turkey** — Kargu-2 (first autonomous kill in Libya), Bayraktar. UNDERDOG AGGRESSOR.
-7.  **France** — Wants regulation not ban, has nEUROn. FENCE TO PULL.
-8.  **United Kingdom** — Article 36 champion, says no treaty needed. FENCE TO PULL.
-9.  **Germany** — Ethical red lines, two-tier supporter. YOUR BEST FRIEND TO STEAL.
-10. **Iran** — Abstained? Actually abstained? Develops Shahed. TARGET FOR PROLIFERATION ARG.
+- **Primary fact:** UN/CCW document, official national statement, treaty text, official ministry/mission material, official vote record.
+- **Secondary corroboration:** ICRC, HRW, academic work, reputable research institute, established reporting.
+- **Analysis/inference:** interpretation of a state's likely negotiating behaviour. These must be labelled as analysis and never presented as an official state position.
+- **Unknown:** no sufficiently reliable source located yet.
 
-### TIER 2: BLOC LEADERS — THE VOTE MULTIPLIERS (Research SECOND)
-11. **Pakistan** — Needs tech, will attack India, can be ally vs India.
-12. **North Korea** — Voted AGAINST with Russia, isolationist. EASY TO ISOLATE.
-13. **Belarus** — Voted AGAINST, Russia's proxy.
-14. **Ireland, Norway, Switzerland, Sweden** — 42-state co-drafters with Brazil. YOUR CORE ALLIES — know their exact statements to quote them.
-15. **Mexico, Chile, Colombia, Argentina** — Latin allies. Quote Chile-Mexico-Brazil 2021 outline.
-16. **Netherlands, Canada, New Zealand, Denmark** — Tech + regulation fence.
-17. **South Africa, Nigeria, Algeria, Egypt** — NAM / African bloc. Use 2026 deadline + proliferation.
-18. **South Korea, Japan, Australia** — US allies but nervous about China. Pull with verification.
-19. **Saudi Arabia, UAE, Qatar** — Buyers, proliferation risk. Use NSA argument.
+A UNGA vote is evidence of how a state voted on a particular resolution. It is **not** by itself proof that the state supports every policy element in the resolution.
 
-### TIER 3: SILENT MAJORITY — THE SIGNATORIES (Research THIRD - for numbers)
-Afghanistan, Angola, Bangladesh, Botswana, Cambodia, etc. — They will vote with majority (166). You don't need deep dossiers, just know they are 166 and will sign your resolution. One-liner each enough.
+## 1. Exact committee matrix
 
-## RESEARCH TEMPLATE PER COUNTRY (AGGRESSIVE DOSSIER)
+The user-supplied matrix contains **86 countries**, including Brazil.
 
-Each file in `OTHER COUNTRIES RESEARCH/` will have:
+The research target is therefore:
+**Brazil + 85 other delegations.**
 
-```
-# COUNTRY — One-Line Stance
-## 1. Official Position (Verified)
-- UNGA votes (2023/2024/2025)
-- GGE statements, SG submission
-- Exact quote + year + link
+The repository also contains research folders for some states not in the committee matrix. Those are retained as source material but are not treated as committee delegations.
 
-## 2. Weapon Program (Hard Facts to Weaponize)
-- System names (Replicator, S-70, Kargu-2, Harop, nEUROn, Shahed)
-- Budget / deployment / reported use
+## 2. Required country dossier
 
-## 3. Bloc & Tactical Value
-- Ally / Opponent / Swing + why you care
+Every matrix country must ultimately have a dossier covering:
 
-## 4. WEAKNESS — CONTRADICTION TO EXPLOIT (Your sword)
-- e.g., USA: DoD Directive requires human judgment but opposes treaty codifying it
-- e.g., Russia: Voted 3 vs 166, blocks consensus it claims to respect
+### A. Identity and diplomatic context
+- constitutional/foreign-policy principles relevant to arms control
+- regional organizations and negotiating groups
+- CCW status
+- NAM / African Group / Arab Group / ASEAN / EU / NATO / CARICOM / other relevant group membership
+- major security relationships relevant to LAWS
 
-## 5. POI TO ASK THEM (Aggressive, 15 sec, with target)
-- Question
-- Weakness it hits
-- Likely answer + Follow-up trap
+### B. LAWS position — verified
+- 2023 UNGA vote
+- 2024 UNGA vote
+- 2025 UNGA vote
+- 2025 draft-resolution sponsorship
+- 2025–2026 CCW GGE participation
+- Secretary-General submission, if any
+- official national statement(s)
+- group statement(s) the country joined
+- position on legal form: binding instrument / protocol / declaration / other
+- position on definitions and scope
+- position on human control / human judgment
+- position on prohibitions
+- position on regulations
+- position on Article 36 / weapons reviews
+- position on accountability
+- position on verification/testing
+- position on transfer/proliferation
+- position on development/technology access
 
-## 6. WHAT THEY WILL ASK BRAZIL + YOUR KILLER ANSWER (Safe / Strong / One-liner)
+### C. Current 2026 status
+- March 2026 GGE position
+- August–September 2026 GGE position
+- September 2026 Preparatory Committee position if documented
+- relationship to the rolling text / elements of an instrument
+- position on the November 2026 Seventh Review Conference
 
-## 7. UNMOD LINE — How to pull/isolate them
-- Exact sentence: "Hey Germany — your regulation tier + our prohibition = joint..."
-```
+### D. Capability and strategic context
+Only where relevant and sourced:
+- defence-industrial capacity
+- autonomous/AI-enabled military systems
+- procurement/development programs
+- operational experience
+- dependence on foreign technology
+- likely security concerns driving the state's policy
 
-## DELIVERY SCHEDULE (9 Days to MUN)
+This section is context, **not proof of a state's diplomatic position**.
 
-- **TODAY (17 Sept):** Expand BRAZIL dossier to aggressive + start TIER 1 Batch 1 (USA, Russia, China, India, Israel)
-- **18 Sept:** TIER 1 Batch 2 (Turkey, France, UK, Germany, Iran) + BLOC allies (Ireland/Norway/Switzerland)
-- **19 Sept:** TIER 2 (Pakistan, North Korea, Japan, South Korea, South Africa)
-- **20-22 Sept:** TIER 3 speed-run (one-liners) + POI drills + Substantive speeches updated with per-country ammo
-- **23-25 Sept:** Simulation — I am USA/Russia/India, you kill them
+### E. Negotiating strengths
+Documented assets the delegation can bring to negotiations, e.g.:
+- technical expertise
+- legal credibility
+- regional leadership
+- active CCW participation
+- drafting experience
+- cross-regional relationships
+- affected-state experience
 
-## WHAT I NEED FROM YOU NOW
+### F. Negotiating constraints / vulnerabilities
+Documented limitations or points that may create friction, e.g.:
+- no independent position
+- reliance on regional-group positions
+- unresolved legal-form preference
+- conflict/security priorities
+- defence-industrial interests
+- differences between domestic practice and diplomatic position
 
-- Nothing else. I have matrix. I know you are 4 MUNs, hunting BD.
-- BG will come later — I'll integrate instantly.
-- For now, I will NOT waste time on Yemen/Micronesia deep dives — I'll give you one-liners for them and concentrate firepower on Tier 1 where BD is decided.
+Do **not** turn these into sensational accusations. Record the underlying evidence and let the delegate decide how to use it.
 
-**Next:** I start BRAZIL aggressive expansion + USA/Russia dossiers TONIGHT. You will see files appear in `RESEARCH/BRAZIL - RESEARCH/` and `RESEARCH/OTHER COUNTRIES RESEARCH/` commit by commit.
+### G. Brazil-specific relationship
+- areas of factual overlap with Brazil
+- areas of factual disagreement
+- questions Brazil should ask to clarify the position
+- concessions Brazil may need to understand
+- information still missing
+
+This is **not** a bloc ranking.
+
+### H. Sources
+Each dossier should link to the best available primary documents first, followed by corroborating sources.
+
+## 3. Research order
+
+### Phase A — Brazil
+Audit Brazil's:
+- official LAWS position
+- constitutional/foreign-policy identity
+- treaty commitments
+- UN voting record
+- CCW record
+- current 2026 position
+- strengths
+- weaknesses
+- defence/AI context
+- likely questions from every major policy camp.
+
+### Phase B — Topic master
+Build the factual knowledge needed regardless of eventual MOD:
+- what LAWS means
+- autonomy versus automation
+- weapon-system autonomy
+- target selection vs target engagement
+- human-in-the-loop / on-the-loop / out-of-the-loop
+- meaningful/context-appropriate human control
+- predictability/reliability/traceability/explainability
+- distinction
+- proportionality
+- precautions
+- military necessity
+- accountability
+- Article 36 reviews
+- Martens Clause
+- CCW/GGE process
+- rolling text
+- prohibitions vs regulations
+- verification/testing
+- lifecycle controls
+- transfer/proliferation
+- command responsibility
+- legal form and institutional options.
+
+### Phase C — 85 other delegations
+Normalize all exact matrix countries to the same evidence standard.
+
+### Phase D — comparison
+Only after the factual country dossiers are complete:
+- map convergence
+- map disagreement
+- map undecided/fence positions
+- identify cross-regional negotiating possibilities
+- identify which countries can work together on particular issues.
+
+### Phase E — lobbying
+Only after the comparison is finished do we use live lobbying information to decide what bloc structure actually makes sense.
+
+### Phase F — speeches / MODs / POIs
+These come **after** the room's policy landscape is understood.
+
+## 4. Current 2026 context we must know
+
+The UN/CCW process is not starting from a blank page.
+
+The 2026 GGE had sessions on **2–6 March** and **31 August–4 September 2026**. Its mandate was to further consider and formulate, **by consensus**, elements of an instrument **without prejudging its legal nature**, plus other possible measures.
+
+The Chair's work has used a **rolling text** as the basis for detailed discussions.
+
+The September 2026 MUN therefore occurs between the end of the second GGE session and the November 2026 Seventh Review Conference.
+
+Primary:
+- UNODA 2026 GGE: https://meetings.unoda.org/meeting/79329
+- UNODA 2026 GGE documents: https://meetings.unoda.org/meeting/79329/documents
+- UN CCW official documents: https://docs-library.unoda.org/
+
+## 5. Current international baseline
+
+UNGA resolutions:
+- A/RES/78/241 — 2023
+- A/RES/79/62 — 2024
+- A/RES/80/57 — 2025
+
+For 2025, the official vote was:
+**164 YES / 6 NO / 7 abstentions / 16 non-voting.**
+
+Primary:
+https://digitallibrary.un.org/record/4094456
+
+Do not use old notes in the repository if they conflict with the official record.
+
+## 6. Source hierarchy
+
+**Tier 1 — Primary**
+UN Digital Library; UNODA; CCW documents; national foreign-ministry/mission statements; official government submissions; treaty texts.
+
+**Tier 2 — Authoritative humanitarian/legal**
+ICRC, ICJ/UN legal documents, official treaty bodies where relevant.
+
+**Tier 3 — High-quality research**
+SIPRI, Carnegie, RSIS, Chatham House, CIGI, academic journals, established university centres.
+
+**Tier 4 — Advocacy / monitoring**
+Automated Decision Research, Reaching Critical Will, HRW, Campaign to Stop Killer Robots, Article 36.
+
+**Tier 5 — Reporting**
+Reuters and other reputable journalism for current events and reported developments.
+
+Wikipedia, blogs, unsourced commentary and social-media claims are leads only, not final evidence.
+
+## 7. Non-negotiable quality rules
+
+1. Never invent a state position.
+2. Never infer a binding-treaty position solely from a YES vote.
+3. Never call a state a permanent ally/opponent from one vote.
+4. Distinguish what a country **said**, what it **voted**, what it **joined**, and what we **infer**.
+5. Put dates on current claims.
+6. Prefer the country's own words.
+7. Preserve exact document titles and document numbers wherever possible.
+8. Flag contradictory evidence instead of hiding it.
+9. When a source is advocacy or analysis, label it.
+10. When evidence is absent, write **“No independent current position located”**, not a guess.
+
+## 8. Research completion standard
+
+A country is not marked **RESEARCH-COMPLETE** until:
+- its 2025 vote is verified;
+- its 2024 and 2023 votes are checked where relevant;
+- sponsor status is checked;
+- current 2026 position is checked;
+- CCW status is checked;
+- at least one primary substantive statement is located where one exists;
+- strengths and constraints are evidenced;
+- Brazil overlap/friction is documented;
+- sources are listed.
+
