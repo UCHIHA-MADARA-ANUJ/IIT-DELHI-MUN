@@ -1,81 +1,55 @@
 # RESEARCH — Brazil DISEC LAWS | Master Research Hub
 
-This folder is the **research-only phase** of the Brazil preparation.
+This folder is now the **deep research phase** of the Brazil preparation.
 
 ## Current rule
 
-**Do NOT lock MOD topics, bloc composition, GSLs, POIs or a resolution yet.**
+**Do not lock MOD topics, bloc composition, GSLs, POIs or a resolution yet.**
 
-First we build an evidence-backed map of the agenda and the exact MUN country matrix. Lobbying will then tell us which issues naturally attract support; only after that do we convert the research into a bloc strategy and debate material.
+We are building the evidence base first. Live lobbying later will determine which issues actually converge in the room.
 
-## Files
+## Research files
 
-### 01 — `01_Brazil_Position_Brief.md`
-Existing Brazil country brief. Use it as the starting point, but cross-check important claims against primary UN/CCW/Brazilian sources before quoting.
+- `01_Brazil_Position_Brief.md` — existing Brazil brief; use with the 2026 audit.
+- `02_Core_Arguments_5_Spine.md` — existing research themes, not speeches.
+- `03_UN_LAWS_Record_2023_2026.md` — corrected UN voting record + current process.
+- `04_MUN_Country_Matrix_2026.md` — exact 86-country committee matrix.
+- `05_Source_Ledger_2026.md` — existing source ledger.
+- `06_LAWS_Topic_Master_Research.md` — deep agenda/legal/technical knowledge.
+- `07_Source_Quality_and_Verification.md` — evidence standards.
+- `08_Exact_86_Country_Research_Index.md` — exact matrix dossier map.
+- `09_Primary_Source_Library_2026.md` — preferred source shelf.
+- `BRAZIL - RESEARCH/14_Brazil_2026_Current_Status_Audit.md` — current Brazil evidence corrections.
 
-### 02 — `02_Core_Arguments_5_Spine.md`
-Existing Brazil argument spine. These are research themes, **not yet speeches or MODs**.
+## Country dossiers
 
-### 03 — `03_UN_LAWS_Record_2023_2026.md`
-Verified UNGA trajectory, 2023–2025 voting record, 2025 resolution substance, 2026 CCW process and sponsor information.
+`OTHER COUNTRIES RESEARCH/` contains country-by-country folders.
 
-### 04 — `04_MUN_Country_Matrix_2026.md`
-The **exact committee matrix** supplied for this MUN. First-pass 2025 vote classification + sponsor status + research fields to complete. This is the core file for building the eventual bloc map.
+Important:
+- Some folders are for countries **not** in the 86-country MUN matrix. Those are retained as research references.
+- Exact-matrix countries are identified in `08_Exact_86_Country_Research_Index.md`.
+- “Existing dossier” does not mean “research complete.” Older material is being normalized to the 2026 evidence standard.
 
-### 05 — `05_Source_Ledger_2026.md`
-Primary-source hierarchy and links. Use this to prevent weak/secondary claims from becoming "facts" in our preparation.
+## Required country fields
 
-## Research priorities
+Every matrix country will ultimately have:
+- official LAWS position;
+- 2023/2024/2025 UNGA votes;
+- sponsor history;
+- CCW/GGE participation;
+- 2026 status;
+- preferred legal form;
+- prohibitions/regulations;
+- human control;
+- Article 36/weapons review;
+- verification/lifecycle;
+- transfer/proliferation;
+- negotiating strengths;
+- documented constraints;
+- Brazil-specific overlap and unresolved questions;
+- source trail.
 
-### Phase A — Brazil
-- exact official Brazil statements
-- CCW/GGE interventions
-- 2021 Brazil-Chile-Mexico proposal
-- 2018 Austria-Brazil-Chile initiative
-- 2025/2026 Brazil statements and sponsorship
-- legal, diplomatic and technical vocabulary Brazil actually uses
+## Workflow
 
-### Phase B — Exact country matrix
-For every country in `04_MUN_Country_Matrix_2026.md`:
-1. 2023/2024/2025 UNGA votes
-2. 2025 sponsorship
-3. official national statements
-4. CCW GGE statements / working papers
-5. preferred legal form
-6. position on prohibition vs regulation
-7. position on meaningful human control / IHL / Article 36 / testing / verification / accountability
-8. areas of overlap with Brazil
-9. areas of friction with Brazil
+**Research → country comparison → live lobbying intelligence → bloc architecture → resolution strategy → GSL → MODs → POIs.**
 
-### Phase C — Agenda substance
-Research the actual policy questions before deciding how we will debate them:
-- definitions and scope of LAWS/AWS
-- human control and human judgment
-- distinction, proportionality and precautions
-- predictability, reliability, explainability and traceability
-- testing and evaluation
-- legal reviews / Article 36
-- accountability and responsibility
-- geographic, temporal and target constraints
-- command-and-control / chain of command
-- intervention and deactivation
-- verification and compliance
-- technology transfer / capacity-building
-- proliferation and arms-race concerns
-- CCW vs wider UN processes
-- legal form of a future instrument
-
-## Research discipline
-
-- **Vote ≠ complete policy position.**
-- **Sponsor ≠ identical ally.**
-- **A statement ≠ treaty commitment unless it actually says so.**
-- Attribute contested interpretations.
-- Prefer primary sources.
-- Record uncertainty instead of filling gaps with assumptions.
-
-## What comes later
-
-Only after the research + lobbying picture is complete:
-
-**Country map → bloc architecture → resolution strategy → GSL → MODs → POIs → execution.**
