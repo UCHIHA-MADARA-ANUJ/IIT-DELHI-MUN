@@ -59,7 +59,14 @@ The GGE mandate was to formulate elements of an instrument without prejudging it
 13_TREATY_ANALOGIES_AND_IMPLEMENTATION_MODELS — lessons from existing CCW/humanitarian regimes  
 14_REAL_SYSTEMS_CASE_STUDIES — technology examples with evidence discipline  
 15_REGULATORY_DESIGN_VARIABLES_MATRIX — component-by-component negotiating choices  
-16_DEEP_RESEARCH_CHECKLIST — completion standard before bloc design
+16_DEEP_RESEARCH_CHECKLIST — completion standard before bloc design  
+17_SCOPE_AND_DEFINITION_DEEP_DIVE — definition/scoping fault lines  
+18_PROHIBITIONS_DEEP_DIVE — prohibition thresholds and two-tier design  
+19_HUMAN_CONTROL_DEEP_DIVE — operationalizing human judgement/control  
+20_REGULATION_LIFECYCLE_VERIFICATION_DEEP_DIVE — implementation and assurance  
+21_LEGAL_FORM_AND_INSTITUTIONAL_DESIGN — treaty/forum choices  
+22_86_STATE_ISSUE_MATRIX — normalized agenda-component comparison of all 86 delegations  
+23_AGENDA_COMPLETION_AUDIT — readiness check before bloc construction
 
 ## Research discipline
 
