@@ -61,7 +61,7 @@ https://meetings.unoda.org/meeting/79329/documents
 
 ## 5. 2025 draft resolution sponsors
 
-Brazil was among the original sponsors of A/C.1/80/L.41. Other original sponsors included Austria, Belgium, Costa Rica, Cuba, Guatemala, Ireland, Kazakhstan, Kiribati, Liechtenstein, Malta, Mexico, New Zealand, Philippines, Republic of Moldova, San Marino, Sierra Leone, Sri Lanka, Switzerland, Tonga and Venezuela.
+Brazil was an original sponsor of A/C.1/80/L.41 together with Austria, Belgium, Costa Rica, Cuba, Guatemala, Ireland, Kazakhstan, Kiribati, Liechtenstein, Malta, Mexico, New Zealand, Philippines, Republic of Moldova, San Marino, Sierra Leone, Sri Lanka, Switzerland, Tonga and Venezuela.
 
 Additional sponsors included Armenia, Barbados, Cabo Verde, Colombia, Dominican Republic, Ecuador, Honduras, Trinidad and Tobago, Vanuatu and the State of Palestine.
 
