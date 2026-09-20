@@ -54,7 +54,12 @@ The GGE mandate was to formulate elements of an instrument without prejudging it
 08_NEGOTIATION_AND_STATE_POSITIONS — current multilateral process + State examples  
 09_2026_STATUS_AND_MUN_CONTEXT — what matters specifically on 26–27 September  
 10_SOURCE_LIBRARY — primary-source shelf  
-11_RESEARCH_GAPS — unresolved questions before bloc design
+11_RESEARCH_GAPS — unresolved questions before bloc design  
+12_2026_GGE_FINAL_REPORT_AUDIT — what the 2026 GGE actually produced and what it did not  
+13_TREATY_ANALOGIES_AND_IMPLEMENTATION_MODELS — lessons from existing CCW/humanitarian regimes  
+14_REAL_SYSTEMS_CASE_STUDIES — technology examples with evidence discipline  
+15_REGULATORY_DESIGN_VARIABLES_MATRIX — component-by-component negotiating choices  
+16_DEEP_RESEARCH_CHECKLIST — completion standard before bloc design
 
 ## Research discipline
 
