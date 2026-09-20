@@ -53,3 +53,10 @@ Every matrix country will ultimately have:
 
 **Research → country comparison → live lobbying intelligence → bloc architecture → resolution strategy → GSL → MODs → POIs.**
 
+
+
+## Agenda-first research
+
+The dedicated `AGENDA/` folder is the agenda-first deep-research dossier for the LAWS topic. It covers definitions, technology, IHL, human control, humanitarian and security concerns, lifecycle/accountability/verification, policy models, negotiation history, current 2026 status, State-position variables, and research gaps.
+
+Use `AGENDA/00_README.md` as the entry point. The agenda dossier is intentionally completed before bloc composition, GSLs, MODs, POIs or resolution drafting.
