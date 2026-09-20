@@ -165,3 +165,29 @@ Secondary:
 - Reaching Critical Will
 - academic and research-institute sources.
 
+
+
+## 11. September 2026 update — 47-state joint statement
+
+The 2025 42-state statement should be treated as an earlier procedural milestone, not the endpoint of Brazil's coalition-building.
+
+Monitoring of the final GGE session reports that Brazil delivered an updated joint statement supported by 47 States. The statement continued to characterize the GGE elements as sufficient to fulfil the mandate and as a basis for negotiations within the CCW.
+
+Within the 86-country MUN matrix, the reported endorsers are:
+Algeria, Bangladesh, Brazil, Chile, Denmark, Ecuador, France, Germany, Greece, Hungary, Ireland, Italy, Kazakhstan, Malta, Mexico, New Zealand, Nigeria, Norway, Pakistan, Peru, Portugal, Spain, Sweden, Switzerland and Thailand.
+
+This is a procedural convergence signal. It does not establish identical substantive preferences or a single treaty text.
+
+Source:
+https://automatedresearch.org/news/over-70-states-support-rolling-text-as-basis-for-negotiations/
+
+## 12. September 2026 negotiating environment
+
+The final GGE discussions show a potentially useful bridge between States that want stronger regulation and States that resist creating a new standalone human-control legal standard.
+
+The United States, Russia and Türkiye stressed that human judgment/control should be understood as part of implementation of existing IHL rather than as a new legal standard. Other delegations, including Brazil and Ireland, emphasized that human judgment must have practical effect and that technical/operational safeguards should not be merely optional. citeturn619225search4turn293634search1turn494221search6
+
+This supports a Brazilian strategy of separating:
+- the substantive objective: prevent unlawful or unacceptable autonomous use;
+- the legal characterization: whether a specific control concept is itself a new rule;
+- the implementation method: concrete operational, technical and lifecycle safeguards.
