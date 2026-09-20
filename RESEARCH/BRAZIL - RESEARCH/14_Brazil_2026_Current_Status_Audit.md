@@ -20,13 +20,13 @@ Official result: **152 YES / 4 NO / 11 abstentions**.
 The older repository material contained inconsistent figures such as 152-5-17. Do not use those.
 
 Primary:
-https://digitallibrary.un.org/record/4013284
+https://digitallibrary.un.org/record/4033027
 
 ### A/RES/79/62 — 2 December 2024
 Official result: **166 YES / 3 NO / 15 abstentions**.
 
 Primary:
-https://digitallibrary.un.org/record/4100626
+https://digitallibrary.un.org/record/4068497
 
 ### A/RES/80/57 — 1 December 2025
 Official result: **164 YES / 6 NO / 7 abstentions / 16 non-voting**.
