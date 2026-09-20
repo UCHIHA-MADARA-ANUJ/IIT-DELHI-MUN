@@ -71,3 +71,11 @@ The GGE mandate was to formulate elements of an instrument without prejudging it
 ## Research discipline
 
 Do not choose the bloc from regional stereotypes, old assumptions or simple UNGA vote totals. First compare the 86 committee States against the actual regulatory components identified here.
+
+
+## Pre-bloc convergence layer
+
+24_2026_47_STATE_JOINT_STATEMENT_AUDIT — September 2026 47-state negotiating signal  
+25_86_STATE_CONVERGENCE_CLUSTERS — issue-based convergence map  
+26_BRAZIL_NEGOTIATING_SPACE — documented Brazil core and compromise space  
+27_BLOC_DECISION_WORKSHEET — questions and criteria for the final bloc decision  
