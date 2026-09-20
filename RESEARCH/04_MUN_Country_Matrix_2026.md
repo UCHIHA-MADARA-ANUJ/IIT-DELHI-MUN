@@ -1,118 +1,117 @@
 # MUN COUNTRY MATRIX — BRAZIL / DISEC / LAWS
+> Exact matrix supplied by Anuj: **86 countries**. This is a factual research map, not a pre-decided bloc.
 
-**Purpose:** research workspace for the exact committee matrix supplied by Anuj. This is deliberately **not** a bloc ranking. It records a factual first-pass and leaves substantive alignment open until official statements are researched.
+## 2025 UNGA baseline
 
-## Legend
-- **YES / NO / ABSTAIN / NV** = UNGA A/RES/80/57 vote on 1 Dec 2025.
-- **Sponsor** = listed as sponsor of A/C.1/80/L.41 in 2025.
-- **TBD** = requires substantive-position research; do not infer from vote alone.
+Official record for A/RES/80/57 (1 December 2025): **164 YES / 6 NO / 7 abstentions / 16 non-voting**.
+Primary source: https://digitallibrary.un.org/record/4094456
 
-| Country | 2025 vote | 2025 sponsor? | Substantive position | Brazil compatibility | Lobby note |
-|---|---|---|---|---|---|
-| Afghanistan | YES | No | TBD | TBD | Research official/CCW statements |
-| Algeria | YES | No | TBD | TBD | Research |
-| Angola | YES | No | TBD | TBD | Research |
-| Argentina | ABSTAIN | No | TBD | TBD | Important abstention to investigate |
-| Armenia | YES | Yes | TBD | TBD | Sponsor; investigate why/what scope |
-| Australia | YES | No | TBD | TBD | Research |
-| Azerbaijan | NV | No | TBD | TBD | No 2025 vote; research CCW activity |
-| Bahrain | YES | No | TBD | TBD | Research |
-| Bangladesh | YES | No | TBD | TBD | Research |
-| Belarus | NO | No | TBD | TBD | Opposed 2025 resolution; research exact objections |
-| Botswana | YES | No | TBD | TBD | Research |
-| Brazil | YES | Yes | Brazil position | CORE | Portfolio |
-| Cambodia | YES | No | TBD | TBD | Research |
-| Canada | YES | No | TBD | TBD | Research |
-| Chile | YES | No | TBD | HIGH INTEREST | Historic Brazil partner; research current position |
-| China | ABSTAIN | No | TBD | TBD | Major abstention; research carefully |
-| Colombia | YES | Yes | TBD | HIGH INTEREST | Sponsor; cross-regional relevance |
-| Cuba | YES | Yes | TBD | HIGH INTEREST | Sponsor; research |
-| Czech Republic | YES | No | TBD | TBD | Research |
-| Denmark | YES | No | TBD | TBD | Research |
-| Ecuador | YES | Yes | TBD | HIGH INTEREST | Sponsor; research |
-| Egypt | YES | No | TBD | TBD | Important GGE participant; research |
-| Ethiopia | YES | No | TBD | TBD | Research |
-| France | YES | No | TBD | TBD | Major military/technology actor; research |
-| Germany | YES | No | TBD | TBD | Major EU actor; research |
-| Ghana | YES | No | TBD | TBD | Research |
-| Greece | YES | No | TBD | TBD | Research |
-| Hungary | YES | No | TBD | TBD | Research |
-| India | YES | No | TBD | TBD | Major strategic actor; research exact position |
-| Indonesia | YES | No | TBD | TBD | Research |
-| Iran | ABSTAIN | No | TBD | TBD | Major abstention; research |
-| Iraq | YES | No | TBD | TBD | Research |
-| Ireland | YES | Yes | TBD | HIGH INTEREST | Sponsor; research |
-| Israel | NO | No | TBD | TBD | Opposed 2025 resolution; research exact objections |
-| Italy | YES | No | TBD | TBD | Research |
-| Japan | YES | No | TBD | TBD | Major technology/security actor; research |
-| Jordan | YES | No | TBD | TBD | Research |
-| Kazakhstan | YES | Yes | TBD | HIGH INTEREST | Sponsor; research |
-| Kenya | YES | No | TBD | TBD | Research |
-| Kuwait | YES | No | TBD | TBD | Research |
-| Lebanon | YES | No | TBD | TBD | Research |
-| Libya | YES | No | TBD | TBD | Research |
-| Malaysia | YES | No | TBD | TBD | Research |
-| Malta | YES | Yes | TBD | HIGH INTEREST | Sponsor; research |
-| Mexico | YES | Yes | TBD | HIGH INTEREST | Historic Brazil partner; sponsor |
-| Micronesia | YES | No | TBD | TBD | Research |
-| Myanmar | YES | No | TBD | TBD | Research |
-| Nepal | YES | No | TBD | TBD | Research |
-| Netherlands | YES | No | TBD | TBD | Research |
-| New Zealand | YES | Yes | TBD | HIGH INTEREST | Sponsor; research |
-| Nigeria | YES | No | TBD | TBD | Major African actor; research |
-| North Korea | NO | No | TBD | TBD | Opposed 2025 resolution; research |
-| Norway | YES | No | TBD | TBD | Research |
-| Oman | YES | No | TBD | TBD | Research |
-| Pakistan | YES | No | TBD | TBD | Major strategic actor; research |
-| Peru | YES | No | TBD | TBD | Research |
-| Philippines | YES | Yes | TBD | HIGH INTEREST | Sponsor; research |
-| Poland | ABSTAIN | No | TBD | TBD | Major abstention; research |
-| Portugal | YES | No | TBD | TBD | Research |
-| Qatar | YES | No | TBD | TBD | Research |
-| Russia | NO | No | TBD | TBD | Opposed 2025 resolution; major actor |
-| Saudi Arabia | ABSTAIN | No | TBD | TBD | Major abstention; research |
-| Serbia | YES | No | TBD | TBD | Research |
-| Seychelles | YES | No | TBD | TBD | Research |
-| Singapore | YES | No | TBD | TBD | Technology/security actor; research |
-| South Africa | YES | No | TBD | HIGH INTEREST | Major African actor; research |
-| South Korea | YES | No | TBD | TBD | Technology/security actor; research |
-| Spain | YES | No | TBD | TBD | Research |
-| Sri Lanka | YES | Yes | TBD | HIGH INTEREST | Sponsor; research |
-| Sudan | YES | No | TBD | TBD | Research |
-| Sweden | YES | No | TBD | TBD | Research |
-| Switzerland | YES | Yes | TBD | HIGH INTEREST | Sponsor; major CCW actor |
-| Syria | NV | No | TBD | TBD | No 2025 vote; research CCW activity |
-| Tanzania | YES | No | TBD | TBD | Research |
-| Thailand | YES | No | TBD | TBD | Research |
-| Togo | YES | No | TBD | TBD | Research |
-| Trinidad & Tobago | YES | Yes | TBD | HIGH INTEREST | Sponsor; research |
-| Tunisia | YES | No | TBD | TBD | Research |
-| Turkey / Türkiye | ABSTAIN | No | TBD | TBD | Major abstention; research |
-| Ukraine | NV | No | TBD | TBD | No 2025 vote; research current position |
-| United Arab Emirates | YES | No | TBD | TBD | Research |
-| United Kingdom | YES | No | TBD | TBD | Major military/technology actor; research |
-| United States | NO | No | TBD | TBD | Opposed 2025 resolution; major actor |
-| Venezuela | NV | Yes | TBD | HIGH INTEREST | Sponsor but non-voting in 2025 |
-| Vietnam | YES | No | TBD | TBD | Research |
-| Yemen | YES | No | TBD | TBD | Research |
+“42-state” means participation in the Brazil-led September 2025 joint statement / November 2025 working-paper group represented in CCW materials. It is **not** the same thing as sponsorship of A/C.1/80/L.41.
 
-## 2025 vote source
+“Current position” below is a **research summary**. Where a country lacks a sufficiently specific current statement, it is marked for primary-source audit rather than guessed.
 
-Official UN Digital Library voting record: https://digitallibrary.un.org/record/4094456
+| Country | 2025 vote | 2025 sponsor | 42-state participant | Current verified position / status |
+|---|---|---:|---:|---|
+| Afghanistan | YES | NO | NO | No current independent LAWS position located in the present primary-source set; vote is verified. |
+| Algeria | YES | NO | NO | Supports a legally binding instrument; March 2026 statement described the rolling text as a solid basis for future negotiation. |
+| Angola | YES | NO | YES | Supports a legally binding instrument; position is mainly reflected through African Group/NAM alignment rather than an extensive national record. |
+| Argentina | ABSTAIN | NO | NO | Needs careful audit: 2025 abstention means its position cannot be inferred from the large pro-resolution majority. |
+| Armenia | YES | YES | NO | Supports negotiation of a legally binding instrument; 2025 co-sponsor. |
+| Australia | YES | NO | NO | Current position requires primary-source audit; participates actively in CCW and has historically emphasized caution/context and existing IHL. |
+| Azerbaijan | NV | NO | NO | Has not declared support for a legally binding instrument in the current monitored record; not a CCW State Party. |
+| Bahrain | YES | NO | NO | Has not independently declared support for a legally binding instrument; is a CCW State Party and aligns with NAM/Arab Group positions. |
+| Bangladesh | YES | NO | NO | Supports a legally binding instrument; CCW State Party and active in the process. |
+| Belarus | NO | NO | NO | Opposed A/RES/80/57; needs primary-source analysis of its objections. |
+| Botswana | YES | NO | NO | Supports a legally binding instrument; not a CCW State Party; African Group/NAM context is important. |
+| Brazil | YES | YES | YES | Supports a legally binding prohibitions-plus-regulations framework with meaningful human control; full audit in Brazil dossier. |
+| Cambodia | YES | YES | NO | Supports a legally binding instrument; ASEAN statement in 2025 called for a robust, future-proof, legally binding instrument. |
+| Canada | YES | NO | NO | Active CCW participant; official material emphasizes appropriate human involvement and IHL; legal-form position needs precise current audit. |
+| Chile | YES | NO | YES | Longstanding supporter of stronger international regulation and historic Brazil–Chile–Mexico cooperation; current 2026 legal-form position should be quoted from latest statements. |
+| China | ABSTAIN | NO | NO | Supports continued work and has discussed a legally binding framework when conditions are mature; narrow characterization and human-involvement approach require close study. |
+| Colombia | YES | YES | YES | Supports stronger international rules and was an original/early sponsor; 42-state participant. |
+| Cuba | YES | YES | NO | Active in GGE and among states supporting negotiation; detailed current 2026 position requires audit. |
+| Czech Republic | YES | NO | NO | Current legal-form position requires primary-source audit; active in joint CCW work. |
+| Denmark | YES | NO | YES | 42-state statement participant and active CCW contributor; current legal-form details need primary-source audit. |
+| Ecuador | YES | YES | YES | Supports stronger regulation and has sponsored relevant UN work; 42-state participant. |
+| Egypt | YES | NO | NO | 2026 GGE working paper supports lifecycle controls, human authorization/control, accountability and capacity-building; legal-form details should be read with the full paper. |
+| Ethiopia | YES | NO | NO | No sufficiently specific current independent position located; African Group context should be researched. |
+| France | YES | NO | YES | 42-state participant; supports a two-tier distinction between systems that cannot comply with IHL and regulated systems; supports an additional CCW protocol and technical expertise. |
+| Germany | YES | NO | YES | Supports a legally binding instrument; two-tier approach and human control; 42-state participant. |
+| Ghana | YES | NO | NO | Supports negotiation of a legally binding instrument; current 2026 statements emphasize strict limits. |
+| Greece | YES | NO | NO | Current legal-form position requires primary-source audit. |
+| Hungary | YES | NO | YES | 42-state participant; current national legal-form details need primary-source audit. |
+| India | YES | NO | NO | 2025 voted YES after abstaining in 2024; still emphasizes definitions, CCW centrality, human judgment/oversight and a gradual/political approach rather than a premature binding treaty. |
+| Indonesia | YES | NO | NO | Current legal-form position requires primary-source audit. |
+| Iran | ABSTAIN | NO | NO | Abstained in 2025; no binding-instrument conclusion should be inferred without its current statement. |
+| Iraq | YES | NO | NO | Current legal-form position requires primary-source audit. |
+| Ireland | YES | YES | YES | Strong supporter of negotiation and active GGE participant; 42-state participant and sponsor. |
+| Israel | NO | NO | NO | Voted NO in 2025; current official position emphasizes existing IHL and security/operational considerations; primary sources required for exact scope. |
+| Italy | YES | NO | YES | 42-state participant and active GGE contributor; supports movement toward negotiations in the 42-state context. |
+| Japan | YES | NO | NO | Supports CCW-based consensus work; rejects fully autonomous weapons in official policy language but has not committed to a new legally binding instrument on the same terms as Brazil. |
+| Jordan | YES | NO | NO | Current legal-form position requires primary-source audit. |
+| Kazakhstan | YES | YES | YES | 42-state participant and 2025 sponsor; supports stronger international rules; current legal-form nuances require primary-source audit. |
+| Kenya | YES | NO | NO | African Group context indicates support for negotiations; independent current statement needs audit. |
+| Kuwait | YES | NO | NO | Supports a legally binding instrument through current monitored position; CCW State Party and Arab Group/NAM member. |
+| Lebanon | YES | NO | NO | Current legal-form position requires primary-source audit. |
+| Libya | YES | NO | NO | Supports a legally binding instrument in current monitored position; not a CCW State Party; African Group/Arab Group/NAM context. |
+| Malaysia | YES | NO | NO | Current legal-form position requires primary-source audit. |
+| Malta | YES | YES | NO | Supports a legally binding instrument and co-sponsored 2025 resolution; active CCW engagement. |
+| Mexico | YES | YES | YES | Longstanding Brazil partner, 2025 sponsor, 42-state participant; supports stronger international regulation. |
+| Micronesia | YES | NO | NO | Supports a legally binding instrument despite not being a CCW State Party. |
+| Myanmar | YES | NO | NO | Supports a legally binding instrument in current monitored position; not a CCW State Party but has participated in GGE meetings. |
+| Nepal | YES | NO | NO | Supports a legally binding instrument; 2024 statement called for urgent regulation and meaningful human oversight; not a CCW State Party. |
+| Netherlands | YES | NO | NO | Central GGE role and rolling-text process; supports stronger regulation and a legally binding track; exact 2026 language should be audited. |
+| New Zealand | YES | YES | YES | Supports a legally binding approach; 2025 sponsor and longstanding advocate for ban/regulation. |
+| Nigeria | YES | NO | YES | Supports a legally binding instrument; 42-state participant; African Group leadership is highly relevant. |
+| North Korea | NO | NO | NO | Voted NO in 2025; needs primary-source analysis of objections and current diplomatic posture. |
+| Norway | YES | NO | YES | 42-state participant and active GGE contributor; supports movement toward negotiations. |
+| Oman | YES | NO | NO | No sufficiently specific current independent position located in the present source set. |
+| Pakistan | YES | NO | YES | Supports a legally binding instrument and has been a highly active GGE participant; 42-state participant. |
+| Peru | YES | NO | YES | 42-state participant; supports movement toward negotiations; current legal-form details need primary-source audit. |
+| Philippines | YES | YES | NO | 2025 sponsor; supports stronger international rules; current 2026 detailed position needs primary-source audit. |
+| Poland | ABSTAIN | NO | NO | Abstained in 2025; cannot be assumed to share the pro-resolution majority position. |
+| Portugal | YES | NO | YES | 42-state participant and active European supporter of movement toward negotiations. |
+| Qatar | YES | NO | NO | Current legal-form position requires primary-source audit. |
+| Russia | NO | NO | NO | Voted NO in 2025 and has argued that existing IHL and national measures can address the issue; needs careful primary-source treatment of its 2026 position. |
+| Saudi Arabia | ABSTAIN | NO | NO | Abstained in 2025; current legal-form position needs independent verification. |
+| Serbia | YES | NO | NO | No sufficiently specific current independent position located in the present source set. |
+| Seychelles | YES | NO | NO | Supports a legally binding instrument; African Group statement in March 2026 backed moving toward negotiations on the rolling text. |
+| Singapore | YES | NO | NO | Highly active technical/security participant; current monitored position requires careful audit of legal form. |
+| South Africa | YES | NO | NO | Supports stronger international rules and a legally binding approach; major African voice. |
+| South Korea | YES | NO | NO | Active GGE participant; does not currently support a new legally binding instrument on Brazil's terms and emphasizes caution/definitions/operational considerations. |
+| Spain | YES | NO | YES | 42-state participant; supports movement toward negotiations and a stronger rules framework. |
+| Sri Lanka | YES | YES | NO | Strong current supporter of a legally binding instrument; September 2026 official statement called for an explicit negotiating mandate and strict prohibitions. |
+| Sudan | YES | NO | NO | Supports a legally binding instrument in current monitored position; African Group/NAM context. |
+| Sweden | YES | NO | YES | 42-state participant; supports movement toward negotiations and stronger restrictions. |
+| Switzerland | YES | YES | YES | 42-state participant and major CCW actor; supports movement toward negotiations and 2025 sponsor. |
+| Syria | NV | NO | NO | No reliable current independent LAWS position established from the present record; 2025 was non-voting. |
+| Tanzania | YES | NO | NO | Supports a legally binding instrument in current monitored position; African Group/NAM context. |
+| Thailand | YES | NO | YES | 42-state participant; supports movement toward negotiations; current legal-form details need primary-source audit. |
+| Togo | YES | NO | NO | Supports a legally binding instrument; March 2026 African Group statement backed moving toward negotiations on the rolling text. |
+| Trinidad & Tobago | YES | YES | NO | Supports a legally binding instrument; CARICOM position supports negotiation; 2025 sponsor. |
+| Tunisia | YES | NO | NO | Supports a legally binding instrument; March 2026 African Group statement backed movement toward negotiations. |
+| Turkey | ABSTAIN | NO | NO | Abstained in 2025; current legal-form position requires careful primary-source audit. |
+| Ukraine | NV | NO | NO | No 2025 vote recorded; current position must be distinguished from general wartime/autonomy concerns. |
+| United Arab Emirates | YES | NO | NO | Current legal-form position requires primary-source audit. |
+| United Kingdom | YES | NO | NO | Supports existing IHL/legal-review approach and context-appropriate human involvement; does not currently support a new legally binding treaty on Brazil's terms. |
+| United States | NO | NO | NO | Opposed A/RES/80/57; maintains that existing IHL and national measures are sufficient and has resisted a new binding instrument. |
+| Venezuela | NV | YES | NO | 2025 sponsor but non-voting in the final record; current national position needs separate verification. |
+| Vietnam | YES | NO | NO | Current legal-form position requires primary-source audit. |
+| Yemen | YES | NO | NO | Has not independently declared support for a legally binding instrument; voted YES and aligns with NAM/Arab Group context. |
 
-The official result was **164 YES / 6 NO / 7 abstentions / 16 non-voting**.
+## What remains to be checked for every country
 
-## How we will complete this matrix
+1. 2023 and 2024 votes.
+2. Latest official national statement.
+3. CCW/GGE statements and working papers.
+4. Legal-form preference.
+5. Prohibitions versus regulations.
+6. Human-control formulation.
+7. Article 36/weapons-review position.
+8. Verification and lifecycle controls.
+9. Transfer/proliferation/capacity-building.
+10. Current September 2026 view of the Seventh Review Conference.
 
-For each country, research in this order:
+## Important caution
 
-1. **Official national statement / foreign ministry / UN statement** on LAWS.
-2. **CCW GGE statement or working paper** if available.
-3. **UNGA voting record** for 2023, 2024 and 2025.
-4. **Sponsorship** of LAWS-related resolutions/working papers.
-5. **Position on legal form:** binding instrument / political declaration / CCW protocol / other.
-6. **Position on substance:** prohibition, regulation, meaningful human control, IHL, Article 36/legal review, testing/verification, accountability, definitions.
-7. **Potential Brazil overlap and potential friction.**
-
-### Critical rule
-Do not turn this table into an "ally list" until the substantive research is complete. A YES vote means support for that resolution; it does **not** automatically mean support for every element of Brazil's eventual negotiating position.
+The matrix is deliberately conservative. A **YES** vote, sponsorship, regional-group membership, or 42-state participation is evidence of engagement, but none of these automatically proves full alignment with Brazil's eventual position.
