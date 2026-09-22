@@ -20,6 +20,25 @@ BRAZIL → AGENDA → LAW/TECH → COUNTRIES → BLOC → SOLUTION → SPEAKING 
 
 ---
 
+# PART 0 — FULL RESEARCH PASS
+
+Before each HAHA stage, go back through the relevant material in RESEARCH. The research folder remains the full source base; HAHA is the compressed committee-performance layer.
+
+We are not treating the command sheet as a substitute for reading the research. The workflow is:
+
+**RESEARCH → VERIFY → DISTIL → PRACTICE → UPDATE**
+
+The full research pass covers:
+- RESEARCH root files
+- RESEARCH/AGENDA 00–34
+- RESEARCH/BRAZIL - RESEARCH
+- RESEARCH/OTHER COUNTRIES RESEARCH and its exhaustive country dossiers
+- primary-source library / source ledger
+
+Use the most relevant research first for each stage, then return to the wider library when a gap, contradiction, or new committee question appears.
+
+---
+
 # PART I — THE FIRST 10-HOUR SPRINT
 
 ## 01 — BRAZIL COMMAND SHEET
