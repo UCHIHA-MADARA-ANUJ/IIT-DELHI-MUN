@@ -79,3 +79,13 @@ Do not choose the bloc from regional stereotypes, old assumptions or simple UNGA
 25_86_STATE_CONVERGENCE_CLUSTERS — issue-based convergence map  
 26_BRAZIL_NEGOTIATING_SPACE — documented Brazil core and compromise space  
 27_BLOC_DECISION_WORKSHEET — questions and criteria for the final bloc decision  
+
+## Background-guide-aligned research extension
+
+28_BG_GUIDED_RESEARCH_GAPS — exact research questions raised by the IITD DISEC guide  
+29_UNGA_VS_CCW_INSTITUTIONAL_PATH — what DISEC/UNGA can realistically do vs the CCW  
+30_ORIGINAL_REGULATORY_ARCHITECTURE_OPTIONS — original mechanisms beyond "ban vs regulate"  
+31_ADAPTIVE_AI_ARTICLE_36_AND_ASSURANCE — continuing review for adaptive/self-learning systems  
+32_AI_DSS_AUTOMATION_BIAS_AND_HUMAN_AGENCY — AI decision-support boundary and functional human control  
+33_PROLIFERATION_ESCALATION_AND_NONSTATE_RISKS — swarms, flash-war, cyber, transfers and non-State actors  
+34_CASE_STUDY_EVIDENCE_AUDIT — evidence discipline for Libya, Nagorno-Karabakh, Israel and defensive systems  
