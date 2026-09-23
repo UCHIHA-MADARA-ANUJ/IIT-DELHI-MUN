@@ -668,3 +668,2019 @@ The goal is not to memorize a script word-for-word.
 The goal is to know the architecture well enough that the Chair can give Brazil almost any reasonable LAWS subtopic and Brazil can answer for 20–60 seconds with:
 
 **a clear argument + one concrete mechanism + one implementation point + a Brazil-consistent conclusion.**
+
+
+---
+
+# GSL RESEARCH BANK — COMPLETE SOURCE-TO-SPEECH PREP
+
+> **Purpose:** This section is the research layer underneath the GSL and MOD bank.
+>
+> Do not memorize all of it.
+>
+> Use it to answer:
+>
+> **What do I need to know before I make a claim in a speech?**
+>
+> Every research item is marked by type:
+>
+> - **FACT** = directly documented in a primary or authoritative source.
+> - **STATE POSITION** = a country's stated position.
+> - **ANALYSIS** = interpretation of the evidence.
+> - **BRAZIL PROPOSAL** = our MUN policy design.
+> - **SPEECH USE** = how to turn it into a line.
+
+---
+
+# 54. THE MOST IMPORTANT GSL RESEARCH RULE
+
+A strong GSL does not need the most facts.
+
+It needs the **right facts**.
+
+For almost every sentence, know which of these it is:
+
+### FACT
+
+> “The 2025 UNGA resolution was adopted 164–6–7.”
+
+### STATE POSITION
+
+> “Brazil supports moving toward negotiations on an instrument.”
+
+### LEGAL RULE
+
+> “IHL applies to the conduct of hostilities.”
+
+### ANALYSIS
+
+> “Autonomous systems create an assurance problem because the system may operate differently after material change.”
+
+### PROPOSAL
+
+> “Brazil proposes a material-change reassessment mechanism.”
+
+Do not mix these categories.
+
+---
+
+# 55. THE GSL RESEARCH PRIORITY ORDER
+
+Before committee, research in this order:
+
+## PRIORITY 1
+
+**Current 2026 GGE**
+
+Know what States have actually been negotiating this year.
+
+## PRIORITY 2
+
+**Brazil's position**
+
+Know exactly what Brazil supports and what Brazil can defend.
+
+## PRIORITY 3
+
+**IHL baseline**
+
+Know what already applies.
+
+## PRIORITY 4
+
+**The concrete LAWS problems**
+
+Know why additional mechanisms are needed.
+
+## PRIORITY 5
+
+**Brazil's mechanisms**
+
+Know how the solution works.
+
+## PRIORITY 6
+
+**State convergence and disagreement**
+
+Know where Brazil can build coalitions.
+
+## PRIORITY 7
+
+**Evidence / examples**
+
+Have a few careful examples, not twenty controversial ones.
+
+---
+
+# 56. CURRENT 2026 GGE — THE SINGLE MOST IMPORTANT UPDATE
+
+The 2026 GGE met in two sessions:
+
+- **2–6 March 2026**
+- **31 August–4 September 2026**
+
+Its mandate was to formulate, by consensus, elements of an instrument **without prejudging its legal nature**, plus other measures concerning emerging technologies in LAWS. The 2026 Chair's summary records detailed work on the rolling text, and the September session was the final GGE session under this mandate. [FACT]
+
+Primary sources:
+
+- UNODA GGE 2026 page:
+  https://meetings.unoda.org/meeting/79329
+- 2026 Chair's summary:
+  https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-Group_of_Governmental_Experts_on_Lethal_Autonomous_Weapons_Systems_(2026)/CCW-GGE.1-2026-WP.2.pdf
+- 4 September 2026 GGE transcript:
+  https://transcripts.un.org/asset/k1q/k1qd0j39sx
+
+### SPEECH USE
+
+This gives Brazil a very strong current-context line:
+
+> **“The international debate is no longer starting from zero; States have spent 2026 working through concrete elements of an instrument.”**
+
+Do not say:
+
+> “The GGE agreed on a treaty.”
+
+It did not.
+
+---
+
+# 57. WHAT “WITHOUT PREJUDGING ITS NATURE” MEANS
+
+The GGE mandate explicitly kept the legal form open.
+
+That means:
+
+- the elements can be developed;
+- the substance can be negotiated;
+- States can work toward an instrument;
+- the final legal form was not predetermined by the GGE mandate. [FACT]
+
+### SPEECH USE
+
+For Brazil:
+
+> “Brazil supports using the GGE's substantive work as the basis for structured negotiations, while recognizing that the legal nature of the future instrument remains a matter for States to decide.”
+
+For a more treaty-focused room:
+
+> “Brazil supports a legally binding destination, but we do not need to pretend the GGE has already created one.”
+
+This distinction protects you from easy POIs.
+
+---
+
+# 58. CURRENT GGE — SCOPE / CHARACTERIZATION
+
+The March 2026 Chair's summary recorded a working characterization of LAWS as a functionally integrated combination of weapons and technological components able to **identify, select and engage** a target without human intervention in the execution of those tasks. The summary also recorded debate over the role of prior human programming, possible inclusion/exclusion of systems, and concerns about loopholes involving minimal human involvement. [FACT / NEGOTIATING TEXT]
+
+### Important debates
+
+States discussed:
+
+- whether “identify” should be included;
+- whether adding “identify” could narrow scope;
+- whether fire-and-forget or homing systems could accidentally be included;
+- whether minimal human validation should count as “selection”;
+- whether timing and spatial separation between programming and execution matters. [FACT]
+
+### SPEECH USE
+
+> “Brazil supports a functional approach to scope because the relevant question is what autonomous functions a system performs, not what label its manufacturer gives it.”
+
+---
+
+# 59. CURRENT GGE — WHY THE TARGETING CHAIN MATTERS
+
+A useful conceptual chain is:
+
+**DETECT**
+
+→ **IDENTIFY**
+
+→ **CLASSIFY**
+
+→ **SELECT**
+
+→ **ENGAGE**
+
+→ **REASSESS**
+
+The GGE debate shows that the boundaries between these functions matter.
+
+### Why this helps Brazil
+
+It lets you distinguish:
+
+- navigation autonomy;
+- intelligence support;
+- AI decision support;
+- target identification;
+- target selection;
+- autonomous engagement.
+
+### SPEECH USE
+
+> “The committee should regulate the autonomous functions that materially affect the use of force, not simply regulate every military AI system.”
+
+---
+
+# 60. CURRENT GGE — IHL BASELINE
+
+The March 2026 Chair's summary records broad support for language stating that:
+
+- the choice of methods or means of warfare is not unlimited;
+- IHL governs the use of weapons, means and methods of warfare regardless of technology;
+- IHL obligations apply to States and individuals, not machines;
+- IHL applies to the development and use of LAWS;
+- Martens Clause language remains relevant to the discussion. [FACT / NEGOTIATING TEXT]
+
+### Why this matters
+
+Brazil should **not** argue that LAWS exist outside IHL.
+
+A stronger argument is:
+
+> **“IHL remains the legal foundation; the committee must make compliance operational in the context of autonomous functions.”**
+
+This is one of your safest legal formulations.
+
+---
+
+# 61. THE FOUR IHL PRINCIPLES YOU NEED FOR GSL
+
+## 1 — DISTINCTION
+
+Parties must distinguish between civilians/civilian objects and combatants/military objectives as required by IHL.
+
+### GSL use
+
+Autonomy raises the question of whether the system can reliably distinguish relevant targets under the actual conditions of use.
+
+---
+
+## 2 — PROPORTIONALITY
+
+Expected incidental civilian harm cannot be excessive in relation to the anticipated concrete and direct military advantage.
+
+### GSL use
+
+Autonomous systems may face difficulty with context-dependent assessments.
+
+Do not say:
+
+> “AI cannot do proportionality.”
+
+Say:
+
+> “The committee must ensure that any use of autonomy can comply with the applicable proportionality requirements in the circumstances of use.”
+
+---
+
+## 3 — PRECAUTIONS IN ATTACK
+
+Feasible precautions must be taken to reduce civilian harm.
+
+### GSL use
+
+This connects directly to:
+
+- target restrictions;
+- geographic limits;
+- duration;
+- expected effects;
+- human reassessment.
+
+---
+
+## 4 — UNNECESSARY SUFFERING / SUPERFLUOUS INJURY
+
+IHL also places restrictions relating to unnecessary suffering or superfluous injury.
+
+### GSL use
+
+Useful when discussing the prohibition tier.
+
+---
+
+# 62. ARTICLE 36 — THE EXACT LEGAL POINT
+
+Article 36 of Additional Protocol I requires States Parties, when studying, developing, acquiring or adopting a new weapon, means or method of warfare, to determine whether its employment would, in some or all circumstances, be prohibited by applicable international law. [LEGAL FACT]
+
+### Critical caveat
+
+Article 36 is **not a universal treaty obligation for every UN Member State**.
+
+It applies to States Parties to Additional Protocol I.
+
+### Brazil-safe language
+
+> “For States to which Article 36 applies, weapons review remains an important legal-review obligation; internationally, Brazil supports strengthening equivalent review practices for autonomous systems.”
+
+### Do not say
+
+> “International law requires every State to conduct an Article 36 review.”
+
+That is too broad.
+
+---
+
+# 63. ARTICLE 36 — WHY IT MATTERS FOR AUTONOMY
+
+The basic problem is not simply:
+
+> “Did the State review the weapon?”
+
+The deeper question is:
+
+> **“Did the State understand the relevant capabilities, limitations and likely effects well enough to conduct a meaningful legal review?”**
+
+This is especially important for systems involving:
+
+- machine learning;
+- complex sensor fusion;
+- adaptive behavior;
+- large operational envelopes;
+- software updates.
+
+### SPEECH USE
+
+> “Brazil supports continuing legal and technical assurance because an autonomous system can materially change after the original review.”
+
+---
+
+# 64. HUMAN JUDGEMENT AND CONTROL — THE CORRECT LEGAL STATUS
+
+“Meaningful human control” or “context-appropriate human judgement and control” is **not** a universally codified standalone treaty term.
+
+The 2026 GGE discussion treated context-appropriate human judgement and control as a LAWS-specific notion connected to ensuring compliance, rather than simply presenting that exact phrase as an existing IHL obligation. [FACT]
+
+### This distinction is critical.
+
+Say:
+
+> “Brazil supports effective human judgement and control as a condition for ensuring lawful use.”
+
+Do not say:
+
+> “Meaningful human control is already universally required by treaty law.”
+
+---
+
+# 65. HUMAN CONTROL — WHAT MAKES IT REAL
+
+A human control framework should examine:
+
+- information;
+- time;
+- authority;
+- understanding;
+- ability to constrain;
+- intervention;
+- reassessment;
+- accountability.
+
+### Strong GSL line
+
+> “The presence of a human is not the same as the presence of meaningful judgement.”
+
+---
+
+# 66. DIRECT VS INDIRECT CONTROL
+
+### DIRECT
+
+A human approves specific actions.
+
+Useful where:
+
+- time permits;
+- communication is stable;
+- the system's operating tempo allows intervention.
+
+### INDIRECT / CONTEXTUAL
+
+A human establishes:
+
+- target categories;
+- geography;
+- duration;
+- scale;
+- environmental limits;
+- mission parameters;
+- supervision arrangements.
+
+This can be important in highly time-sensitive environments.
+
+### Brazil's safest argument
+
+> “The form of control may depend on context, but its practical effect cannot become purely nominal.”
+
+---
+
+# 67. PREDICTABILITY ≠ ACCURACY
+
+This is a powerful technical distinction.
+
+A system may be highly accurate in average conditions and still be difficult to predict outside those conditions.
+
+### ACCURACY
+
+How often does the system get an individual task correct?
+
+### PREDICTABILITY
+
+Can responsible users reasonably anticipate the system's behavior in the conditions in which it is being used?
+
+### GSL USE
+
+> “Accuracy alone is not the same as predictable and bounded behavior.”
+
+This is a better argument than simply saying:
+
+> “AI makes mistakes.”
+
+---
+
+# 68. RELIABILITY ≠ PREDICTABILITY
+
+### Reliability
+
+How consistently does the system perform according to a specified standard?
+
+### Predictability
+
+How well can users anticipate its behavior across relevant conditions?
+
+A system can be reliable within a narrow environment but unreliable outside it.
+
+### Mechanism connection
+
+This is exactly why Brazil's:
+
+**Operating Envelope + Testing + Material-Change Review**
+
+fit together.
+
+---
+
+# 69. EXPLAINABILITY
+
+Do not claim:
+
+> “Every algorithm must be fully explainable.”
+
+That is too broad.
+
+The more useful question is:
+
+> What information must the responsible human have to understand the system's relevant capabilities, limitations and uncertainty well enough to exercise judgement?
+
+This can include:
+
+- system limitations;
+- confidence/uncertainty information;
+- known failure modes;
+- operating assumptions;
+- test evidence.
+
+---
+
+# 70. BLACK-BOX PROBLEM
+
+The concern is not simply that the code is secret.
+
+It is that a responsible authority may not be able to establish:
+
+- what the system can do;
+- when it fails;
+- under what conditions it becomes unreliable;
+- whether changes alter critical behavior.
+
+### SPEECH USE
+
+> “A black box is not automatically unlawful, but a State must still be able to demonstrate enough understanding and assurance to justify its use.”
+
+---
+
+# 71. ADAPTIVE AI — WHY LIFECYCLE REVIEW MATTERS
+
+The ICRC's 2026 analysis emphasizes that legal review requires understanding the capabilities and limitations of an autonomous weapon and that new review may be needed after modifications affecting functions or effects. The repository's research identifies machine-learning updates, new sensor fusion and altered target classification as possible triggers. [SOURCE-BASED ANALYSIS]
+
+### GSL line
+
+> “The problem with adaptive autonomy is not that software learns; it is that learning can change the assumptions on which the original assurance was built.”
+
+---
+
+# 72. MATERIAL CHANGE — THE CORE TECHNICAL IDEA
+
+Not every software patch should trigger a full international review.
+
+A useful distinction:
+
+### LOW
+
+No effect on critical functions.
+
+### MEDIUM
+
+Possible effect requiring targeted regression testing.
+
+### HIGH
+
+May alter:
+
+- target selection;
+- engagement logic;
+- autonomy mode;
+- target categories;
+- geographic/time scope;
+- expected effects.
+
+### Brazil proposal
+
+High materiality:
+
+**REVIEW → TEST → REAUTHORIZE**
+
+---
+
+# 73. AUTOMATION BIAS
+
+A human can retain formal authority while functionally becoming dependent on the machine.
+
+Risk factors:
+
+- confident-looking outputs;
+- insufficient uncertainty information;
+- extreme workload;
+- very short reaction times;
+- institutional incentives against overrides;
+- poor interface design;
+- inadequate training.
+
+### GSL line
+
+> “Human control is weakened when the human has authority on paper but cannot realistically question the machine.”
+
+---
+
+# 74. COMMUNICATIONS LOSS
+
+Critical autonomous systems may experience:
+
+- communications failure;
+- jamming;
+- cyber interference;
+- degraded sensors.
+
+A robust framework therefore needs a predefined and tested response.
+
+Possible responses:
+
+- abort;
+- deactivation;
+- restricted mode;
+- safe return;
+- handover;
+- controlled loiter.
+
+### Key rule
+
+> **Communications loss should not silently expand the system's authorized autonomy.**
+
+This is a **BRAZIL PROPOSAL**, not an existing universal treaty rule.
+
+---
+
+# 75. CYBER AND ADVERSARIAL INPUTS
+
+Autonomy depends on:
+
+- data;
+- sensors;
+- communications;
+- software;
+- models.
+
+Therefore tests should consider:
+
+- spoofing;
+- jamming;
+- sensor manipulation;
+- adversarial inputs;
+- cyber intrusion;
+- conflicting sensor data;
+- degraded communications.
+
+### SPEECH USE
+
+> “If a system is only safe under ideal conditions, the committee has not yet tested the conditions that matter most.”
+
+---
+
+# 76. SWARMS — THE SYSTEM-OF-SYSTEMS PROBLEM
+
+A single autonomous unit may be bounded while many interacting units create different risks.
+
+Questions:
+
+- Can target sets expand?
+- Can engagement scale grow?
+- What happens when communications fail?
+- Can failures propagate?
+- Can human operators understand aggregate effects?
+- Are geographic boundaries still meaningful?
+
+### Brazil proposal
+
+Use:
+
+- scale limits;
+- target-set restrictions;
+- geographic containment;
+- system-level testing;
+- system-wide logs;
+- authorization before major target-set expansion.
+
+---
+
+# 77. DEFENSIVE SYSTEMS — THE CORRECT ARGUMENT
+
+Do not say:
+
+> “Defensive systems are automatically safe.”
+
+Also do not say:
+
+> “All defensive autonomy should be banned.”
+
+The useful position is:
+
+> “Defensive context matters, particularly where response times are extremely short, but safeguards should still address predictability, bounded effects, human responsibility and failure behavior.”
+
+### Why this is diplomatically useful
+
+It allows Brazil to work with technically minded States without abandoning regulation.
+
+---
+
+# 78. AI DECISION SUPPORT ≠ LAWS
+
+Keep this distinction clean.
+
+### AI DECISION SUPPORT
+
+The system assists with:
+
+- analysis;
+- recommendations;
+- prioritization;
+- information processing.
+
+### AUTONOMOUS WEAPON FUNCTION
+
+The system performs relevant weapon functions with reduced or absent further human intervention.
+
+A sophisticated AI recommendation system does not automatically become a LAWS.
+
+### But
+
+High-risk decision support may still raise:
+
+- automation bias;
+- accountability;
+- target-verification;
+- human-judgement concerns.
+
+---
+
+# 79. VERIFICATION — WHY “SOURCE CODE DISCLOSURE” IS THE WRONG DEFAULT
+
+A State may reasonably resist public disclosure of:
+
+- source code;
+- vulnerabilities;
+- military doctrine;
+- sensitive deployment details.
+
+Therefore verification can focus on:
+
+- procedures;
+- evidence;
+- test methodologies;
+- version records;
+- operating limits;
+- incident records;
+- protected expert review.
+
+### SPEECH LINE
+
+> “Verification should reveal whether the safeguard exists, not unnecessarily reveal every secret behind the system.”
+
+---
+
+# 80. THE VERIFICATION LADDER
+
+### LEVEL 1
+National legal review and authorization.
+
+### LEVEL 2
+General reporting.
+
+### LEVEL 3
+Expert exchange and peer learning.
+
+### LEVEL 4
+Serious-incident reporting.
+
+### LEVEL 5
+Protected technical review.
+
+### LEVEL 6
+Narrower inspection arrangements where agreed and feasible.
+
+This is a **BRAZIL/AAWG PROPOSAL**.
+
+Do not present it as an existing LAWS treaty mechanism.
+
+---
+
+# 81. ACCOUNTABILITY — WHY TRACEABILITY MATTERS
+
+If an autonomous system causes an unexpected outcome, a State should be able to reconstruct:
+
+- who authorized the use;
+- what system/version was active;
+- what target category was authorized;
+- what geographic/time limits applied;
+- what warnings occurred;
+- what intervention occurred;
+- what material changes had occurred.
+
+### Strong line
+
+> “Accountability requires evidence, not simply responsibility written on paper.”
+
+---
+
+# 82. INCIDENT → REVIEW LOOP
+
+Brazil's proposed governance chain:
+
+**INCIDENT**
+
+↓
+
+**PRESERVE EVIDENCE**
+
+↓
+
+**INVESTIGATE**
+
+↓
+
+**IDENTIFY ROOT CAUSE**
+
+↓
+
+**CORRECT SYSTEM / TRAINING / DOCTRINE**
+
+↓
+
+**RETEST**
+
+↓
+
+**REVIEW**
+
+↓
+
+**REAUTHORIZE OR RESTRICT**
+
+This is stronger than reporting an incident and doing nothing afterward.
+
+---
+
+# 83. PROCUREMENT — A USEFUL NEW GSL ANGLE
+
+SIPRI's 2026 research identifies procurement as a practical mechanism through which States can implement responsible military-AI commitments and recommends adapting procurement processes and articulating clear expectations for suppliers. [SOURCE-BASED FACT / ANALYSIS]
+
+### Brazil proposal
+
+Before acquiring a covered system, require evidence of:
+
+- legal-review support;
+- testing;
+- documented limitations;
+- cybersecurity;
+- update/change procedures;
+- training;
+- supplier cooperation;
+- incident support.
+
+### Speech line
+
+> “Governance should begin before deployment — and procurement is one of the places where rules become real.”
+
+Primary source:
+https://www.sipri.org/publications/2026/other-publications/responsible-procurement-military-artificial-intelligence
+
+---
+
+# 84. CAPACITY-BUILDING — WHY IT BELONGS IN THE GSL
+
+A technically demanding framework can create an implementation gap.
+
+Potential support:
+
+- legal-review training;
+- testing facilities;
+- cybersecurity expertise;
+- operator training;
+- regional expert exchanges;
+- procurement assistance;
+- technical assurance centres.
+
+### Brazil proposal
+
+Regional or multinational assurance hubs.
+
+### Speech line
+
+> “Universal obligations require realistic pathways to implementation.”
+
+---
+
+# 85. BRAZIL'S 2025 TECHNICAL PAPER — WHAT IT GIVES YOU
+
+Brazil submitted **CCW/GGE.1/2025/WP.2** on the possible use of IEEE 7007 as a building block for confidence-building and the development and use of autonomous weapons systems. The paper identifies the technical side of LAWS governance as involving control, limits on targets, duration, geographic scope and scale of operations, and questions of whether employment is prohibited by international law. [FACT]
+
+This is useful because it shows Brazil does not approach the issue only as a political or ethical debate.
+
+### SPEECH USE
+
+> “Brazil has consistently argued that legal and ethical governance should be supported by a solid technical basis.”
+
+### Important caveat
+
+IEEE 7007 is a **possible technical reference**, not a universally adopted LAWS treaty standard.
+
+Source:
+https://documents.un.org/doc/undoc/gen/g25/068/02/pdf/g2506802.pdf
+
+---
+
+# 86. BRAZIL'S CURRENT NEGOTIATING POSITION — WHAT TO KNOW
+
+Repository research and 2026 monitoring support the following Brazil position:
+
+### Brazil supports
+
+- a legally binding international instrument as the intended destination;
+- prohibition of specified unacceptable autonomous systems/uses;
+- strict regulation of remaining systems;
+- effective/context-appropriate human judgement and control;
+- continuing responsibility and accountability;
+- legal review;
+- testing;
+- lifecycle safeguards;
+- international cooperation and capacity-building;
+- use of the GGE elements/rolling text as a practical negotiating foundation.
+
+### GSL use
+
+Do not dump all of these into one speech.
+
+Choose 2–3 according to the topic.
+
+---
+
+# 87. BRAZIL AND THE 2026 NEGOTIATING BASIS
+
+Current 2026 monitoring reports that Brazil delivered an updated joint statement at the final GGE session, supported by 47 States, continuing to describe the elements under discussion as a sufficient basis for negotiations within the CCW. This is a **procedural convergence signal**, not proof that all 47 States share identical substantive positions or legal-form preferences. [CURRENT SECONDARY MONITORING]
+
+Source:
+https://automatedresearch.org/news/over-70-states-support-rolling-text-as-basis-for-negotiations/
+
+### Safer GSL line
+
+> “Brazil has joined cross-regional efforts to use the GGE's substantive work as a basis for negotiations.”
+
+### Stronger but still careful
+
+> “A cross-regional group of States has publicly supported using the GGE elements as a basis for further negotiations.”
+
+Do not say:
+
+> “47 States support Brazil's treaty text.”
+
+---
+
+# 88. UNGA 2025 — THE NUMBER TO KNOW
+
+A/RES/80/57, **Lethal autonomous weapons systems**, was adopted on **1 December 2025** by:
+
+**164 YES — 6 NO — 7 ABSTENTIONS**
+
+with 16 non-voting members recorded in the detailed vote. [FACT]
+
+Primary source:
+https://digitallibrary.un.org/record/4094456
+
+### Brazil
+
+Brazil voted **YES**.
+
+### SPEECH USE
+
+> “The General Assembly's 2025 LAWS resolution was adopted 164 to 6, reflecting broad political engagement with the issue.”
+
+### DO NOT SAY
+
+> “164 States support Brazil's treaty.”
+
+The vote was on the resolution, not on every Brazilian policy clause.
+
+---
+
+# 89. UNGA 2024 — THE PREVIOUS NUMBER
+
+A/RES/79/62, adopted 2 December 2024:
+
+**166 YES — 3 NO — 15 ABSTENTIONS**
+
+[FACT]
+
+Source:
+https://digitallibrary.un.org/record/4068497
+
+### Why useful?
+
+It shows that broad General Assembly engagement was already present before the 2025 vote.
+
+Do not overuse the number.
+
+One vote statistic is enough for most GSLs.
+
+---
+
+# 90. UNGA 2023 — THE THREE-YEAR TREND
+
+A/RES/78/241, adopted 22 December 2023:
+
+**152 YES — 4 NO — 11 ABSTENTIONS**
+
+[FACT]
+
+Source:
+https://digitallibrary.un.org/record/4033027/
+
+### Useful interpretation
+
+The vote totals increased from:
+
+**152 YES → 166 YES → 164 YES**
+
+across 2023, 2024 and 2025 respectively.
+
+### But
+
+This is evidence of broad and sustained international engagement, **not** evidence that every State agrees on a binding instrument or identical regulation.
+
+---
+
+# 91. THE 2023–2025 VOTE TREND — BEST GSL USE
+
+A polished line:
+
+> “Three successive General Assembly resolutions have attracted large majorities on LAWS, while the CCW process has continued to work through the substantive details.”
+
+This combines:
+
+- political attention;
+- technical negotiation.
+
+That is stronger than merely reciting a number.
+
+---
+
+# 92. CURRENT SEPTEMBER 2026 NEGOTIATING MOMENT
+
+The 2026 GGE's second session ran from **31 August to 4 September 2026**, and the CCW Preparatory Committee for the Seventh Review Conference met **7–9 September 2026**. The Seventh Review Conference is scheduled for **16–20 November 2026**. [FACT]
+
+Sources:
+
+- GGE:
+  https://meetings.unoda.org/meeting/79329
+- EU PrepCom statement:
+  https://www.eeas.europa.eu/delegations/un-geneva/convention-certain-conventional-weapons-ccw-eu-statement-preparatory-committee-seventh-review_en
+
+### Why this matters for your MUN speech
+
+Your committee is discussing the issue during a real-world diplomatic moment in which the next institutional step is already being actively debated.
+
+### Strong line
+
+> “The committee should build on the negotiating work States have already done rather than restart the debate from zero.”
+
+---
+
+# 93. ICRC 2026 — WHY IT MATTERS
+
+The ICRC's 2026 position paper explains how IHL applies to autonomous weapon systems, highlights legal and humanitarian challenges, and contributes to discussions on new legally binding rules. [FACT]
+
+Source:
+https://www.icrc.org/en/article/autonomous-weapon-systems-and-international-humanitarian-law-selected-issues
+
+### GSL use
+
+The ICRC is especially useful for:
+
+- IHL;
+- human control;
+- unpredictability;
+- legal review;
+- civilian protection;
+- need for specific rules.
+
+### Important
+
+The ICRC is not a State.
+
+Do not say:
+
+> “International law says what the ICRC says.”
+
+Say:
+
+> “The ICRC argues…”
+
+when reporting its position.
+
+---
+
+# 94. ICRC — THE SAFE WAY TO USE ITS AUTHORITY
+
+### Safe
+
+> “The ICRC has emphasized…”
+
+### Safe
+
+> “The ICRC's 2026 position paper argues…”
+
+### Unsafe
+
+> “The ICRC proves that…”
+
+### Reason
+
+An ICRC position is highly relevant but is not itself a treaty rule.
+
+---
+
+# 95. CURRENT EU POSITION — USEFUL BRIDGE EVIDENCE
+
+At the September 2026 Preparatory Committee for the Seventh CCW Review Conference, the EU statement reaffirmed the CCW's role as an IHL instrument and called for an ambitious substantive outcome and a solid plan for future work. [STATE POSITION]
+
+Source:
+https://www.eeas.europa.eu/delegations/un-geneva/convention-certain-conventional-weapons-ccw-eu-statement-preparatory-committee-seventh-review_en
+
+### GSL use
+
+> “There is broad recognition that the CCW remains the central specialist forum for this work.”
+
+Do not turn the EU statement into identical support by every individual EU member for every clause.
+
+---
+
+# 96. THE 2026 GGE’S OPERATIONAL ELEMENTS — WHAT TO REMEMBER
+
+The March 2026 Chair's summary recorded discussion of provisions concerning:
+
+- IHL-compliant use;
+- prohibition of systems incapable of IHL-compliant use;
+- effects that cannot be adequately anticipated and limited;
+- attacks against civilians/civilian objects;
+- responsible chain of command and control;
+- target, duration, geographic and engagement-scale limits;
+- constraints on autonomous modification of critical mission parameters;
+- timely deactivation or similar mechanisms;
+- defined operating perimeters;
+- restrictions tied to military objectives. [NEGOTIATING TEXT / CHAIR'S SUMMARY]
+
+These were **elements under negotiation**, not already-adopted treaty obligations.
+
+### GSL use
+
+This is extremely useful when you want to demonstrate that Brazil's ideas are connected to the actual diplomatic text.
+
+---
+
+# 97. THE BIGGEST GGE DIFFERENCES TO KNOW
+
+The negotiation has involved disagreement over:
+
+- scope;
+- critical functions;
+- “identify”;
+- “lethality”;
+- human target issues;
+- direct vs indirect control;
+- operational scale;
+- target categories;
+- development vs use;
+- legal-form timing;
+- whether human-control language is framed as a new standard or an implementation condition.
+
+### Why this matters
+
+When a delegate challenges one part of Brazil's architecture, you should know:
+
+> **This is probably a real negotiation point, not something the whole room already agrees on.**
+
+That makes your response more careful.
+
+---
+
+# 98. THE “PRINCIPLE → MECHANISM” MAP FOR GSL
+
+| Problem | Brazil mechanism | 20-second line |
+|---|---|---|
+| Scope confusion | Functional scope | “Regulate autonomous weapon functions, not every military AI system.” |
+| Unacceptable autonomy | Prohibition gate | “Some autonomous uses should be excluded rather than merely monitored.” |
+| Symbolic human control | Control Continuity Test | “The human must retain practical judgement and authority.” |
+| Unbounded autonomy | Operating Envelope | “Define what the system may do, where, when and against what.” |
+| One-time review | Material-change trigger | “Critical changes trigger renewed assurance.” |
+| Weak testing | Testing matrix | “Test the conditions that can break assumptions.” |
+| Accountability gap | Traceability | “Keep evidence of who authorized what and what version was used.” |
+| Incident without learning | Incident → Review Loop | “Failures must change future authorization.” |
+| Verification conflict | Verification ladder | “Produce evidence without unnecessary disclosure.” |
+| Unequal capacity | Regional assurance hubs | “Universal rules need practical implementation support.” |
+| Procurement blind spot | Procurement gate | “Governance starts before deployment.” |
+| Transfer risk | Assurance Passport | “Assurance should travel with the system, then be revalidated.” |
+
+---
+
+# 99. THE FIVE BEST GSL FACTS TO MEMORIZE
+
+If you only remember five facts, remember:
+
+### FACT 1
+
+**2025 UNGA LAWS resolution: 164–6–7.**
+
+### FACT 2
+
+**2026 GGE sessions: 2–6 March and 31 August–4 September.**
+
+### FACT 3
+
+**2026 GGE mandate: develop elements of an instrument without prejudging its legal nature.**
+
+### FACT 4
+
+**Brazil submitted a 2025 technical paper linking LAWS governance to technical standards, control and operational limits.**
+
+### FACT 5
+
+**Brazil's current negotiating approach supports using the GGE work as a basis for negotiations and favors a legally binding destination.**
+
+That is enough evidence for most GSLs.
+
+---
+
+# 100. THE FIVE BEST LEGAL FACTS TO MEMORIZE
+
+### 1
+
+IHL applies to warfare regardless of the technology used.
+
+### 2
+
+Distinction, proportionality and precautions remain relevant to autonomous weapons.
+
+### 3
+
+IHL obligations are obligations of States/parties/individuals, not machines.
+
+### 4
+
+Article 36 is a treaty obligation for States Parties to Additional Protocol I.
+
+### 5
+
+“Meaningful human control” / “context-appropriate human judgement and control” is not a universally codified standalone treaty phrase.
+
+These five facts protect you from many POIs.
+
+---
+
+# 101. THE FIVE BEST TECHNICAL FACTS TO MEMORIZE
+
+### 1
+
+Accuracy is not the same as predictability.
+
+### 2
+
+Human presence is not the same as effective human judgement.
+
+### 3
+
+Software/model changes can affect the system originally reviewed.
+
+### 4
+
+Autonomous behavior depends on sensors, data, communications and software.
+
+### 5
+
+Testing needs to examine degraded and adversarial conditions, not only ideal conditions.
+
+These do not require you to quote statistics.
+
+---
+
+# 102. THE FIVE BEST POLICY FACTS / PROPOSALS
+
+These are **BRAZIL PROPOSALS**, not existing law:
+
+### 1
+
+Two-tier prohibition + regulation.
+
+### 2
+
+Autonomy Operating Envelope.
+
+### 3
+
+Material-change reassessment.
+
+### 4
+
+Traceability + incident review.
+
+### 5
+
+Graduated verification with protected technical review.
+
+These should become your most familiar mechanisms.
+
+---
+
+# 103. SAFE PHRASES VS UNSAFE PHRASES
+
+## SAFE
+
+> “Brazil proposes…”
+
+> “Brazil supports…”
+
+> “The GGE text discussed…”
+
+> “The ICRC argues…”
+
+> “The current negotiating material includes…”
+
+> “For States Parties to Additional Protocol I…”
+
+> “This is a proposed safeguard…”
+
+## UNSAFE
+
+> “International law already requires our exact framework.”
+
+> “The GGE agreed to a treaty.”
+
+> “164 countries support Brazil's treaty.”
+
+> “Meaningful human control is already binding law everywhere.”
+
+> “Article 36 applies to every State.”
+
+> “All military AI is LAWS.”
+
+---
+
+# 104. GSL EVIDENCE HIERARCHY
+
+For a live speech:
+
+### LEVEL 1 — PRIMARY
+
+UN resolutions, GGE documents, official State statements, ICRC legal analysis.
+
+### LEVEL 2 — HIGH-QUALITY RESEARCH
+
+SIPRI and other established research organizations.
+
+### LEVEL 3 — SPECIALIST MONITORING
+
+Automated Decision Research and similar specialist monitors.
+
+### LEVEL 4 — MEDIA / COMMENTARY
+
+Use only when necessary and clearly attributed.
+
+### GSL rule
+
+Prefer one Level 1 source over five Level 4 claims.
+
+---
+
+# 105. CURRENT SOURCE LEDGER
+
+## A. 2026 GGE — PRIMARY
+
+**UNODA GGE page**
+https://meetings.unoda.org/meeting/79329
+
+Use for:
+- mandate;
+- session dates;
+- official documents.
+
+## B. 2026 GGE CHAIR'S SUMMARY — PRIMARY
+
+**CCW/GGE.1/2026/WP.2**
+https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-Group_of_Governmental_Experts_on_Lethal_Autonomous_Weapons_Systems_(2026)/CCW-GGE.1-2026-WP.2.pdf
+
+Use for:
+- scope;
+- IHL;
+- human judgement/control;
+- prohibition elements;
+- operational restrictions.
+
+## C. 4 SEPTEMBER 2026 GGE TRANSCRIPT — PRIMARY
+
+https://transcripts.un.org/asset/k1q/k1qd0j39sx
+
+Use for:
+- final-session positions;
+- current debate;
+- legal-form discussion;
+- country interventions.
+
+## D. 1 SEPTEMBER 2026 GGE TRANSCRIPT — PRIMARY
+
+https://transcripts.un.org/en/asset/k17/k17gugmjrx
+
+Use for:
+- country interventions;
+- EU and other State positions;
+- current operational debate.
+
+## E. 2025 UNGA RESOLUTION — PRIMARY
+
+A/RES/80/57:
+https://digitallibrary.un.org/record/4095989?ln=en&v=%5B%27pdf%27%5D
+
+Use for:
+- vote;
+- formal resolution record.
+
+## F. 2024 UNGA RESOLUTION — PRIMARY
+
+A/RES/79/62:
+https://digitallibrary.un.org/record/4068497
+
+## G. 2023 UNGA RESOLUTION — PRIMARY
+
+A/RES/78/241:
+https://digitallibrary.un.org/record/4033027/
+
+## H. BRAZIL 2025 TECHNICAL PAPER — PRIMARY
+
+CCW/GGE.1/2025/WP.2:
+https://documents.un.org/doc/undoc/gen/g25/068/02/pdf/g2506802.pdf
+
+Use for:
+- Brazil's technical framing;
+- control;
+- targets;
+- duration;
+- geographic scope;
+- scale;
+- technical standards.
+
+## I. ICRC 2026 — PRIMARY/EXPERT
+
+https://www.icrc.org/en/article/autonomous-weapon-systems-and-international-humanitarian-law-selected-issues
+
+Use for:
+- IHL;
+- legal review;
+- predictability;
+- humanitarian concerns.
+
+## J. SIPRI 2026 — EXPERT RESEARCH
+
+https://www.sipri.org/publications/2026/other-publications/responsible-procurement-military-artificial-intelligence
+
+Use for:
+- procurement;
+- supplier expectations;
+- implementation of responsible military AI commitments.
+
+## K. EU SEPTEMBER 2026 — OFFICIAL STATEMENT
+
+https://www.eeas.europa.eu/delegations/un-geneva/convention-certain-conventional-weapons-ccw-eu-statement-preparatory-committee-seventh-review_en
+
+Use for:
+- CCW centrality;
+- current Review Conference context.
+
+## L. 2026 PROCEDURAL MONITORING
+
+https://automatedresearch.org/news/over-70-states-support-rolling-text-as-basis-for-negotiations/
+
+Use carefully for:
+- reported 47-state support for the 2026 Brazil-delivered joint statement;
+- broader procedural convergence.
+
+Always distinguish this from a primary UN document if the official statement is not yet indexed.
+
+---
+
+# 106. THE THREE SOURCE RULE FOR A STRONG GSL
+
+For a major claim, ideally know:
+
+### Source 1
+
+Primary legal / UN source.
+
+### Source 2
+
+Brazil or another State position.
+
+### Source 3
+
+Technical / humanitarian research source.
+
+Example:
+
+> “Autonomous systems need continuing review.”
+
+Support with:
+
+- GGE material;
+- Brazil's architecture;
+- ICRC analysis of legal review / modification.
+
+This gives you both authority and reasoning.
+
+---
+
+# 107. CASE STUDY DISCIPLINE
+
+Case studies are useful, but they are also where delegates get trapped.
+
+### RULE
+
+Before naming a real-world example, know:
+
+1. what is actually documented;
+2. what is alleged;
+3. what is disputed;
+4. what source said it;
+5. whether the example actually concerns LAWS rather than decision support or ordinary automation.
+
+### SAFE FORMAT
+
+> “The case has been reported as X, but its precise autonomy and targeting role has been disputed; Brazil uses it only to illustrate the need for clearer evidence and accountability.”
+
+### NEVER
+
+Present a disputed case as settled proof that a country used LAWS illegally.
+
+---
+
+# 108. KARGU-2 — HIGH-CAUTION EXAMPLE
+
+The Libya/Kargu-2 example is useful for discussions of:
+
+- autonomous operation;
+- evidence;
+- uncertainty;
+- accountability.
+
+But the claim that Kargu-2 independently selected and attacked humans has been heavily debated and interpreted differently across sources.
+
+### GSL recommendation
+
+Do not build the central GSL around Kargu-2.
+
+Use the more general lesson:
+
+> “Where the autonomy level or operational role of a system is disputed, the international community needs better evidence and clearer definitions.”
+
+That is much safer.
+
+---
+
+# 109. AI-ASSISTED TARGETING — HIGH-CAUTION EXAMPLE
+
+Public reporting and UN-related materials have discussed AI systems in military targeting, but the term “LAWS” can be misapplied to systems that may provide decision support rather than independently conduct autonomous engagements.
+
+### GSL rule
+
+Do not say:
+
+> “An AI target-generation tool proves LAWS are already killing people.”
+
+Say:
+
+> “AI-assisted targeting raises separate questions about automation bias, human verification and responsibility, even when the system is not itself a LAWS.”
+
+This distinction is crucial.
+
+---
+
+# 110. WHY YOU SHOULD NOT OVERLOAD THE GSL WITH CASE STUDIES
+
+A GSL is not a documentary.
+
+The best use of a case study is:
+
+**one example → one governance lesson → one Brazil mechanism.**
+
+Example:
+
+> “Disputed reports about autonomous targeting highlight an evidence problem. Brazil therefore supports traceability and serious-incident investigation.”
+
+Then move on.
+
+---
+
+# 111. THE “CURRENT 2026” CLAIM CHECK
+
+Before saying:
+
+> “Country X currently supports…”
+
+check:
+
+### 1
+
+Is there a 2026 statement?
+
+### 2
+
+Is it national or group-based?
+
+### 3
+
+Is it from the latest GGE session?
+
+### 4
+
+Could the country's legal-form position be different from its procedural position?
+
+### 5
+
+Is the evidence primary?
+
+This matters especially for Australia, Japan, India, China, Korea, UK, US and Russia.
+
+---
+
+# 112. COUNTRY POSITIONS MOST RELEVANT TO GSL
+
+You do not need 86 full country dossiers while speaking.
+
+Know these categories:
+
+### BRAZIL CORE / CLOSE OVERLAP
+
+Mexico, South Africa, New Zealand, Sweden, Switzerland, Norway, Netherlands, Ireland, Pakistan, Germany, France, Philippines.
+
+### TECHNICAL / BRIDGE POSITIONS
+
+Japan, Australia, Canada, India, China, Republic of Korea, United Kingdom.
+
+### EXISTING-IHL / CAUTIOUS LEGAL-FORM POSITIONS
+
+United States, Russia, Türkiye and others with varying formulations.
+
+### CURRENT PROCEDURAL CONVERGENCE
+
+The repository's 2026 research identifies 25 committee delegations in the current 47-state procedural intersection around the GGE text.
+
+Do not treat any category as permanent.
+
+---
+
+# 113. HOW TO USE COUNTRY RESEARCH INSIDE A GSL
+
+Do not say:
+
+> “Japan agrees with us.”
+
+Instead:
+
+> “Japan's position shows practical overlap on human involvement, reliability and CCW-centered work.”
+
+Then say:
+
+> “Brazil proposes…”
+
+This keeps your speech factual and diplomatic.
+
+---
+
+# 114. THE “ONE FACT + ONE MECHANISM” SPEECH RULE
+
+For most MODs:
+
+### ONE FACT
+
+> “The GGE is already discussing target, duration, geographic and scale limits.”
+
+### ONE MECHANISM
+
+> “Brazil proposes an operating envelope that documents those limits.”
+
+### ONE RESULT
+
+> “That turns human control from a slogan into an operational constraint.”
+
+This is a perfect 30-second structure.
+
+---
+
+# 115. THE “LAW + TECH + SOLUTION” GSL RULE
+
+For a serious 60–90 second speech:
+
+### LAW
+
+> “IHL remains the legal foundation.”
+
+### TECH
+
+> “Autonomous systems create predictability, control and lifecycle challenges.”
+
+### SOLUTION
+
+> “Brazil proposes prohibition + regulation + continuing assurance.”
+
+This makes you sound balanced.
+
+---
+
+# 116. THE “DON'T OVERCLAIM” RULE
+
+If you know:
+
+> “There was debate over this.”
+
+Say:
+
+> “There was debate over this.”
+
+If you know:
+
+> “A State supported this.”
+
+Say:
+
+> “That State supported this.”
+
+If you know:
+
+> “The Chair's summary proposed this.”
+
+Say:
+
+> “The Chair's summary included this.”
+
+Do not turn negotiation text into settled agreement.
+
+---
+
+# 117. WHAT THE CHAIR IS LIKELY TO REWARD
+
+For a committee like this, the strongest GSL research tends to let you do four things:
+
+### 1
+
+Explain the issue accurately.
+
+### 2
+
+Connect it to current diplomatic work.
+
+### 3
+
+Offer a mechanism more concrete than “international cooperation.”
+
+### 4
+
+Leave room for other States to negotiate.
+
+Your research should therefore feed:
+
+**problem + evidence + mechanism + diplomacy**
+
+rather than facts for their own sake.
+
+---
+
+# 118. THE “CHAIR GUIDE” RESEARCH LINK
+
+The Background Guide should still be your first committee-specific source because it tells you what the Executive Board expects.
+
+The guide's research prompts include themes such as:
+
+- universal definition;
+- human control in the targeting cycle;
+- dual-use verification;
+- adaptive ML and Article 36;
+- accountability gap;
+- distinction/proportionality in urban warfare;
+- blanket prohibition versus tiered regulation;
+- automation bias;
+- adversarial ML;
+- swarm escalation;
+- explainability;
+- CCW deadlock and General Assembly role;
+- soft-law alternatives;
+- non-State actors;
+- Martens Clause;
+- biased datasets;
+- communications-loss fail-safe.
+
+### GSL use
+
+The guide tells you what questions the Chair wants delegates to be able to answer.
+
+The best GSL does not try to answer all of them.
+
+It shows you understand the larger architecture and gives the room one strong entry point.
+
+---
+
+# 119. THE GSL “RESEARCH TO SPEECH” PIPELINE
+
+For every GSL topic:
+
+**SOURCE**
+
+↓
+
+**FACT**
+
+↓
+
+**WHY IT MATTERS**
+
+↓
+
+**BRAZIL POSITION**
+
+↓
+
+**MECHANISM**
+
+↓
+
+**ONE-LINE CLOSE**
+
+Example:
+
+**GGE**
+
+↓
+
+States are debating operational limits.
+
+↓
+
+Autonomous use must be bounded.
+
+↓
+
+Brazil supports strict regulation of permissible systems.
+
+↓
+
+Operating Envelope.
+
+↓
+
+> “Autonomy should exist inside conditions that States have actually tested and authorized.”
+
+---
+
+# 120. THE FINAL GSL RESEARCH CHECKLIST
+
+Before calling the GSL research complete, know:
+
+## CURRENT DIPLOMACY
+
+- [ ] 2026 GGE dates
+- [ ] GGE mandate
+- [ ] current negotiating basis
+- [ ] legal form remains open in the mandate
+- [ ] current Review Conference timing
+
+## BRAZIL
+
+- [ ] binding-instrument objective
+- [ ] prohibition + regulation
+- [ ] human judgement/control
+- [ ] legal review
+- [ ] testing
+- [ ] lifecycle assurance
+- [ ] accountability
+- [ ] capacity-building
+- [ ] GGE negotiating-basis position
+
+## LAW
+
+- [ ] distinction
+- [ ] proportionality
+- [ ] precautions
+- [ ] unnecessary suffering/superfluous injury
+- [ ] Article 36 limitation
+- [ ] human-control legal-status caveat
+- [ ] Martens Clause
+
+## TECHNICAL
+
+- [ ] accuracy vs predictability
+- [ ] reliability vs predictability
+- [ ] automation bias
+- [ ] adaptive AI
+- [ ] communications loss
+- [ ] cyber/adversarial inputs
+- [ ] swarms
+- [ ] AI decision support vs LAWS
+- [ ] lifecycle change
+
+## IMPLEMENTATION
+
+- [ ] operating envelope
+- [ ] testing
+- [ ] material-change review
+- [ ] traceability
+- [ ] incident investigation
+- [ ] verification
+- [ ] confidentiality
+- [ ] procurement
+- [ ] capacity-building
+
+## EVIDENCE
+
+- [ ] 2025 vote = 164–6–7
+- [ ] 2024 vote = 166–3–15
+- [ ] 2023 vote = 152–4–11
+- [ ] current Brazil technical paper
+- [ ] current GGE material
+- [ ] ICRC 2026
+- [ ] SIPRI 2026
+
+---
+
+# 121. THE “5 FACTS BEFORE YOU RAISE YOUR PLACARD”
+
+Right before committee starts, your brain should instantly recall:
+
+> **164–6–7**
+
+> **2–6 March / 31 August–4 September 2026**
+
+> **GGE legal form not prejudged**
+
+> **IHL remains the foundation**
+
+> **PROHIBIT — REGULATE — CONTROL — REVIEW — ACCOUNT**
+
+That is enough to start almost any GSL.
+
+---
+
+# 122. GSL RESEARCH MASTER CARD
+
+## CURRENT MOMENT
+
+The GGE has spent 2026 working through elements of an instrument.
+
+## LEGAL BASELINE
+
+IHL already applies.
+
+## GAP
+
+Autonomy creates practical problems around predictability, control, lifecycle change and accountability.
+
+## BRAZIL
+
+Two tiers + human judgement + lifecycle assurance + accountability + binding destination.
+
+## CORE MECHANISMS
+
+Operating Envelope + Testing + Material-Change Review + Traceability + Incident Learning.
+
+## IMPLEMENTATION
+
+Graduated verification + confidentiality + capacity-building.
+
+## CLOSE
+
+> **“Prohibit the unacceptable, regulate the permissible, preserve human judgement, continuously review, and keep responsibility traceable.”**
+
+---
+
+# 123. FINAL SOURCE-DISCIPLINE CARD
+
+### ALWAYS DISTINGUISH
+
+**Existing law**
+
+from
+
+**negotiating text**
+
+from
+
+**State position**
+
+from
+
+**expert analysis**
+
+from
+
+**Brazil proposal**
+
+### NEVER SAY
+
+> “Our proposal is already international law.”
+
+### NEVER SAY
+
+> “The GGE agreed on the treaty.”
+
+### NEVER SAY
+
+> “A UNGA vote means the States endorsed every Brazilian clause.”
+
+### NEVER SAY
+
+> “Article 36 binds every State.”
+
+### NEVER SAY
+
+> “Every AI system is LAWS.”
+
+### NEVER SAY
+
+> “Meaningful human control is already a universal standalone treaty rule.”
+
+---
+
+# 124. CURRENT SOURCE STATUS — SEPTEMBER 2026
+
+### PRIMARY AND CURRENT
+
+- UNODA 2026 GGE page
+- 2026 Chair's summary
+- 2026 GGE transcripts
+- 2025/2026 UNGA records
+- Brazil 2025 CCW working paper
+- current EU CCW statement
+- ICRC 2026 position paper
+
+### EXPERT / SECONDARY
+
+- SIPRI 2026 procurement report
+- Automated Decision Research's current GGE monitoring
+
+### USE WITH CAUTION
+
+- older academic articles;
+- older national statements;
+- civil-society summaries of disputed cases;
+- media reporting about alleged autonomous weapons use.
+
+---
+
+# 125. FINAL RESEARCH PRINCIPLE
+
+The GSL should never make you sound like:
+
+> “I have read a lot.”
+
+It should make you sound like:
+
+> **“I know exactly what the problem is, what the current negotiations say, what Brazil wants, and what concrete rule I am proposing.”**
+
+That is what this research bank is for.
+
+---
