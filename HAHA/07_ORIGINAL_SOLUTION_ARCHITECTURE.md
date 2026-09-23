@@ -2402,3 +2402,1722 @@ Weakness patching.
 The important shift is:
 
 > Do not merely know Brazil's solution. Know how every part of the solution operates.
+
+
+---
+
+# PART 6 REBUILD — THE ACTUAL SOLUTION-ARCHITECTURE FIELD MANUAL
+
+> **Purpose:** Take the Brazil position + bloc common ground and turn it into a solution that can survive speeches, POIs, lobbying and drafting.
+>
+> Core rule:
+>
+> **Do not present 22 fancy mechanisms just because they exist.**
+>
+> Present:
+>
+> **PROBLEM → MECHANISM → OPERATOR → TRIGGER → EVIDENCE → CONSEQUENCE**
+>
+> That is what makes an “original solution” actually original and usable.
+
+---
+
+# 93. THE WHOLE ARCHITECTURE IN ONE BREATH
+
+Memorize this:
+
+> **“First characterize the autonomous function, then classify it into prohibited or regulated use. For regulated systems, create an assurance case, define an operating envelope, complete legal review and realistic testing, authorize deployment, preserve traceability, reassess material changes, investigate serious incidents, and use graduated verification and capacity-building to keep the framework implementable.”**
+
+That is the entire architecture.
+
+---
+
+# 94. THE MASTER FLOWCHART
+
+Use this mental flow:
+
+**CHARACTERIZE**
+
+↓
+
+**PROHIBITED?**
+
+→ YES → **DO NOT AUTHORIZE**
+
+→ NO → continue
+
+↓
+
+**ASSURANCE CASE**
+
+↓
+
+**OPERATING ENVELOPE**
+
+↓
+
+**LEGAL REVIEW**
+
+↓
+
+**TESTING**
+
+↓
+
+**DEPLOYMENT AUTHORIZATION**
+
+↓
+
+**MONITOR + LOG**
+
+↓
+
+**MATERIAL CHANGE?**
+
+→ YES → **REASSESS**
+
+→ NO → continue
+
+↓
+
+**SERIOUS INCIDENT?**
+
+→ YES → **INVESTIGATE + REVALIDATE**
+
+→ NO → continue
+
+↓
+
+**TRANSFER?**
+
+→ YES → **ASSURANCE PASSPORT + REVALIDATION**
+
+↓
+
+**PERIODIC REVIEW**
+
+This is the architecture you should be able to draw on paper in 20 seconds.
+
+---
+
+# 95. ARCHITECTURE LAYER 1 — SCOPE GATE
+
+## Problem
+
+A framework can fail before it begins if nobody agrees what is actually covered.
+
+## Proposed response
+
+Use a function/capability-based scope.
+
+Focus on whether a weapon system can perform relevant autonomous functions involving:
+
+**detect → identify → classify → select → engage → reassess**
+
+The framework should not automatically capture every:
+
+- AI model;
+- military software;
+- automated administrative process;
+- navigation system;
+- decision-support tool.
+
+## Key question
+
+> **“Which autonomous function materially affects the use of force?”**
+
+That is the scope gate.
+
+---
+
+# 96. ARCHITECTURE LAYER 2 — PROHIBITION GATE
+
+## Problem
+
+Some systems or uses may be too unpredictable, uncontrollable or inconsistent with applicable law to regulate safely.
+
+## Proposed response
+
+Classify clearly unacceptable systems/uses into a prohibited category.
+
+Potential criteria:
+
+- incapable of IHL-compliant use;
+- insufficiently predictable effects;
+- inability to adequately constrain effects;
+- absence of practically effective human judgement/control;
+- autonomous direct application of lethal force against persons where the required human judgement cannot have practical effect;
+- other characteristics collectively determined to be unacceptable.
+
+## Important
+
+Do not pretend the committee has already agreed on the exact threshold.
+
+The architecture is fixed.
+
+The **threshold** is negotiated.
+
+---
+
+# 97. ARCHITECTURE LAYER 3 — REGULATION GATE
+
+If the system is not prohibited:
+
+> **It is regulated.**
+
+This is one of Brazil's strongest conceptual lines.
+
+The system may require:
+
+- legal review;
+- testing;
+- operating limits;
+- human judgement/control;
+- training;
+- monitoring;
+- logging;
+- change control;
+- incident review.
+
+Therefore:
+
+> **Not prohibited ≠ unrestricted.**
+
+---
+
+# 98. ARCHITECTURE LAYER 4 — AUTONOMY ASSURANCE CASE
+
+## Purpose
+
+Create the core argument explaining why a system is acceptable within its defined conditions.
+
+## It should answer
+
+### WHAT?
+
+What autonomous functions does the system perform?
+
+### WHERE?
+
+Where is it intended to operate?
+
+### AGAINST WHAT?
+
+Which target categories are authorized?
+
+### UNDER WHAT CONDITIONS?
+
+What assumptions make the system sufficiently predictable?
+
+### WHAT CAN GO WRONG?
+
+What known failure modes exist?
+
+### WHAT DOES THE HUMAN DO?
+
+How is judgement/control maintained?
+
+### WHAT LAW APPLIES?
+
+What legal-review findings support use?
+
+### WHAT EVIDENCE EXISTS?
+
+What testing supports the conclusion?
+
+The Assurance Case is:
+
+> **the argument that the system can be lawfully and safely used within its approved scope.**
+
+---
+
+# 99. ARCHITECTURE LAYER 5 — COMPLIANCE PACKET
+
+Do not confuse this with the Assurance Case.
+
+### Assurance Case
+
+> Why the system is considered acceptable.
+
+### Compliance Packet
+
+> Evidence that the required procedures were actually completed.
+
+A packet could contain:
+
+- assurance case;
+- legal-review record;
+- test results;
+- operating envelope;
+- version identity;
+- training evidence;
+- authorization;
+- change history;
+- incident history.
+
+## Memory line
+
+> **Assurance Case = argument. Compliance Packet = evidence.**
+
+---
+
+# 100. ARCHITECTURE LAYER 6 — OPERATING ENVELOPE
+
+The operating envelope is the actual boundary around autonomous action.
+
+It should define, where relevant:
+
+- target categories;
+- geographic area;
+- duration;
+- engagement scale;
+- environmental conditions;
+- communications assumptions;
+- expected effects;
+- intervention/deactivation conditions.
+
+## Why this is powerful
+
+It converts:
+
+> “Human control”
+
+into:
+
+> “What exactly was the system allowed to do?”
+
+That creates a concrete drafting and verification question.
+
+---
+
+# 101. ARCHITECTURE LAYER 7 — DEPLOYMENT AUTHORIZATION GATE
+
+Before deployment, the responsible authority confirms:
+
+- scope/classification;
+- legal review;
+- assurance case;
+- testing;
+- operating envelope;
+- human-control arrangement;
+- communications-loss response;
+- cybersecurity safeguards;
+- accountability assignment.
+
+## Key principle
+
+> **Legal review must connect to authorization.**
+
+A review that nobody is required to act on is weak.
+
+---
+
+# 102. ARCHITECTURE LAYER 8 — CONTROL CONTINUITY
+
+The framework should test human judgement/control over time rather than at only one moment.
+
+### BEFORE USE
+
+Can humans define mission and limits?
+
+### DURING USE
+
+Can relevant personnel understand system status?
+
+### WHEN CONDITIONS CHANGE
+
+Can the authorized chain reassess?
+
+### WHEN COMMUNICATIONS FAIL
+
+Does the system remain inside its approved envelope?
+
+### WHEN CRITICAL FAILURE OCCURS
+
+Can the system be interrupted or moved to an appropriate predefined state where feasible?
+
+### AFTER USE
+
+Can the State reconstruct the decision and authorization chain?
+
+This is the:
+
+> **Control Continuity Test**
+
+---
+
+# 103. ARCHITECTURE LAYER 9 — AUTOMATION-BIAS CONTROL
+
+A human can have formal authority but practically defer to the machine.
+
+Therefore, assurance should examine:
+
+- operator training;
+- confidence/uncertainty information;
+- interface design;
+- workload;
+- time pressure;
+- override procedures;
+- doctrine;
+- post-use review.
+
+## Test question
+
+> **“Can the human realistically disagree with the system?”**
+
+If the answer is technically yes but practically no, control is weak.
+
+---
+
+# 104. ARCHITECTURE LAYER 10 — TESTING
+
+Testing should produce evidence, not ceremonial certification.
+
+## Minimum conceptual matrix
+
+### NORMAL
+Expected conditions.
+
+### EDGE
+Rare but plausible conditions.
+
+### DEGRADED
+Sensor / communication / environmental degradation.
+
+### HOSTILE
+Cyber, electronic or adversarial interference.
+
+### CIVILIAN-COMPLEX
+Unexpected civilian presence and ambiguous environments.
+
+### INTERACTION
+Interaction with other autonomous systems.
+
+### FAILURE
+Emergency and loss-of-control behavior.
+
+### CHANGE
+Material software/model/configuration changes.
+
+## Core line
+
+> **“Test the conditions that could break the system's assumptions.”**
+
+---
+
+# 105. ARCHITECTURE LAYER 11 — MATERIALITY ENGINE
+
+A key weakness in many “review after modification” proposals is that nobody explains what counts as a material modification.
+
+Use a simple trigger system.
+
+## LOW
+
+No meaningful effect on critical functions.
+
+Example:
+
+- routine maintenance.
+
+## MEDIUM
+
+Potential effect requiring targeted regression testing.
+
+Example:
+
+- sensor replacement;
+- integration changes.
+
+## HIGH
+
+Potentially changes the legal/operational character of the system.
+
+Example:
+
+- target classification;
+- engagement logic;
+- autonomy mode;
+- critical model update;
+- broader target set;
+- expanded geographic/time envelope.
+
+## High-trigger response
+
+**REVIEW → TEST → REAUTHORIZE**
+
+---
+
+# 106. ARCHITECTURE LAYER 12 — ADAPTIVE AI
+
+The core question is:
+
+> **“Does the State still know what system it is operating?”**
+
+Possible controls:
+
+- version identification;
+- update logging;
+- approved update channels;
+- change thresholds;
+- rollback where feasible;
+- post-update testing;
+- revalidation;
+- monitoring.
+
+## Three practical categories
+
+### FIXED
+
+Critical targeting functions do not change without review.
+
+### BOUNDED ADAPTIVE
+
+Adaptation is permitted inside a validated envelope.
+
+### SELF-MODIFYING CRITICAL TARGETING
+
+Highly restricted or prohibited where predictability and legal assurance cannot be demonstrated.
+
+---
+
+# 107. ARCHITECTURE LAYER 13 — COMMUNICATIONS-LOSS RESPONSE
+
+A regulated system should have a predefined response to critical loss of communications/control where relevant.
+
+Possible responses:
+
+- abort;
+- deactivate;
+- safe return;
+- restricted mode;
+- handover;
+- controlled loiter.
+
+Do not mandate one universal response.
+
+Mandate:
+
+> **a predefined, tested response appropriate to the system and context.**
+
+Most importantly:
+
+> **Communications loss must not silently expand the system's authorized autonomy.**
+
+---
+
+# 108. ARCHITECTURE LAYER 14 — CYBER / ADVERSARIAL ASSURANCE
+
+Autonomy depends on:
+
+- sensors;
+- data;
+- communications;
+- software;
+- models.
+
+Therefore testing should consider:
+
+- spoofing;
+- jamming;
+- sensor manipulation;
+- adversarial inputs;
+- cyber intrusion;
+- corrupted data;
+- conflicting sensor signals.
+
+## Architecture principle
+
+> **The system must be tested against the conditions that can undermine the assumptions supporting its authorization.**
+
+---
+
+# 109. ARCHITECTURE LAYER 15 — SERIOUS INCIDENT MECHANISM
+
+A serious incident can include:
+
+- civilian harm;
+- unexpected engagement;
+- unauthorized activation;
+- major loss of control;
+- critical software failure;
+- cyber compromise affecting autonomous functions;
+- material deviation from the operating envelope.
+
+## Required first actions
+
+1. Preserve evidence.
+2. Protect records from alteration/loss.
+3. Investigate.
+4. Assess continued deployment.
+5. Determine whether reassessment is triggered.
+6. Report through the appropriate mechanism where applicable.
+
+---
+
+# 110. ARCHITECTURE LAYER 16 — INCIDENT → REVIEW LOOP
+
+This is more important than reporting alone.
+
+**INCIDENT**
+
+↓
+
+**PRESERVE EVIDENCE**
+
+↓
+
+**INVESTIGATE**
+
+↓
+
+**IDENTIFY ROOT CAUSE**
+
+↓
+
+**CORRECT SYSTEM / TRAINING / DOCTRINE**
+
+↓
+
+**RETEST**
+
+↓
+
+**REVIEW**
+
+↓
+
+**REAUTHORIZE OR RESTRICT**
+
+↓
+
+**SHARE LESSONS**
+
+The point is:
+
+> **An incident should change the assurance process, not merely produce a report.**
+
+---
+
+# 111. ARCHITECTURE LAYER 17 — TRACEABILITY
+
+A State should retain enough evidence to reconstruct:
+
+- system identity;
+- software/model version;
+- mission authorization;
+- operating envelope;
+- target category;
+- geographic/time constraints;
+- warnings;
+- interventions;
+- material changes;
+- incident sequence.
+
+## Key question
+
+> **“After something goes wrong, can the State reconstruct what the system was actually authorized to do?”**
+
+If not, accountability is weakened.
+
+---
+
+# 112. ARCHITECTURE LAYER 18 — PROTECTED TECHNICAL REVIEW
+
+## Problem
+
+States may reject verification that exposes:
+
+- source code;
+- vulnerabilities;
+- military doctrine;
+- detailed operating data.
+
+## Proposed response
+
+Use a protected expert mechanism.
+
+Experts could examine:
+
+- test methodology;
+- assurance evidence;
+- change history;
+- operating-envelope documentation;
+- failure analysis.
+
+The mechanism would not replace:
+
+- national legal review;
+- command authority;
+- national security procedures.
+
+## Key line
+
+> **“Verify what must be demonstrated without demanding everything that should remain secret.”**
+
+---
+
+# 113. ARCHITECTURE LAYER 19 — VERIFICATION LADDER
+
+Use graduated assurance.
+
+### LEVEL 1
+National legal review and authorization.
+
+### LEVEL 2
+General national reporting.
+
+### LEVEL 3
+Expert exchange.
+
+### LEVEL 4
+Serious-incident reporting.
+
+### LEVEL 5
+Record-based / protected technical review.
+
+### LEVEL 6
+Narrow international inspection where agreed and feasible.
+
+The bloc should not make the most intrusive mechanism the entry requirement.
+
+---
+
+# 114. ARCHITECTURE LAYER 20 — LAWS COMPLIANCE REGISTRY
+
+A proposed registry could hold:
+
+### PUBLIC / AGGREGATE
+
+- broad system category;
+- national framework;
+- general assurance status.
+
+### CONFIDENTIAL
+
+- detailed assurance information.
+
+### PROTECTED EXPERT
+
+- technical records reviewed under confidentiality.
+
+The registry should not require:
+
+- public source code;
+- sensitive deployment locations;
+- classified vulnerabilities.
+
+Its purpose is:
+
+> **continuity of assurance and accountability.**
+
+---
+
+# 115. ARCHITECTURE LAYER 21 — PROCUREMENT GATE
+
+Procurement is where policy becomes a real contract.
+
+Before acquisition, the State should require evidence of:
+
+- legal-review support;
+- test documentation;
+- system limitations;
+- cybersecurity controls;
+- change-control procedures;
+- documentation;
+- supplier cooperation;
+- training;
+- incident support.
+
+## Brazil line
+
+> **“If a State cannot govern a system, it should think twice before procuring it.”**
+
+---
+
+# 116. ARCHITECTURE LAYER 22 — SUPPLIER RESPONSIBILITY
+
+Where appropriate, contracts can require suppliers to:
+
+- document limitations;
+- identify material changes;
+- support testing;
+- maintain update security;
+- provide relevant technical information;
+- support incident investigation;
+- prevent unauthorized modification.
+
+The State remains the primary international-law actor.
+
+Supplier duties are an implementation mechanism.
+
+---
+
+# 117. ARCHITECTURE LAYER 23 — REGIONAL ASSURANCE HUBS
+
+Regional or multinational expert centres could support:
+
+- legal review;
+- testing;
+- adversarial evaluation;
+- cybersecurity;
+- model evaluation;
+- operator training;
+- expert exchanges.
+
+## Why this belongs in a serious resolution
+
+Without capacity-building, a universal framework can become:
+
+> “Everyone has the same obligations, but only a few States can realistically demonstrate compliance.”
+
+A better principle is:
+
+> **Universal safety objective + practical implementation support.**
+
+---
+
+# 118. ARCHITECTURE LAYER 24 — TRANSFER ASSURANCE PASSPORT
+
+A transferred regulated system could carry a standardized assurance record containing:
+
+- system/version;
+- approved operating characteristics;
+- legal-review status;
+- testing status;
+- limits;
+- update rules;
+- training requirements;
+- responsible supplier;
+- relevant incident/update history.
+
+## Critical safeguard
+
+A passport does **not** legalize transfer of a prohibited system.
+
+It only preserves assurance information for systems that can lawfully be transferred.
+
+---
+
+# 119. ARCHITECTURE LAYER 25 — POST-TRANSFER REVALIDATION
+
+The receiving State should assess:
+
+- its own legal framework;
+- personnel capability;
+- operating environment;
+- system configuration;
+- testing assumptions;
+- control arrangements.
+
+Why?
+
+Because:
+
+> **A system acceptable in one context is not automatically acceptable in another.**
+
+---
+
+# 120. ARCHITECTURE LAYER 26 — SWARM-SCALE CONTROL
+
+For systems involving multiple autonomous units, test:
+
+- target-set expansion;
+- aggregate engagement scale;
+- communications loss;
+- interaction effects;
+- geographic spread;
+- system-level failure.
+
+Potential safeguards:
+
+- scale limits;
+- target-set limits;
+- geographic containment;
+- system-level testing;
+- system-wide records;
+- authorization before expansion.
+
+The rule should be:
+
+> **Control aggregate effects, not merely individual platforms.**
+
+---
+
+# 121. ARCHITECTURE LAYER 27 — DEFENSIVE SYSTEM CONTEXT
+
+Do not create:
+
+> “Defensive systems = automatically exempt.”
+
+Instead assess:
+
+- target;
+- environment;
+- speed of engagement;
+- predictability;
+- bounded effects;
+- control arrangements;
+- communication-loss behavior;
+- intervention/deactivation;
+- supporting evidence.
+
+This lets the framework remain operationally realistic.
+
+---
+
+# 122. ARCHITECTURE LAYER 28 — AI DECISION SUPPORT
+
+Do not automatically classify all military AI decision support as LAWS.
+
+Instead:
+
+### SUPPORT FUNCTION
+
+AI recommends / analyzes / assists.
+
+### AUTONOMOUS WEAPON FUNCTION
+
+The system independently performs a covered weapon function with reduced or absent human intervention.
+
+For high-risk decision support, possible safeguards include:
+
+- uncertainty indicators;
+- operator training;
+- workload controls;
+- meaningful authority to reject;
+- auditability;
+- human review.
+
+---
+
+# 123. ARCHITECTURE LAYER 29 — NON-STATE / DIVERSION CONTROL
+
+The architecture should address:
+
+- theft;
+- capture;
+- illicit procurement;
+- unauthorized software access;
+- modification;
+- transfer to non-State actors.
+
+Potential measures:
+
+- end-use controls;
+- secure updates;
+- loss/theft reporting;
+- cooperation against diversion;
+- restrictions on transfer of prohibited systems.
+
+Keep the focus on LAWS-related risk.
+
+---
+
+# 124. ARCHITECTURE LAYER 30 — CAPACITY-BUILDING
+
+Possible implementation support:
+
+- legal-review training;
+- technical testing;
+- cybersecurity assistance;
+- operator training;
+- procurement support;
+- expert exchanges;
+- regional assurance hubs.
+
+Use this especially when negotiating with States that may support the principles but worry about implementation burden.
+
+---
+
+# 125. THE ORIGINALITY TEST
+
+A mechanism is not “original” because it has a fancy acronym.
+
+Ask:
+
+### Does it solve a specific problem?
+
+### Does somebody actually implement it?
+
+### Does it have a trigger?
+
+### Does it generate evidence?
+
+### Does it create a consequence?
+
+### Can a delegate explain it in 20 seconds?
+
+If yes, it is useful.
+
+If not, cut it.
+
+---
+
+# 126. THE SIX-BOX MECHANISM FORMAT
+
+For every solution mechanism, memorize:
+
+**PROBLEM**
+
+→ what goes wrong?
+
+**RULE**
+
+→ what should happen?
+
+**ACTOR**
+
+→ who does it?
+
+**TRIGGER**
+
+→ when does it apply?
+
+**EVIDENCE**
+
+→ how do we know it happened?
+
+**CONSEQUENCE**
+
+→ what happens if the requirement is not satisfied?
+
+Example:
+
+### Material Change Review
+
+**Problem:** approved system changes.
+
+**Rule:** material changes trigger renewed assurance.
+
+**Actor:** responsible national authority.
+
+**Trigger:** change affecting critical functions.
+
+**Evidence:** change log + test results + review record.
+
+**Consequence:** no redeployment until required review is completed.
+
+That is a complete mechanism.
+
+---
+
+# 127. THE “MINIMUM VIABLE SOLUTION”
+
+If committee time is collapsing, use only:
+
+1. functional scope;
+2. prohibition tier;
+3. regulated tier;
+4. human judgement/control;
+5. operating envelope;
+6. legal review;
+7. testing;
+8. material-change review;
+9. traceability;
+10. serious-incident mechanism;
+11. verification;
+12. capacity-building.
+
+Do not sacrifice the architecture trying to include every fancy mechanism.
+
+---
+
+# 128. THE “FULL PACKAGE”
+
+If there is enough drafting time:
+
+### CORE
+
+1. scope;
+2. prohibition;
+3. regulation;
+4. human control;
+5. operating envelope;
+6. legal review;
+7. testing;
+8. change control;
+9. traceability;
+10. incident review.
+
+### ADVANCED
+
+11. protected technical review;
+12. compliance registry;
+13. procurement gate;
+14. supplier clauses;
+15. regional assurance hubs;
+16. transfer assurance passport;
+17. post-transfer revalidation;
+18. cyber assurance;
+19. swarm safeguards;
+20. periodic review.
+
+Use the advanced package selectively.
+
+---
+
+# 129. THE CLAUSE-TO-MECHANISM MAP
+
+When drafting a resolution, connect each broad principle to a mechanism.
+
+| Broad principle | Concrete mechanism |
+|---|---|
+| Human control | Control Continuity Test + Operating Envelope |
+| Legal compliance | Legal Review + Assurance Case |
+| Predictability | Testing + Operating Envelope |
+| Accountability | Traceability + Incident Mechanism |
+| Lifecycle assurance | Materiality Trigger + Change Control |
+| Verification | Verification Ladder + Protected Review |
+| Implementation | Regional Hubs + Capacity-Building |
+| Procurement | Procurement Gate + Supplier Requirements |
+| Transfer | Assurance Passport + Revalidation |
+| Learning | Incident → Review Loop |
+
+This prevents “principle-only” drafting.
+
+---
+
+# 130. THE “NO LOOSE MECHANISMS” RULE
+
+Every mechanism should connect to another mechanism.
+
+For example:
+
+**Operating Envelope**
+
+depends on:
+
+- testing;
+- legal review;
+- authorization.
+
+**Material Change Trigger**
+
+depends on:
+
+- version identity;
+- change logging;
+- testing.
+
+**Incident Mechanism**
+
+depends on:
+
+- traceability;
+- evidence preservation;
+- reassessment.
+
+**Protected Review**
+
+depends on:
+
+- confidentiality;
+- assurance evidence.
+
+**Procurement Gate**
+
+depends on:
+
+- technical requirements;
+- legal review;
+- supplier duties.
+
+A mechanism that floats alone usually becomes decorative text.
+
+---
+
+# 131. THE ONE SOURCE OF TRUTH
+
+Use one system identity and version chain.
+
+Example:
+
+**System ID:** A-024  
+**Model:** M-7  
+**Version:** 7.3  
+**Approved Envelope:** E-3  
+**Legal Review:** LR-24  
+**Test Package:** T-17  
+**Material Change:** MC-03  
+**Incident Record:** IR-02
+
+The exact naming system is illustrative.
+
+The principle is:
+
+> **The State should be able to reconstruct which exact system was authorized.**
+
+---
+
+# 132. THE DEPLOYMENT DECISION TREE
+
+Before deployment:
+
+### Q1
+Is the system inside the scope?
+
+→ NO → framework may not apply as LAWS.
+
+→ YES → continue.
+
+### Q2
+Does it meet the prohibition threshold?
+
+→ YES → prohibit / do not authorize.
+
+→ NO → continue.
+
+### Q3
+Is the Assurance Case complete?
+
+→ NO → do not deploy.
+
+→ YES → continue.
+
+### Q4
+Has legal review been completed?
+
+→ NO → do not deploy.
+
+→ YES → continue.
+
+### Q5
+Has realistic testing been completed?
+
+→ NO → do not deploy.
+
+→ YES → continue.
+
+### Q6
+Is an operating envelope defined?
+
+→ NO → do not deploy.
+
+→ YES → continue.
+
+### Q7
+Is accountability assigned?
+
+→ NO → do not deploy.
+
+→ YES → authorize subject to national procedures.
+
+This is an extremely useful flow for POIs.
+
+---
+
+# 133. THE POST-DEPLOYMENT DECISION TREE
+
+During operation:
+
+### CONDITION CHANGES?
+
+→ reassess.
+
+### MATERIAL SOFTWARE CHANGE?
+
+→ re-test + review.
+
+### COMMUNICATION LOSS?
+
+→ predefined response.
+
+### SERIOUS INCIDENT?
+
+→ preserve + investigate + reassess.
+
+### OPERATING ENVELOPE BREACH?
+
+→ investigate and determine whether further deployment is appropriate.
+
+### NEW EVIDENCE OF UNPREDICTABILITY?
+
+→ review authorization.
+
+The architecture is therefore continuous, not one-time.
+
+---
+
+# 134. THE “WHY NOT JUST IHL?” DEFENSE
+
+Answer in three steps:
+
+### 1
+
+> “IHL remains the legal foundation.”
+
+### 2
+
+> “The challenge is translating that foundation into autonomous-system assurance.”
+
+### 3
+
+> “That is why we propose testing, operating envelopes, material-change review, traceability and incident investigation.”
+
+Then:
+
+> “We are operationalizing compliance, not replacing IHL.”
+
+---
+
+# 135. THE “WHY DO WE NEED A NEW INSTRUMENT?” DEFENSE
+
+Do not claim:
+
+> “IHL has failed.”
+
+Say:
+
+> “The objective is to complement existing law with specific rules addressing the autonomous functions, lifecycle assurance and accountability questions that States are currently negotiating.”
+
+Then point to:
+
+- common scope;
+- prohibition criteria;
+- human judgement/control;
+- testing;
+- lifecycle assurance;
+- verification.
+
+This is much more defensible.
+
+---
+
+# 136. THE “THIS IS IMPOSSIBLE TO VERIFY” DEFENSE
+
+Answer:
+
+> “That is why our verification model is graduated.”
+
+Then:
+
+**national process → reporting → expert exchange → incident reporting → protected technical review → narrower inspection where appropriate.**
+
+Do not insist every State reveal source code.
+
+---
+
+# 137. THE “YOU ARE BANNING TECHNOLOGY” DEFENSE
+
+Answer:
+
+> “No. The framework is function-based.”
+
+Then distinguish:
+
+- military AI;
+- decision support;
+- automation;
+- autonomous weapon functions;
+- prohibited uses;
+- regulated uses.
+
+The framework regulates **how autonomous weapon functions are developed and used**, not all AI.
+
+---
+
+# 138. THE “WHAT ABOUT DEFENSIVE SYSTEMS?” DEFENSE
+
+Answer:
+
+> “Defensive context matters, but defensive status should not automatically erase the need for predictability, bounded effects and appropriate human judgement.”
+
+Then:
+
+> “Our operating-envelope model is specifically designed to account for context and reaction-time constraints.”
+
+---
+
+# 139. THE “WHAT ABOUT ADAPTIVE AI?” DEFENSE
+
+Answer:
+
+> “We do not propose banning learning systems simply because they learn.”
+
+Then:
+
+> “We require a material-change test.”
+
+Then:
+
+> “If the critical function changes enough to affect the original assurance, the system is reassessed.”
+
+---
+
+# 140. THE “WHO IS LIABLE?” DEFENSE
+
+Do not say:
+
+> “The programmer is responsible.”
+
+Say:
+
+> “The architecture preserves identifiable responsibility across authorization, command, operation, legal review, procurement and investigation, according to applicable law.”
+
+Then:
+
+> “The machine itself does not become the legal substitute for human responsibility.”
+
+---
+
+# 141. THE “WHAT MAKES THIS ORIGINAL?” DEFENSE
+
+This is important because the Chair explicitly wants out-of-the-box solutions.
+
+Say:
+
+> **“The individual safeguards are not presented as isolated inventions. The originality is the way we connect them into a continuous assurance architecture: prohibition gate, operating envelope, evidence case, material-change triggers, incident-learning loop and graduated verification.”**
+
+That is the right answer.
+
+---
+
+# 142. THE ONE-PAGE BRAZIL ARCHITECTURE
+
+## BEFORE DEVELOPMENT / PROCUREMENT
+
+**Characterize**
+
+→ **Classify**
+
+→ **Impact / Assurance Case**
+
+## BEFORE DEPLOYMENT
+
+**Legal Review**
+
+→ **Testing**
+
+→ **Operating Envelope**
+
+→ **Deployment Authorization**
+
+## DURING USE
+
+**Human Judgement/Control**
+
+→ **Monitoring**
+
+→ **Logging**
+
+## AFTER CHANGE
+
+**Materiality Test**
+
+→ **Revalidation**
+
+→ **Reauthorization if required**
+
+## AFTER INCIDENT
+
+**Preserve**
+
+→ **Investigate**
+
+→ **Retest**
+
+→ **Review**
+
+→ **Correct**
+
+## DURING TRANSFER
+
+**Assurance Passport**
+
+→ **Recipient Revalidation**
+
+## INTERNATIONAL LAYER
+
+**Reporting**
+
+→ **Expert Exchange**
+
+→ **Protected Review**
+
+→ **Periodic Review**
+
+## IMPLEMENTATION
+
+**Capacity-Building**
+
+→ **Regional Assurance Hubs**
+
+That is the whole system.
+
+---
+
+# 143. WHAT GOES INTO THE ACTUAL RESOLUTION
+
+Do not dump the entire architecture into operative clauses.
+
+The likely strongest core package is:
+
+### OP1
+Functional scope and characterization.
+
+### OP2
+Prohibited category.
+
+### OP3
+Strictly regulated category.
+
+### OP4
+Human judgement and control.
+
+### OP5
+Operating envelope.
+
+### OP6
+Legal review.
+
+### OP7
+Testing and evaluation.
+
+### OP8
+Material-change reassessment.
+
+### OP9
+Traceability and records.
+
+### OP10
+Serious-incident investigation.
+
+### OP11
+Graduated verification.
+
+### OP12
+Capacity-building.
+
+Then add advanced mechanisms only if they remain understandable and negotiable.
+
+---
+
+# 144. THE “TWO DOCUMENT” MODEL
+
+For a realistic MUN resolution, separate:
+
+### MAIN RESOLUTION
+
+Political/legal commitments and core mechanisms.
+
+### TECHNICAL ANNEX / GUIDANCE
+
+Detailed:
+
+- testing matrix;
+- materiality criteria;
+- evidence format;
+- operating-envelope guidance;
+- reporting template;
+- protected-review procedures.
+
+This solves the problem of putting 10 pages of technical detail into one operative clause set.
+
+---
+
+# 145. THE “CORE + ANNEX” ADVANTAGE
+
+Core text:
+
+> “States shall establish appropriate procedures to reassess systems following material modifications affecting critical autonomous functions.”
+
+Annex:
+
+> Example materiality categories and evidence requirements.
+
+This is more flexible than putting every technical threshold into the main legal text.
+
+---
+
+# 146. THE “MUN ORIGINALITY STACK”
+
+When the Chair asks:
+
+> “What is actually original here?”
+
+Give this order:
+
+### 1
+**Assurance Case**
+
+### 2
+**Operating Envelope**
+
+### 3
+**Materiality Trigger**
+
+### 4
+**Control Continuity Test**
+
+### 5
+**Incident → Review Loop**
+
+### 6
+**Protected Technical Review**
+
+### 7
+**Transfer Assurance Passport**
+
+### 8
+**Regional Assurance Hubs**
+
+Not because these are the only ideas, but because together they create a recognizable system.
+
+---
+
+# 147. WHAT TO DROP WHEN THE RESOLUTION GETS TOO LONG
+
+Cut in this order:
+
+1. duplicate definitions;
+2. repeated background findings;
+3. unnecessary institutional detail;
+4. overly specific technical examples;
+5. duplicate reporting mechanisms.
+
+Protect:
+
+- prohibition;
+- regulation;
+- control;
+- assurance;
+- review;
+- accountability.
+
+---
+
+# 148. WHAT NOT TO DROP
+
+Even under time pressure, keep:
+
+### Operating limits
+
+because otherwise control can become abstract.
+
+### Material-change review
+
+because autonomy evolves.
+
+### Traceability
+
+because accountability needs evidence.
+
+### Incident learning
+
+because failures must change future assurance.
+
+### Capacity-building
+
+because implementation must be realistic.
+
+---
+
+# 149. THE SOLUTION'S FIVE “WHY” ANSWERS
+
+### Why prohibit?
+
+Because some autonomous systems/uses may be impossible to use consistently with applicable law or effective human judgement/control.
+
+### Why regulate the rest?
+
+Because non-prohibited does not mean risk-free.
+
+### Why human control?
+
+Because human judgement and accountability must have practical effect over use of force.
+
+### Why lifecycle review?
+
+Because systems, models, environments and missions change.
+
+### Why verification?
+
+Because States need evidence that safeguards are actually implemented.
+
+These five answers can carry most of your speeches.
+
+---
+
+# 150. FINAL PART 6 MEMORY MAP
+
+**SCOPE**
+
+→ What is covered?
+
+**PROHIBIT**
+
+→ What is unacceptable?
+
+**ASSURE**
+
+→ Why is the system acceptable?
+
+**BOUND**
+
+→ What exactly may it do?
+
+**REVIEW**
+
+→ Does law still permit it?
+
+**TEST**
+
+→ Does it actually work under realistic conditions?
+
+**AUTHORIZE**
+
+→ Has the responsible authority approved deployment?
+
+**MONITOR**
+
+→ What is happening?
+
+**TRACE**
+
+→ Can we reconstruct it?
+
+**REASSESS**
+
+→ Did something materially change?
+
+**INVESTIGATE**
+
+→ What happened when it failed?
+
+**VERIFY**
+
+→ What evidence can others assess?
+
+**IMPLEMENT**
+
+→ Can every State realistically comply?
+
+**TRANSFER**
+
+→ Does assurance survive movement to another State?
+
+**LEARN**
+
+→ Does the framework improve after incidents and new technology?
+
+---
+
+# THE ONE LINE TO MEMORIZE
+
+> **“Brazil's solution is not one ban or one rule; it is a continuous assurance system that decides what must be prohibited, bounds what remains permissible, proves that human judgement and legal compliance remain effective, and forces the framework to learn when technology or reality changes.”**
+
+---
+
+# PART 6 END STATE
+
+By the end of Part 6, you should be able to take almost any broad LAWS principle and turn it into:
+
+**a mechanism → an actor → a trigger → evidence → a consequence.**
+
+That is the difference between saying:
+
+> “We support responsible AI.”
+
+and saying:
+
+> **“Here is exactly how a State demonstrates that an autonomous weapon remains lawful, bounded, predictable, controlled and accountable throughout its lifecycle.”**
