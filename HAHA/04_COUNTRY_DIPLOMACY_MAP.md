@@ -1938,3 +1938,1467 @@ firm on the core architecture
 # THE ONE LINE TO REMEMBER
 
 > **"Don't ask a delegate whether they are with Brazil. Find the clause where Brazil and that delegate are already with each other."**
+
+
+---
+
+# PART 4 REBUILD — FIELD MANUAL
+
+> This addendum upgrades the country map from a research summary into a **live committee-use system**.
+>
+> Use it in this order:
+>
+> **SEE THE COUNTRY → IDENTIFY THE OPENING → ASK ONE QUESTION → FIND ONE SHARED CLAUSE → INVITE THEM INTO THE WORK**
+>
+> Do not try to force full agreement in the first conversation.
+
+---
+
+# 51. THE 20-SECOND COUNTRY TEST
+
+When a delegate walks up to you, do not mentally search an entire dossier.
+
+Ask yourself five things:
+
+1. **Do they support the 2026 GGE text as a basis for negotiations?**
+2. **Do they support prohibition, regulation, or mainly existing-IHL implementation?**
+3. **What is their preferred level of human judgement/control?**
+4. **What do they think about a new binding instrument?**
+5. **What concrete clause could they help write?**
+
+Then talk.
+
+The purpose of this system is not to classify people permanently.
+
+The purpose is to know:
+
+> **What can we actually write together?**
+
+---
+
+# 52. THE THREE CONVERSATION MODES
+
+Every country conversation should fall into one of three modes.
+
+## MODE A — BUILD
+
+Use when their position already overlaps strongly with Brazil.
+
+Your goal:
+
+> move from agreement → clause → drafting role.
+
+Example:
+
+> “We already seem pretty close on prohibition and human control. Which one should we draft first?”
+
+---
+
+## MODE B — BRIDGE
+
+Use when they support safeguards but hesitate on legal form.
+
+Your goal:
+
+> move from legal-form disagreement → operational common ground.
+
+Example:
+
+> “Leaving the treaty question aside for a second, which safeguards would you make mandatory?”
+
+---
+
+## MODE C — DISCOVER
+
+Use when you genuinely do not know their current position.
+
+Your goal:
+
+> ask before assuming.
+
+Example:
+
+> “What is your delegation’s position on the legal form and on human judgement/control?”
+
+Never pretend to know a position you have not verified.
+
+---
+
+# 53. THE FIVE CLAUSES YOU SHOULD USE AS DIPLOMATIC ANCHORS
+
+Do not try to sell the whole Brazil package at once.
+
+Use one of these anchors.
+
+## Anchor 1 — PROHIBITION
+
+> “Are there autonomous functions or uses that your delegation thinks should simply not be permitted?”
+
+If yes:
+
+> “Great. What should the threshold be?”
+
+---
+
+## Anchor 2 — HUMAN JUDGEMENT
+
+> “What does your delegation think the human operator must still be able to decide in practice?”
+
+This is much better than arguing over terminology immediately.
+
+---
+
+## Anchor 3 — OPERATING LIMITS
+
+> “Would you support mandatory limits on target type, geography, duration, scale or anticipated effects?”
+
+This is one of the best bridge questions for cautious states.
+
+---
+
+## Anchor 4 — TESTING / REVIEW
+
+> “Would you support stronger testing and legal review before deployment, and again after material changes?”
+
+This can attract States that are cautious about a new treaty but comfortable with operational safeguards.
+
+---
+
+## Anchor 5 — ACCOUNTABILITY
+
+> “What records should exist so that a State can determine who authorized a system, what limits were set, what version was used, and what happened?”
+
+This moves the conversation from abstract principles into implementable drafting.
+
+---
+
+# 54. WHAT A GOOD FIRST CONVERSATION LOOKS LIKE
+
+Do not begin with a ten-minute speech.
+
+Use this sequence:
+
+### Step 1
+
+> “Hey, what’s your position on LAWS?”
+
+Listen.
+
+### Step 2
+
+Identify one point of overlap.
+
+> “Yeah, we also want human judgement to remain meaningful.”
+
+### Step 3
+
+Test one concrete safeguard.
+
+> “Would you support mandatory operating limits as well?”
+
+### Step 4
+
+Ask about bloc cooperation.
+
+> “We’re putting together a drafting group around those common points. Would you like to work with us on it?”
+
+### Step 5
+
+Give them a job.
+
+> “You could help us with the operating-limit section.”
+
+This is how a bloc becomes a working drafting group instead of a WhatsApp membership list.
+
+---
+
+# 55. HOW TO ASK A COUNTRY TO JOIN
+
+Keep the first invitation simple.
+
+Do not send:
+
+> “Would you like to join our cross-regional autonomy and accountability negotiating coalition based on our two-tier regulatory architecture?”
+
+That sounds like a treaty negotiation memo 😭.
+
+Use:
+
+> “Hey! We’re forming a bloc for DISEC and wanted to ask if you’d be interested in joining us. We’re working on the LAWS agenda and would be happy to have you with us.”
+
+If they say yes:
+
+> “Perfect. We’re mainly working around human judgement/control, clear restrictions on unacceptable autonomy, regulation of the rest, and practical implementation.”
+
+Then ask:
+
+> “What part would you like to work on?”
+
+That last question matters.
+
+A country that contributes a clause is much more valuable to the bloc than a country that simply joins a group chat.
+
+---
+
+# 56. THE JAPAN CONVERSATION
+
+Japan should be treated as a **substantive drafting partner**, not as someone who must first agree with every legal-form point.
+
+### Opening
+
+> “Hey! We’re forming a bloc for DISEC and wanted to ask if Japan would be interested in joining us. We’re working on the LAWS agenda and would be really happy to have Japan with us.”
+
+### If they ask what the bloc supports
+
+> “We’re mainly looking at clear restrictions on unacceptable autonomous systems, strong human judgement/control, testing and lifecycle safeguards.”
+
+### Then ask
+
+> “Which of those areas would Japan be most comfortable helping us draft?”
+
+### Useful Japan topics
+
+- characterization/definition;
+- predictability;
+- reliability;
+- operating limits;
+- testing;
+- defensive systems;
+- human involvement;
+- deactivation;
+- CCW-centered implementation.
+
+### Do not assume
+
+Japan's involvement means it has accepted Brazil's preferred legal form.
+
+The correct move is:
+
+**substantive cooperation first → legal-form discussion later.**
+
+---
+
+# 57. AUSTRALIA CONVERSATION
+
+Australia is useful because a delegate can disagree with a new binding instrument while still supporting practical safeguards.
+
+### First question
+
+> “Which mandatory safeguards could Australia support regardless of the final legal form?”
+
+### Give options
+
+> “For example: target restrictions, geographic limits, duration limits, testing, logging, material-change review.”
+
+### If they engage
+
+Pull them toward an actual clause.
+
+> “Would you help us draft that section?”
+
+### Do not say
+
+> “Australia is against the treaty.”
+
+The repository's current audit explicitly says the latest 2026 legal-form position requires verification.
+
+The safer committee formulation is:
+
+> “We know Australia has historically taken a cautious approach to new legal regulation, so we’d like to find the safeguards you can support.”
+
+---
+
+# 58. INDIA CONVERSATION
+
+### Known overlap
+
+- CCW centrality;
+- IHL;
+- human judgement/oversight;
+- definitions/characterization;
+- gradual discussion.
+
+### Main question
+
+> “Which concrete safeguards would India support while the legal-form question is still being discussed?”
+
+Then:
+
+> “Would you support mandatory testing, operating limits and human authorization?”
+
+### Useful bridge
+
+Do not begin by trying to force the phrase “legally binding instrument.”
+
+Start with:
+
+**human decision → operational limits → review → accountability.**
+
+Then return to legal form.
+
+---
+
+# 59. CHINA CONVERSATION
+
+The research shows China is engaged in the CCW process and has discussed future legal regulation when conditions are mature, while taking a narrower approach to characterization and human involvement.
+
+### First question
+
+> “Which practical safeguards does China think should be reflected in the GGE negotiating text?”
+
+### Follow-up
+
+> “Would China support operational restrictions tied to target type, geography, duration and scale?”
+
+### Goal
+
+Find concrete provisions first.
+
+Do not turn the first conversation into:
+
+> treaty vs no treaty.
+
+---
+
+# 60. REPUBLIC OF KOREA CONVERSATION
+
+### Focus
+
+The repository characterizes the Republic of Korea as technically engaged and cautious about a new binding instrument.
+
+### Ask
+
+> “Which technical safeguards would Korea support as necessary for safe and responsible deployment?”
+
+### Good topics
+
+- reliability;
+- predictability;
+- testing;
+- human involvement;
+- operating constraints;
+- lifecycle controls.
+
+### Drafting move
+
+> “Could we put those safeguards into the operative clauses even if the legal-form language stays open?”
+
+---
+
+# 61. UNITED KINGDOM CONVERSATION
+
+### Research picture
+
+The UK emphasizes:
+
+- existing IHL;
+- legal review;
+- context-specific human involvement;
+- responsible use.
+
+### Best bridge question
+
+> “What practical safeguards does the UK think are necessary to demonstrate IHL compliance in autonomous systems?”
+
+### Then
+
+> “Would you support putting those safeguards into common international language?”
+
+### Key technique
+
+Do not tell the UK:
+
+> “Existing IHL is insufficient.”
+
+Instead say:
+
+> “Brazil agrees that IHL is the legal foundation. We are looking at LAWS-specific mechanisms that help States implement and demonstrate compliance.”
+
+This is much harder to dismiss.
+
+---
+
+# 62. UNITED STATES CONVERSATION
+
+### Research picture
+
+The United States opposed A/RES/80/57 and argues existing IHL and national measures can address LAWS.
+
+Do not misstate this as opposition to every safeguard.
+
+### Ask
+
+> “Which mechanisms would the United States support as implementation of existing IHL rather than as a new standalone legal standard?”
+
+### Strong bridge topics
+
+- weapons review;
+- testing;
+- operator training;
+- operational constraints;
+- accountability;
+- incident investigation.
+
+### Useful response
+
+If they say:
+
+> “Existing IHL is enough.”
+
+Say:
+
+> “We agree that IHL remains the legal baseline. The question for Brazil is how States ensure that autonomous systems actually comply with it in practice.”
+
+Then move to a concrete mechanism.
+
+---
+
+# 63. RUSSIA CONVERSATION
+
+### Research picture
+
+Russia voted NO on the 2025 UNGA resolution and has emphasized existing IHL and national measures.
+
+### Do not open
+
+> “Why are you against regulation?”
+
+Instead:
+
+> “Which IHL-based safeguards does Russia think States should implement for autonomous weapons?”
+
+### Potential common-ground areas
+
+- testing;
+- legal review;
+- accountability;
+- operational constraints;
+- lifecycle controls.
+
+Again:
+
+**find a clause before arguing about labels.**
+
+---
+
+# 64. CANADA CONVERSATION
+
+### Research picture
+
+Canada remains active in CCW and emphasizes appropriate human involvement and IHL.
+
+### Ask
+
+> “What does Canada think the operator must be able to understand, predict and control before deployment?”
+
+That question connects Canada's position directly to Brazil's technical framework without forcing terminology.
+
+### Follow-up
+
+> “Would you support a common operating-envelope requirement?”
+
+---
+
+# 65. FRANCE CONVERSATION
+
+### Focus
+
+France has useful overlap around:
+
+- two-tier architecture;
+- IHL compliance;
+- regulated systems;
+- technical expertise;
+- CCW protocol discussions.
+
+### Ask
+
+> “What should separate the prohibited category from the regulated category?”
+
+Then:
+
+> “Can we write those criteria together?”
+
+France is especially useful for turning broad principles into precise operative wording.
+
+---
+
+# 66. GERMANY CONVERSATION
+
+### Focus
+
+Germany is particularly useful on:
+
+- binding architecture;
+- two-tier structure;
+- human control;
+- lifecycle rules;
+- procedural negotiating work.
+
+### Ask
+
+> “Which prohibited characteristics should be explicit in Tier 1?”
+
+Then:
+
+> “Which lifecycle safeguards belong in Tier 2?”
+
+This creates a natural drafting role.
+
+---
+
+# 67. IRELAND CONVERSATION
+
+### Focus
+
+Ireland gives you strong territory around:
+
+- human judgement;
+- accountability;
+- reliability/predictability;
+- bias;
+- responsible use.
+
+### Ask
+
+> “Which safeguards should be mandatory even when the system remains technically within an IHL-compliant operating envelope?”
+
+Then move into:
+
+- bias;
+- predictability;
+- traceability;
+- review.
+
+---
+
+# 68. PAKISTAN CONVERSATION
+
+Pakistan is valuable for the **technical-operational** part of the draft.
+
+### Ask
+
+> “Which of the following should be mandatory: predictability, explainability, intervention, deactivation, spatial limits, temporal limits and scale limits?”
+
+Then:
+
+> “Which three would Pakistan insist on?”
+
+Convert the answer directly into clause language.
+
+---
+
+# 69. SWITZERLAND CONVERSATION
+
+Use Switzerland to deepen the assurance architecture.
+
+### Ask
+
+> “How can States verify compliance without requiring public disclosure of sensitive military information?”
+
+This opens:
+
+- protected technical review;
+- confidential records;
+- expert mechanisms;
+- reporting;
+- audit trails.
+
+That is exactly the kind of practical detail that makes Brazil's draft harder to dismiss.
+
+---
+
+# 70. NEW ZEALAND CONVERSATION
+
+### Ask
+
+> “Which lifecycle safeguards should follow an autonomous system from development through retirement?”
+
+Then test:
+
+- development;
+- legal review;
+- testing;
+- deployment authorization;
+- monitoring;
+- incident reporting;
+- retirement.
+
+This gives New Zealand a concrete drafting lane.
+
+---
+
+# 71. SOUTH AFRICA CONVERSATION
+
+### Ask
+
+> “What implementation and capacity-building measures would make the framework realistic for States with different technical resources?”
+
+Then propose:
+
+- regional testing support;
+- legal-review assistance;
+- technical training;
+- information exchange;
+- cybersecurity support.
+
+This makes the draft broader than a technology-heavy treaty written only for advanced militaries.
+
+---
+
+# 72. MEXICO CONVERSATION
+
+### Ask
+
+> “Which Latin American language on human control and prohibition should we preserve in the draft?”
+
+Then:
+
+> “Would Mexico help us make that wording operational?”
+
+Mexico can help connect:
+
+**human-control principle → operative clause → regional outreach.**
+
+---
+
+# 73. SWEDEN / NORWAY / FINLAND / NETHERLANDS
+
+Do not treat these as four identical countries.
+
+Use a common starting question:
+
+> “Which safeguard do you think is currently missing from the international framework?”
+
+Then split the drafting work:
+
+### Sweden
+human judgement + stronger restrictions.
+
+### Norway
+operational limits + meaningful control.
+
+### Finland
+Nordic/EU language + current national formulation verification.
+
+### Netherlands
+legal architecture + CCW pathway.
+
+This creates differentiated roles instead of putting everyone on the same clause.
+
+---
+
+# 74. PHILIPPINES
+
+### Ask
+
+> “What would make the framework workable for ASEAN and developing States, not just major military powers?”
+
+Follow with:
+
+> “Which provisions should address implementation, training or capacity-building?”
+
+This can bring ASEAN considerations directly into the operative draft.
+
+---
+
+# 75. SRI LANKA
+
+The September 2026 official statement is especially useful because it is **very current** and explicitly calls for a legally binding negotiating mandate and strict prohibitions.
+
+### Ask
+
+> “Which prohibited uses should be written explicitly into the negotiating text?”
+
+Then:
+
+> “Would Sri Lanka help us draft the prohibition section?”
+
+This is a direct route from current national language to drafting.
+
+---
+
+# 76. ALGERIA / BANGLADESH / NIGERIA / THAILAND
+
+These are useful because the current 2026 procedural research places them inside the current cross-regional convergence around the GGE negotiating basis.
+
+Do not assume that means identical treaty language.
+
+Ask:
+
+> “What part of the GGE text do you think should become the first operative negotiating priority?”
+
+Then identify whether they prefer:
+
+- prohibition;
+- human judgement;
+- lifecycle rules;
+- accountability;
+- capacity-building;
+- verification.
+
+This is how Brazil can expand the group without pretending everyone already agrees.
+
+---
+
+# 77. THE 86-COUNTRY RAPID COMMAND MAP
+
+This is the fastest-reference version.
+
+## A — CURRENT 2026 PROCEDURAL CONVERGENCE IN OUR COMMITTEE
+
+These 25 delegations were reported as part of the 2026 47-State joint-statement intersection with the 86-country committee:
+
+**Algeria, Bangladesh, Brazil, Chile, Denmark, Ecuador, France, Germany, Greece, Hungary, Ireland, Italy, Kazakhstan, Malta, Mexico, New Zealand, Nigeria, Norway, Pakistan, Peru, Portugal, Spain, Sweden, Switzerland, Thailand.**
+
+### Committee use
+
+Ask:
+
+> “Which part of the GGE text should become the first concrete negotiating clause?”
+
+Do not assume identical legal-form preferences.
+
+---
+
+## B — EARLIER 42-STATE PARTICIPANTS TO CLARIFY
+
+**Angola, Colombia**
+
+They were part of the earlier 2025 procedural group but were not reported in the 2026 47-State list used by the current repository audit.
+
+That is **not** evidence that they changed position.
+
+Ask them directly.
+
+---
+
+## C — ADDITIONAL BINDING-INSTRUMENT SIGNALS
+
+The current research matrix records recent or explicit binding-instrument signals from:
+
+**Armenia, Botswana, Cambodia, Cuba, Ghana, Kenya, Kuwait, Libya, Micronesia, Myanmar, Nepal, Philippines, South Africa, Sri Lanka, Sudan, Tanzania, Togo, Trinidad & Tobago, Tunisia.**
+
+Treat the evidence as uneven in date and detail.
+
+First question:
+
+> “What is your delegation’s latest position on the legal form?”
+
+---
+
+## D — BRIDGE / CONDITIONAL POSITIONS
+
+The current research identifies technically engaged but more cautious positions in:
+
+**Australia, Canada, China, Japan, Republic of Korea, Singapore, Türkiye, United Kingdom, United States, Russia.**
+
+The common tactic is:
+
+> **Do not fight legal form first. Find operational safeguards.**
+
+---
+
+## E — CLEARLY SPECIAL VOTE SIGNALS
+
+### NO in 2025
+
+**Belarus, Israel, North Korea, Russia, United States**
+
+### ABSTAIN in 2025
+
+**Argentina, China, Iran, Poland, Saudi Arabia, Türkiye**
+
+### NON-VOTING in 2025
+
+**Azerbaijan, Syria, Ukraine, Venezuela**
+
+The vote tells you what happened on the resolution.
+
+It does **not** by itself tell you the full current substantive negotiating position.
+
+---
+
+## F — CURRENT POSITION NEEDS DIRECT AUDIT
+
+The repository specifically flags incomplete country-specific evidence for a number of delegations.
+
+Examples include:
+
+**Afghanistan, Azerbaijan, Bahrain, Czech Republic, Denmark on exact legal-form detail, Ethiopia, Greece, Indonesia, Iraq, Jordan, Lebanon, Malaysia, Oman, Poland, Qatar, Saudi Arabia, Serbia, Singapore, Syria, Türkiye, Ukraine, UAE, Venezuela, Vietnam.**
+
+For these:
+
+> **Ask. Do not guess.**
+
+---
+
+# 78. FULL 86-COUNTRY ONE-LINE RECALL TABLE
+
+| Country | Fast memory cue |
+|---|---|
+| Afghanistan | YES; current independent position not established in present source set |
+| Algeria | Binding signal + current procedural convergence |
+| Angola | Binding / African-group relevance; clarify 2026 procedural status |
+| Argentina | 2025 abstention; do not assume pro-resolution alignment |
+| Armenia | Binding signal; responsible transfer/diversion concerns |
+| Australia | Cautious legal form; operational safeguards are the bridge |
+| Azerbaijan | Non-voting; current independent position unclear |
+| Bahrain | YES; Arab/NAM context; legal form needs audit |
+| Bangladesh | Current procedural convergence; ask which GGE clauses it wants advanced |
+| Belarus | NO; analyze objections before engaging |
+| Botswana | Binding signal; African/NAM context |
+| Brazil | Binding + prohibition/regulation + human judgement/control + lifecycle |
+| Cambodia | Binding signal; ASEAN relevance |
+| Canada | IHL + human involvement + technical safeguards |
+| Chile | Procedural convergence + Latin American coordination |
+| China | Conditional/gradual approach; operational safeguards are bridge |
+| Colombia | Earlier procedural support; clarify current status |
+| Cuba | Binding-oriented signal; detailed current position needs audit |
+| Czech Republic | Active CCW engagement; legal form needs audit |
+| Denmark | Procedural convergence; exact legal form needs audit |
+| Ecuador | Procedural convergence + stronger regulation |
+| Egypt | Lifecycle + human authorization/control + capacity-building |
+| Ethiopia | African-group context; country-specific position needs audit |
+| France | Two-tier + CCW + technical expertise |
+| Germany | Binding + two-tier + lifecycle |
+| Ghana | Binding signal; strict limits |
+| Greece | Current procedural convergence; legal form needs audit |
+| Hungary | Procedural convergence; national details need audit |
+| India | CCW + definitions + human oversight + gradual approach |
+| Indonesia | Current legal-form position needs audit |
+| Iran | 2025 abstention; verify directly |
+| Iraq | Current legal-form position needs audit |
+| Ireland | Binding + human judgement + accountability/predictability |
+| Israel | NO; existing-IHL/security framing requires careful primary-source use |
+| Italy | Procedural convergence + active CCW role |
+| Japan | CCW consensus + human involvement + technical safeguards |
+| Jordan | Current legal-form position needs audit |
+| Kazakhstan | Procedural convergence + 2025 sponsor |
+| Kenya | African-group context + binding signal; verify latest wording |
+| Kuwait | Binding signal + Arab/NAM context |
+| Lebanon | Current legal-form position needs audit |
+| Libya | Binding signal + African/Arab/NAM context |
+| Malaysia | Current legal-form position needs audit |
+| Malta | Binding sponsor + current procedural convergence |
+| Mexico | Binding + Latin America + human control |
+| Micronesia | Binding signal |
+| Myanmar | Binding signal; not a CCW State Party |
+| Nepal | Binding signal + meaningful human oversight |
+| Netherlands | Binding + two-tier + CCW process |
+| New Zealand | Binding + ban/regulation + lifecycle |
+| Nigeria | Binding + current procedural convergence + African leadership relevance |
+| North Korea | NO; objections need primary-source study |
+| Norway | Procedural convergence + strong operational-control overlap |
+| Oman | Position not sufficiently established |
+| Pakistan | Binding + detailed operational controls |
+| Peru | Procedural convergence; legal form needs detail |
+| Philippines | Binding sponsor + stronger rules + ASEAN/NAM reach |
+| Poland | 2025 abstention; verify current position |
+| Portugal | Procedural convergence + European support |
+| Qatar | Current legal-form position needs audit |
+| Russia | NO; existing-IHL/national-measures approach |
+| Saudi Arabia | 2025 abstention; verify current position |
+| Serbia | Current independent position needs audit |
+| Seychelles | Binding signal + African-group negotiation support |
+| Singapore | Technical/security engagement; legal form needs audit |
+| South Africa | Binding + Africa + human control + implementation |
+| South Korea | Technical engagement + caution on new binding instrument |
+| Spain | Procedural convergence + stronger rules |
+| Sri Lanka | Strong current binding signal + explicit prohibition focus |
+| Sudan | Binding signal + African/NAM context |
+| Sweden | Procedural convergence + stronger restrictions |
+| Switzerland | Binding + two-tier + assurance/verification |
+| Syria | Non-voting; current independent position unclear |
+| Tanzania | Binding signal + African/NAM context |
+| Thailand | Current procedural convergence |
+| Togo | Binding signal + African-group negotiation support |
+| Trinidad & Tobago | Binding sponsor + CARICOM relevance |
+| Tunisia | Binding signal + African-group negotiation support |
+| Türkiye | 2025 abstention + caution about new legal standards |
+| Ukraine | Non-voting; separate wartime context from LAWS policy |
+| UAE | Current legal-form position needs audit |
+| United Kingdom | Existing IHL + legal review + contextual human involvement |
+| United States | NO; existing IHL/national measures approach |
+| Venezuela | Sponsor but non-voting; verify separately |
+| Vietnam | Current legal-form position needs audit |
+| Yemen | YES + NAM/Arab-group context; no automatic treaty conclusion |
+
+---
+
+# 79. HOW TO TURN “YES, WE AGREE” INTO SOMETHING USEFUL
+
+This is one of the most important committee skills.
+
+Delegate:
+
+> “Yeah, we agree with you.”
+
+Do not reply:
+
+> “Great!”
+
+Reply:
+
+> “Perfect — which part should we draft together?”
+
+Then offer three concrete areas:
+
+> “Prohibition, human control, or lifecycle safeguards?”
+
+They choose.
+
+Now they have contributed.
+
+---
+
+# 80. WHAT TO DO WHEN THEY SAY “WE’LL SEE”
+
+Do not chase them repeatedly.
+
+Say:
+
+> “No problem. We’re drafting around the concrete safeguards first. If any of those overlap with your position, come work with us on that section.”
+
+You keep the door open without sounding desperate.
+
+---
+
+# 81. WHAT TO DO WHEN THEY DISAGREE
+
+Never jump straight to:
+
+> “But Brazil believes…”
+
+First ask:
+
+> “Which part specifically do you disagree with?”
+
+Then classify the disagreement:
+
+### Word disagreement
+
+Example:
+
+> “We don’t like meaningful human control.”
+
+Ask:
+
+> “Would you support human judgement and operational control instead?”
+
+### Scope disagreement
+
+Example:
+
+> “Not every autonomous system should be covered.”
+
+Ask:
+
+> “Which systems do you think should fall inside the scope?”
+
+### Legal-form disagreement
+
+Example:
+
+> “We don’t support a new treaty.”
+
+Ask:
+
+> “Which safeguards would you still support?”
+
+### Implementation disagreement
+
+Example:
+
+> “Verification would expose sensitive data.”
+
+Ask:
+
+> “Would protected technical review or confidential records solve that concern?”
+
+This is diplomacy.
+
+---
+
+# 82. THE “ONE CLAUSE” METHOD
+
+When a conversation becomes complicated, reduce it to one clause.
+
+Say:
+
+> “Forget the whole resolution for a second. Would you support this one provision?”
+
+Then negotiate that provision.
+
+Examples:
+
+> “Would you support a mandatory weapons review before deployment?”
+
+> “Would you support geographic and temporal operating limits?”
+
+> “Would you support review after a material software change?”
+
+> “Would you support incident reporting after serious autonomous-system failures?”
+
+One accepted clause is more useful than ten minutes of vague agreement.
+
+---
+
+# 83. DO NOT LET THE BLOC BECOME “BRAZIL PLUS PEOPLE”
+
+The group should have:
+
+### Brazil's core
+
+- prohibition + regulation;
+- meaningful/context-appropriate human judgement/control;
+- accountability;
+- lifecycle assurance;
+- legally binding destination.
+
+### Shared bloc layer
+
+What multiple members actually agree on.
+
+### Individual national layer
+
+What one State uniquely wants.
+
+Do not force the third layer into the second.
+
+---
+
+# 84. HOW TO HANDLE A BIG COUNTRY GROUP CHAT
+
+If many countries join the bloc chat, do not immediately drop a massive position paper.
+
+Use three messages:
+
+### Message 1
+
+> “Hey everyone, glad you joined. We’ll first identify the 4–5 points everyone can actually agree on.”
+
+### Message 2
+
+> “For now, send your position on: 1) prohibited systems/uses, 2) human judgement/control, 3) legal form, 4) testing/lifecycle safeguards.”
+
+### Message 3
+
+> “Once we have that, we’ll turn the overlap into actual clauses.”
+
+This keeps the group usable.
+
+---
+
+# 85. BLOC INTAKE SHEET
+
+For every new delegate, record only:
+
+**Country:**  
+**Legal form:**  
+**Prohibition:**  
+**Regulation:**  
+**Human judgement/control:**  
+**Testing/review:**  
+**Verification/accountability:**  
+**Transfer/capacity:**  
+**Their strongest drafting contribution:**  
+**Clause they are willing to work on:**  
+**Potential disagreement with Brazil:**  
+
+Nothing else is necessary in the first pass.
+
+---
+
+# 86. COUNTRY-CONVERSATION STATUS SYSTEM
+
+Use simple statuses.
+
+### GREEN
+
+They agree on multiple substantive pillars and want to draft.
+
+### YELLOW
+
+They agree on safeguards but want changes in wording/legal form.
+
+### ORANGE
+
+They are interested but have not committed to specific clauses.
+
+### GREY
+
+Current position is unclear and needs verification.
+
+### RED
+
+Their stated position conflicts with a specific core Brazil provision.
+
+These are **working statuses**, not permanent labels.
+
+A country can move from:
+
+**GREY → ORANGE → YELLOW → GREEN**
+
+simply because the conversation becomes more specific.
+
+---
+
+# 87. DO NOT WASTE TIME ARGUING OVER “PRO-TREATY” LABELS
+
+A delegate can support:
+
+- a legally binding instrument;
+- a prohibition;
+- human judgement;
+- testing;
+- accountability;
+
+and still disagree with your exact wording.
+
+That is normal.
+
+The useful question is:
+
+> **“Which words can both of us actually defend?”**
+
+---
+
+# 88. THE LEGAL-FORM BRIDGE
+
+When someone says:
+
+> “We are not ready for a binding treaty.”
+
+Brazil can say:
+
+> “That’s fair. Can we at least agree on the substantive safeguards that any future instrument should contain?”
+
+If yes, move to:
+
+- prohibition criteria;
+- control;
+- operational limits;
+- legal review;
+- testing;
+- accountability.
+
+Then later:
+
+> “Since we already agree on the substance, can we discuss what mandate or instrument would implement it?”
+
+This changes the conversation from **label first** to **substance first**.
+
+---
+
+# 89. THE “CURRENT POSITION” RULE
+
+For September 2026 committee preparation:
+
+### Safe
+
+> “The repository's latest monitored position says…”
+
+### Safer
+
+> “The latest source we have located indicates…”
+
+### If evidence is incomplete
+
+> “We need to verify the current national statement before quoting that as a present position.”
+
+### Unsafe
+
+> “Country X definitely believes…”
+
+when your only evidence is a 2024 statement or a regional-group declaration.
+
+---
+
+# 90. THE PROCEDURAL-VS-SUBSTANTIVE CHECK
+
+When a country joins a joint statement saying the GGE text should be the basis for negotiations, do not immediately record:
+
+> “Country X supports the Brazil treaty.”
+
+Record:
+
+> **“Country X supports using the GGE material as a negotiating basis.”**
+
+Then separately record:
+
+- legal form;
+- prohibition threshold;
+- human-control formulation;
+- implementation provisions.
+
+This single distinction will save you from several embarrassing POIs.
+
+---
+
+# 91. THE “BRIDGE CLAUSE” BANK
+
+When a delegate disagrees with Brazil's preferred wording, try one of these formulations.
+
+### Instead of forcing “meaningful human control”
+
+Use:
+
+> “context-appropriate human judgement and control capable of ensuring compliance with applicable international law.”
+
+### Instead of saying “IHL is insufficient”
+
+Use:
+
+> “existing international humanitarian law remains the legal foundation, complemented by specific measures addressing autonomous functions.”
+
+### Instead of demanding public source-code disclosure
+
+Use:
+
+> “appropriate technical records and protected review mechanisms sufficient to demonstrate compliance while safeguarding legitimate security information.”
+
+### Instead of demanding constant direct supervision
+
+Use:
+
+> “human judgement and control appropriate to the operational context, including the ability to define, constrain, supervise and, where feasible, interrupt system operation.”
+
+These bridges preserve Brazil's substance while making compromise possible.
+
+---
+
+# 92. THE “WHO CAN WRITE WHAT?” MAP
+
+Do not assign drafting randomly.
+
+### Definition / characterization
+Japan, Switzerland, France, Germany, India
+
+### Human judgement / operational control
+Brazil, Mexico, Sweden, Norway, Ireland, Pakistan
+
+### Prohibited category
+Brazil, South Africa, New Zealand, Sweden, Switzerland, Netherlands, Sri Lanka
+
+### Lifecycle / testing
+Australia, Japan, New Zealand, Switzerland, United Kingdom, Canada
+
+### Accountability / incident reporting
+Brazil, Ireland, South Africa, Switzerland, New Zealand
+
+### Capacity-building
+South Africa, Philippines, Nigeria, Bangladesh, African / Global South partners
+
+### Legal architecture
+Brazil, Mexico, Germany, Netherlands, Switzerland, France
+
+These are **possible drafting lanes**, not statements that every country will accept every clause.
+
+---
+
+# 93. THE FIRST 30 MINUTES OF LOBBYING
+
+Do not start by trying to collect names.
+
+### First 10 minutes
+
+Talk to countries already showing substantive overlap.
+
+Find:
+
+- legal form;
+- prohibition;
+- human control;
+- one implementation mechanism.
+
+### Next 10 minutes
+
+Talk to bridge states.
+
+Ask:
+
+> “Which operational safeguards can we agree on regardless of legal form?”
+
+### Final 10 minutes
+
+Return to your strongest contacts and say:
+
+> “We have common ground on X, Y and Z. Want to help us write those clauses?”
+
+That is the moment a bloc becomes real.
+
+---
+
+# 94. WHAT TO WRITE DOWN AFTER EVERY CONVERSATION
+
+Immediately record:
+
+> **Country — said X — supports Y — dislikes Z — will draft A — wants B changed.**
+
+Example:
+
+> Japan — supports human involvement/reliability — open to testing and operating limits — legal form still open — willing to draft technical safeguards.
+
+That is dramatically more useful than:
+
+> “Japan is with us.”
+
+---
+
+# 95. THE “DON'T OVERSELL BRAZIL” RULE
+
+A strong delegate does not need to tell everyone:
+
+> “Brazil has the best framework.”
+
+Instead:
+
+> “Brazil is proposing…”
+
+Then:
+
+> “What would you change?”
+
+Then:
+
+> “Can we integrate that?”
+
+That makes the other delegate feel like a drafter, not a target.
+
+---
+
+# 96. THE “GIVE THEM OWNERSHIP” RULE
+
+People support clauses more strongly when they helped write them.
+
+So once a country identifies an area of overlap:
+
+> “That sounds like something you should help us draft.”
+
+Then give them a specific section.
+
+Example:
+
+> “Can you draft the testing requirement and send us the wording?”
+
+That is much more powerful than saying:
+
+> “You’re in our bloc.”
+
+---
+
+# 97. THE “BRASILIA” FALLBACK
+
+If negotiations become messy, return to Brazil's five-word architecture:
+
+**PROHIBIT → REGULATE → CONTROL → REVIEW → ACCOUNT**
+
+Then ask:
+
+> “Which of these five do we agree on?”
+
+Almost every LAWS conversation can be pulled back onto that track.
+
+---
+
+# 98. PART 4 RAPID-RECALL CARD
+
+### See country
+
+What does it want?
+
+### Find overlap
+
+Which Brazil principle matches?
+
+### Ask one question
+
+What safeguard would it support?
+
+### Give one role
+
+Which clause can it draft?
+
+### Invite
+
+> “Would you like to work with us on that?”
+
+### Record
+
+What did it actually agree to?
+
+### Follow up
+
+Turn agreement into text.
+
+---
+
+# 99. FINAL COUNTRY-DIPLOMACY MEMORY MAP
+
+**86 STATES**
+
+→ do not memorize equally
+
+**25 CURRENT PROCEDURAL INTERSECTION**
+
+→ immediate outreach pool
+
+**BINDING SIGNALS**
+
+→ potential drafting partners
+
+**BRIDGE STATES**
+
+→ operational safeguards
+
+**UNCLEAR STATES**
+
+→ ask directly
+
+**ONE QUESTION**
+
+→ find one concrete point
+
+**ONE CLAUSE**
+
+→ test real agreement
+
+**ONE ROLE**
+
+→ give ownership
+
+**ONE FOLLOW-UP**
+
+→ turn conversation into drafting
+
+**BRAZIL**
+
+→ lead architecture without demanding identical wording
+
+---
+
+# 100. THE ONE SENTENCE TO CARRY INTO COMMITTEE
+
+> **“I am not trying to make every country agree with Brazil; I am trying to find the provisions Brazil and that country can defend together.”**
+
+---
+
+# PART 4 SOURCE-USE REMINDER
+
+Use these research files before relying on a current country claim:
+
+- `RESEARCH/04_MUN_Country_Matrix_2026.md`
+- `RESEARCH/AGENDA/24_2026_47_STATE_JOINT_STATEMENT_AUDIT.md`
+- `RESEARCH/AGENDA/25_86_STATE_CONVERGENCE_CLUSTERS.md`
+- `RESEARCH/AGENDA/26_BRAZIL_NEGOTIATING_SPACE.md`
+- `RESEARCH/AGENDA/27_BLOC_DECISION_WORKSHEET.md`
+- `RESEARCH/AGENDA/08_NEGOTIATION_AND_STATE_POSITIONS.md`
+- relevant country dossiers in `RESEARCH/OTHER COUNTRIES RESEARCH/`
+
+Primary-source rule:
+
+> **Current national statement > current CCW/GGE statement > recent official explanation > older statement > regional-group inference.**
+
+Never present an older or indirect source as a September 2026 national position.
+
