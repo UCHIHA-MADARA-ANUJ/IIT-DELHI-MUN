@@ -2035,3 +2035,1509 @@ Build from existing CCW work, use UNGA as complementary, and move toward a bindi
 **What are your five words?**
 
 # **PROHIBIT — REGULATE — CONTROL — REVIEW — ACCOUNT**
+
+
+---
+
+# 93. BRAZIL'S DEEPER IDENTITY IN THIS DEBATE
+
+This section is about **how Brazil behaves as a negotiating State**, not about ideology.
+
+Brazil's LAWS diplomacy has several recurring features visible in its official submissions:
+
+### 1. Brazil works inside multilateral institutions
+
+Brazil has repeatedly worked through the CCW GGE rather than treating the issue only as a national-policy debate.
+
+### 2. Brazil wants concrete rules
+
+Brazil does not stop at saying that autonomy is concerning. Its submissions discuss:
+
+- prohibitions;
+- regulations;
+- human control;
+- operational limits;
+- legal review;
+- technical standards;
+- accountability.
+
+### 3. Brazil is willing to work across regional lines
+
+The 2025 Brazil statement records a joint effort with Ireland, Norway and Switzerland that gained support from more than 40 High Contracting Parties and an observer State. citeturn611076search12
+
+### 4. Brazil does not present itself as anti-technology
+
+Brazil's 2025 technical paper explicitly argued that legal and ethical discussions should have a strong technical basis and explored IEEE 7007-2021 as a possible building block for confidence-building and the development and use of autonomous weapons systems. citeturn655502search8
+
+### 5. Brazil wants urgency without abandoning process
+
+In 2024 Brazil said the CCW has major advantages because it includes the major stakeholders, but also warned that those advantages should not become an excuse for indefinite delay. citeturn611076search14
+
+### What this means for your MUN persona
+
+You should sound like:
+
+> **a serious multilateral negotiator who wants rules that are actually implementable.**
+
+Not:
+
+> "Brazil is here to lecture everyone about ethics."
+
+---
+
+# 94. BRAZIL'S EXPERIENCE MATTERS — YOU CAN USE IT
+
+Brazil's 2024 CCW statement notes that Brazil had the honour of presiding over the GGE during 2022–2023. citeturn611076search14
+
+That matters because Brazil can credibly speak as a delegation that has experience with the technical/legal negotiation itself.
+
+### Natural committee line
+
+> "Brazil has been directly engaged in this process, including chairing the GGE in 2022–2023, and therefore believes the current debate should build on the technical work already achieved."
+
+Do not overplay this as:
+
+> "Brazil knows better than everyone."
+
+Use it as institutional experience.
+
+---
+
+# 95. BRAZIL'S NEGOTIATING PHILOSOPHY
+
+A useful way to think about Brazil's approach is:
+
+## PRINCIPLE
+
+What must remain true?
+
+Examples:
+
+- human responsibility;
+- compliance with IHL;
+- prohibition of unacceptable uses;
+- meaningful control.
+
+## IMPLEMENTATION
+
+How can States make that principle real?
+
+Examples:
+
+- operating limits;
+- legal review;
+- testing;
+- training;
+- logs;
+- intervention.
+
+## INSTITUTION
+
+Where does the international process move?
+
+Examples:
+
+- CCW;
+- Review Conference;
+- UNGA support;
+- future negotiations.
+
+### Why this matters
+
+A delegate can agree with your **principle** but disagree with your **implementation**.
+
+Do not treat those as the same disagreement.
+
+---
+
+# 96. THE BRAZIL "THREE-LAYER ANSWER"
+
+When someone asks a difficult question, answer on three levels.
+
+### Layer 1 — Legal
+
+> "What does applicable IHL require?"
+
+### Layer 2 — Operational
+
+> "What conditions make compliance realistic?"
+
+### Layer 3 — Institutional
+
+> "What international mechanism helps States implement and review those conditions?"
+
+Example:
+
+> "Distinction applies. For autonomous systems, Brazil therefore wants sufficiently reliable target identification and constrained operating conditions. Internationally, those safeguards should be developed through the ongoing CCW process toward a binding framework."
+
+This style sounds much more mature than jumping straight to "ban LAWS."
+
+---
+
+# 97. THE BRAZIL "CORE VS METHOD" RULE
+
+Separate:
+
+## CORE
+
+- prohibit clearly unacceptable use;
+- regulate permissible systems;
+- maintain human judgement/control;
+- maintain human responsibility;
+- preserve IHL compliance;
+- maintain meaningful review.
+
+## METHOD
+
+- exact terminology;
+- registry design;
+- review frequency;
+- reporting format;
+- institutional wording;
+- technical standard selected;
+- confidential-review procedure.
+
+### Rule
+
+> **Defend the core. Negotiate the method.**
+
+This is probably the single most useful negotiation rule in the entire file.
+
+---
+
+# 98. BRAZIL'S CURRENT 2026 POSITION — VERY PRECISELY
+
+As of your September 2026 MUN preparation, keep these facts separate:
+
+### FACT A
+The 2026 GGE has met twice:
+- 2–6 March 2026;
+- 31 August–4 September 2026. citeturn619388search0
+
+### FACT B
+The GGE mandate is to formulate elements of an instrument **without prejudging its legal nature**. citeturn619388search0turn619388search6
+
+### FACT C
+The 2026 GGE work included discussion of:
+- human responsibility;
+- accountability;
+- responsible chains of human command and control;
+- training;
+- human-machine interfaces;
+- incident investigation;
+- reporting;
+- traceability. citeturn619388search12
+
+### FACT D
+Brazil's stated objective remains a legally binding instrument.
+
+### FACT E
+Therefore:
+
+> **Brazil can advocate a binding instrument while accurately acknowledging that the current GGE process has not prejudged the final legal form.**
+
+That sentence is very important.
+
+---
+
+# 99. WHAT THE 2026 GGE WORK ADDS TO BRAZIL'S CASE
+
+The 2026 Chair's summary says States and persons remain responsible and accountable under applicable international law and that responsibility cannot be transferred to machines. It also discusses a responsible chain of human command and control, understandable human-machine interfaces, guidance, training, and investigation/reporting mechanisms for incidents that may involve IHL violations. citeturn619388search12
+
+### Why this is useful
+
+It gives Brazil a very strong way to say:
+
+> "We are not inventing accountability from scratch. Current multilateral work is already addressing responsibility, control, training, traceability and incident investigation."
+
+### Important caution
+
+Do not say:
+
+> "The GGE has already legally required every State to implement all of these measures."
+
+The GGE text is a negotiating product, not itself a universal treaty obligation.
+
+---
+
+# 100. BRAZIL'S "RESPONSIBILITY CANNOT MOVE TO THE MACHINE" LINE
+
+This is one of the strongest ideas available to you.
+
+### Simple version
+
+> **"A weapon can be autonomous in operation; responsibility cannot become autonomous."**
+
+### More diplomatic version
+
+> **"Autonomous functioning cannot transfer legal responsibility from human decision-makers and States to the machine itself."**
+
+The 2026 Chair's summary explicitly states that responsibility and accountability cannot be transferred to machines. citeturn619388search12
+
+---
+
+# 101. TRACEABILITY — THE NEXT LEVEL AFTER ACCOUNTABILITY
+
+Accountability asks:
+
+> Who is responsible?
+
+Traceability asks:
+
+> Can we reconstruct what happened?
+
+The 2026 GGE Chair's summary records support for a traceable chain of human command and control, with some delegations proposing tools such as data logs and audit trails. citeturn619388search12
+
+### Brazil-friendly formulation
+
+> **"Accountability needs traceability."**
+
+### What traceability may involve
+
+- mission authorization;
+- system/version identification;
+- active operating parameters;
+- alerts/warnings;
+- interventions;
+- relevant logs;
+- incident records.
+
+This connects directly to your later solution architecture.
+
+---
+
+# 102. HUMAN-MACHINE INTERFACE
+
+This is an underused Brazil point.
+
+The 2026 GGE summary says measures to promote human responsibility/accountability can include understandable human-machine interfaces, guidance and training. citeturn619388search12
+
+### Why this matters
+
+A human may technically have authority but still fail if the interface:
+
+- hides important warnings;
+- gives no indication of uncertainty;
+- makes override difficult;
+- provides incomplete system status.
+
+### Easy Brazil line
+
+> **"Human control depends partly on what the human can actually understand from the system."**
+
+This makes your human-control argument much more technical.
+
+---
+
+# 103. TRAINING IS PART OF HUMAN CONTROL
+
+Do not treat training as an optional extra paragraph.
+
+A human cannot exercise meaningful judgement if they do not understand:
+
+- the system's capabilities;
+- the system's limitations;
+- the operating envelope;
+- warning signals;
+- intervention procedures;
+- failure modes.
+
+The 2026 GGE Chair's summary specifically connects training with understanding guidance, instructions, and the capabilities and limitations of autonomous functions. citeturn619388search12
+
+### Simple line
+
+> **"Human control without trained humans is only theoretical control."**
+
+---
+
+# 104. AUTOMATION BIAS — BRAZIL CAN GO DEEPER
+
+The 2026 GGE discussion also records concern about automation bias in decision-making. citeturn619388search12
+
+### What it means
+
+A person may technically be allowed to disagree with the machine but psychologically or institutionally rely on it too heavily.
+
+Examples:
+
+- system recommendation treated as default truth;
+- operator has too little time to challenge it;
+- interface emphasizes confidence without uncertainty;
+- doctrine discourages overrides;
+- repeated machine success creates excessive trust.
+
+### Policy implication
+
+Human control should include:
+
+- training;
+- interface design;
+- realistic simulations;
+- override procedures;
+- review of operator performance.
+
+---
+
+# 105. BRAZIL'S TECHNICAL PAPER ON IEEE 7007
+
+Brazil submitted **CCW/GGE.1/2025/WP.2**, titled:
+
+> "The possible uses of IEEE’s First Global Ontological Standard for Ethically Driven Robotics and Automation Systems as a building block for confidence building measures and the development and use of Autonomous Weapons Systems."
+
+Brazil's paper explains that the GGE had identified issues such as:
+
+- control requirements;
+- target limits;
+- duration;
+- geographical scope;
+- scale;
+- whether use is prohibited by international law;
+- voluntary exchange of best practices.
+
+Brazil then argued that sound technical standards could help support shared understanding. citeturn655502search8
+
+### What to say in MUN
+
+> "Brazil has explored IEEE 7007 as a possible technical reference for confidence-building and shared understanding."
+
+### What NOT to say
+
+> "IEEE 7007 is the UN LAWS standard."
+
+No.
+
+---
+
+# 106. WHY IEEE 7007 MATTERS FOR YOUR POSITION
+
+It proves something useful about Brazil:
+
+> **Brazil is willing to bring technical tools into an arms-control discussion.**
+
+That makes your delegation easier to distinguish from a purely humanitarian speech.
+
+You can talk about:
+
+- ontologies;
+- common terminology;
+- system characterization;
+- technical assurance;
+- confidence-building.
+
+But always distinguish:
+
+**possible reference**
+
+from:
+
+**internationally binding standard.**
+
+---
+
+# 107. BRAZIL'S "FUNCTION OVER PLATFORM" IDEA
+
+Brazil's 2024 answer focuses on how autonomous systems function and are used in specific contexts rather than treating platform identity as enough to determine legality. citeturn611076search13
+
+### Why this matters
+
+The same platform can operate in different ways.
+
+So ask:
+
+> **What is autonomous?**
+
+Especially:
+
+- target identification;
+- target selection;
+- engagement;
+- mission parameter changes.
+
+### MUN line
+
+> **"Brazil supports function-based regulation because the platform name does not tell us what decision-making authority the machine actually has."**
+
+---
+
+# 108. CONTEXT MATTERS
+
+Brazil's 2024 response makes an important point:
+
+> The legality of an AWS is not determined by inherent features alone; its mode of use and functioning within a specific context matter. citeturn611076search13
+
+### Simple meaning
+
+The same technology may be:
+
+- compatible with IHL in one constrained use;
+- incompatible with IHL in another.
+
+That helps explain why Brazil supports **both** prohibitions and regulations.
+
+---
+
+# 109. WHY BRAZIL DOES NOT NEED ONE UNIVERSAL CONTROL MODEL
+
+Because context can change:
+
+- response time;
+- environment;
+- target type;
+- communications;
+- defensive/offensive context;
+- system capabilities.
+
+Therefore Brazil can defend the principle:
+
+> **Human judgement/control must be effective**
+
+without demanding:
+
+> **one identical operational procedure for every system.**
+
+That is useful compromise space.
+
+---
+
+# 110. BRAZIL'S "CRITICAL FUNCTIONS" THINKING
+
+When the debate becomes too broad, bring it back to critical functions.
+
+Ask:
+
+### Function 1
+Who identifies?
+
+### Function 2
+Who selects?
+
+### Function 3
+Who decides to engage?
+
+### Function 4
+Who can stop or change the action?
+
+### Function 5
+What happens if the environment changes?
+
+### Function 6
+What happens if the system behaves unexpectedly?
+
+This is much stronger than debating "AI" in the abstract.
+
+---
+
+# 111. THE BRAZIL "CRITICAL FUNCTION" ANSWER
+
+If someone says:
+
+> "Your framework could regulate all military AI."
+
+Answer:
+
+> **"No. The framework should focus on the autonomous functions that create the lethal decision risk, particularly target identification, selection and engagement, rather than regulating every use of AI."**
+
+---
+
+# 112. THE BRAZIL "ETHICS + LAW + TECHNOLOGY" TRIANGLE
+
+Brazil's position can be remembered as three circles:
+
+### LAW
+
+IHL + accountability + legal review.
+
+### ETHICS / HUMANITY
+
+Human dignity + human responsibility.
+
+### TECHNOLOGY
+
+Predictability + testing + operating limits + technical assurance.
+
+### Centre
+
+**Responsible autonomous use.**
+
+If any one circle disappears, the framework becomes weaker.
+
+---
+
+# 113. BRAZIL'S POSITION ON HUMAN DIGNITY
+
+Brazil's 2024 response connects meaningful human control with accountability, IHL compliance and protection of human dignity. citeturn611076search13
+
+This lets you discuss the humanitarian dimension without making your speech purely emotional.
+
+### Better than:
+
+> "Machines killing people is scary."
+
+Use:
+
+> **"Brazil believes the decision to use lethal force cannot be detached from human responsibility and the protections embedded in IHL."**
+
+---
+
+# 114. BRAZIL'S POSITION ON ACCOUNTABILITY
+
+Brazil's 2024 response also warns that autonomous use can create problems for attribution of State and individual legal responsibility. citeturn611076search13
+
+### Simple meaning
+
+If nobody can explain:
+
+- who authorized;
+- what the system was allowed to do;
+- what it actually did;
+- why it did it;
+
+then accountability becomes much harder.
+
+### Memory line
+
+> **"Autonomy must never become a legal black box."**
+
+---
+
+# 115. BRAZIL'S POSITION ON PREDICTABILITY
+
+Brazil explicitly connects lawful use to sufficient ability to understand, predict and explain relevant functions/effects. citeturn611076search13
+
+### Do not say
+
+> "Brazil demands perfect predictability."
+
+### Say
+
+> **"Brazil seeks sufficient predictability and understanding to ensure lawful use within the expected operating conditions."**
+
+That is far more technically defensible.
+
+---
+
+# 116. BRAZIL'S POSITION ON RELIABILITY
+
+Reliability is different from predictability.
+
+### Predictability
+
+> Can we anticipate behaviour?
+
+### Reliability
+
+> Does the system perform the intended function consistently enough?
+
+A system can be predictable but unreliable.
+
+Example:
+
+> We know it fails 20% of the time.
+
+That is predictable failure, but not necessarily acceptable.
+
+### Brazil's framework therefore needs both.
+
+---
+
+# 117. BRAZIL'S POSITION ON EXPLAINABILITY
+
+Do not turn explainability into a demand for a full explanation of every machine-learning parameter.
+
+The practical question is:
+
+> **Can the responsible human and legal reviewer understand the system's capabilities, limitations and expected effects enough to make and defend the decision to use it?**
+
+This is the level that helps in committee.
+
+---
+
+# 118. BRAZIL'S POSITION ON OPERATING LIMITS
+
+Brazil specifically discusses:
+
+- environmental limits;
+- spatial limits;
+- temporal limits;
+- operational context;
+- target identification/selection/engagement. citeturn611076search13
+
+### This gives you a very powerful simple sentence
+
+> **"The more autonomous the lethal decision, the more important it becomes to define where, when, against what and under which conditions the system may operate."**
+
+---
+
+# 119. BRAZIL'S POSITION ON MISSION-PARAMETER CHANGES
+
+Brazil's 2024 response says the weapon should not be able to change mission parameters without human validation. citeturn611076search13
+
+### Examples
+
+If the system was approved for:
+
+- Area A
+
+it should not silently expand to:
+
+- Area B.
+
+If it was approved for:
+
+- Target class X
+
+it should not silently expand to:
+
+- Target class Y.
+
+### Memory line
+
+> **"No autonomous expansion of the mission."**
+
+---
+
+# 120. BRAZIL'S POSITION ON "CONSTANT CARE"
+
+Brazil's 2024 response emphasizes precaution and constant care to minimize harm to civilians. citeturn611076search13
+
+### Why it matters
+
+The operator's responsibility does not disappear because a machine performs the action.
+
+Operational decisions still need:
+
+- monitoring;
+- reassessment;
+- precautions.
+
+---
+
+# 121. BRAZIL'S POSITION ON INCIDENT INVESTIGATION
+
+The 2026 GGE Chair's summary includes effective internal mechanisms for investigating, reporting and taking appropriate action in response to incidents involving LAWS that may involve IHL violations. citeturn619388search12
+
+### Brazil can build on this
+
+Your later solution can propose:
+
+**incident**
+→ **preserve records**
+→ **investigate**
+→ **review**
+→ **repair / retrain / revalidate**
+→ **learn**
+
+This is a very strong lifecycle idea.
+
+---
+
+# 122. BRAZIL'S POSITION ON STATE RESPONSIBILITY
+
+Do not frame responsibility only as:
+
+> "Which individual soldier is guilty?"
+
+International responsibility also concerns the State and its obligations.
+
+Therefore think:
+
+**State responsibility**
+
++
+
+**individual accountability**
+
++
+
+**command responsibility**
+
++
+
+**operational traceability**
+
+The exact legal consequences depend on applicable law and facts.
+
+---
+
+# 123. BRAZIL'S POSITION ON NON-STATE ACTORS
+
+The 2025 UNGA resolution itself highlights concern about proliferation, including to unauthorized recipients and non-State actors. citeturn611076search15
+
+For Brazil, this means the framework should not stop at:
+
+> design.
+
+It should also consider:
+
+- acquisition;
+- transfer;
+- diversion;
+- unauthorized modification;
+- use by actors outside the intended command structure.
+
+### Possible Brazilian response
+
+> **"A framework that only regulates responsible State development but ignores diversion and transfer leaves a major gap."**
+
+---
+
+# 124. BRAZIL'S POSITION ON PROLIFERATION
+
+The 2025 UNGA resolution identifies risks including:
+
+- arms race;
+- miscalculation;
+- escalation;
+- lowering thresholds for conflict;
+- proliferation;
+- unauthorized recipients;
+- non-State actors. citeturn611076search15
+
+### Important distinction
+
+You do not need to claim:
+
+> "Autonomous weapons will definitely cause a global arms race."
+
+Better:
+
+> **"The international community has identified arms-race, escalation and proliferation risks that the regulatory framework should address."**
+
+---
+
+# 125. BRAZIL'S POSITION ON ESCALATION
+
+Autonomy can potentially change:
+
+- decision speed;
+- response time;
+- escalation dynamics;
+- human intervention windows.
+
+Brazil can therefore support safeguards around:
+
+- time;
+- scale;
+- geography;
+- human supervision;
+- communication loss;
+- interaction between systems.
+
+Avoid sensational predictions.
+
+---
+
+# 126. BRAZIL'S POSITION ON DUAL-USE TECHNOLOGY
+
+Many technologies relevant to autonomy are dual-use.
+
+Brazil should therefore avoid a framework that assumes:
+
+> every robotics component = weapon.
+
+Instead ask:
+
+> **How is the technology integrated into a lethal autonomous function?**
+
+This keeps the policy technologically realistic.
+
+---
+
+# 127. BRAZIL'S POSITION ON INDUSTRY
+
+Brazil can recognize that developers and suppliers matter without replacing the State as the principal international-law actor.
+
+Useful areas:
+
+- documentation;
+- testing;
+- cybersecurity;
+- update control;
+- incident support;
+- change notification.
+
+This is an implementation question, not a claim that companies become treaty parties.
+
+---
+
+# 128. BRAZIL'S POSITION ON PROCUREMENT
+
+The 2026 CCW GGE page highlights procurement as a phase where human-machine interaction requirements are specified, legal reviews are conducted and assurance processes are carried out. citeturn619388search0
+
+Therefore:
+
+> **Procurement is not just buying equipment. It is a governance checkpoint.**
+
+This becomes useful later in your solution architecture.
+
+---
+
+# 129. BRAZIL'S POSITION ON CAPACITY-BUILDING
+
+Brazil can connect capacity-building to equality of implementation.
+
+Possible support areas:
+
+- legal review;
+- testing;
+- cybersecurity;
+- operator training;
+- technical expertise;
+- regional centres;
+- procurement guidance.
+
+The reasoning is:
+
+> **If the international framework is too technically demanding to implement, the practical result could be unequal compliance.**
+
+---
+
+# 130. BRAZIL'S POSITION ON CONFIDENTIALITY
+
+A serious framework needs two things at once:
+
+### Transparency
+Enough information to build trust.
+
+### Security
+No unnecessary disclosure of:
+
+- sensitive military capabilities;
+- operational vulnerabilities;
+- classified information;
+- source code by default.
+
+### Brazil's balanced line
+
+> **"Transparency must serve accountability without becoming a requirement to expose operational vulnerabilities."**
+
+---
+
+# 131. BRAZIL'S POSITION ON VERIFICATION
+
+Brazil can advocate a graduated model.
+
+### National
+
+Internal legal review and authorization.
+
+### International transparency
+
+Aggregate information.
+
+### Peer exchange
+
+Compare methodologies.
+
+### Protected experts
+
+Review selected technical evidence.
+
+### Deeper inspection
+
+Only where politically/legalistically agreed and necessary.
+
+This is easier to negotiate than immediate intrusive inspections.
+
+---
+
+# 132. BRAZIL'S NEGOTIATION MAP — PRINCIPLE BY PRINCIPLE
+
+| Issue | Brazil wants | Brazil can move on | Brazil should protect |
+|---|---|---|---|
+| Legal form | Binding instrument | Sequencing | Destination |
+| Prohibition | Clear unacceptable cases | Exact threshold language | Existence of prohibition tier |
+| Regulation | Strong controls | Exact mechanism | Real obligations |
+| Human control | Effective judgement/control | Terminology | Substance |
+| Legal review | Meaningful/lifecycle | Procedure | Review concept |
+| Testing | Strong evidence | Exact methodology | Testing requirement |
+| Accountability | Human responsibility | Institutional details | No machine responsibility gap |
+| Verification | Evidence-based | Reporting model | Ability to assess compliance |
+| Confidentiality | Protected data | Disclosure format | Legitimate security |
+| Capacity | International support | Institutional model | Implementability |
+| CCW | Major negotiating forum | Exact sequencing | Technical/legal role |
+| UNGA | Complementary role | Degree of involvement | Inclusivity/political momentum |
+
+---
+
+# 133. BRAZIL'S "IF THEY SAY X, YOU SAY Y" SHEET
+
+## "IHL is enough."
+
+> "IHL applies. Brazil argues that autonomy creates specific implementation problems that need additional rules and safeguards."
+
+## "Human control is vague."
+
+> "Then let's define its practical conditions rather than argue over the phrase."
+
+## "A treaty is premature."
+
+> "The exact path can be negotiated; Brazil's destination remains a binding instrument."
+
+## "Defensive systems need exemption."
+
+> "Context matters, but defensive use should still be assessed for predictability, operating limits, human control and IHL compliance."
+
+## "Verification exposes secrets."
+
+> "Protected technical review can assess evidence without requiring unnecessary public disclosure."
+
+## "AI is too broad to regulate."
+
+> "Then regulate the lethal autonomous function rather than the word AI."
+
+## "Who is responsible if the machine fails?"
+
+> "Responsibility cannot be transferred to the machine; the system should preserve a traceable human chain of command and accountability."
+
+---
+
+# 134. BRAZIL'S HARD POI — "WHO DECIDES?"
+
+Question:
+
+> "Does Brazil require a human to choose every individual target?"
+
+Best answer:
+
+> **"Brazil requires meaningful human judgement and control appropriate to the context, especially over critical functions, but the exact operational model can vary where speed or system context makes continuous direct supervision impossible. What cannot vary is that the human role must have real effect and the use must remain lawful."**
+
+This gives you flexibility without abandoning your principle.
+
+---
+
+# 135. BRAZIL'S HARD POI — "WHAT PROHIBITION?"
+
+Question:
+
+> "Brazil keeps saying 'unacceptable'. What exactly is unacceptable?"
+
+Answer:
+
+> **"Brazil supports prohibiting autonomous uses where effective human control cannot be maintained or where the system cannot be used consistently with IHL, including where relevant effects cannot be sufficiently understood, predicted or limited or where the use creates an unacceptable accountability problem."** citeturn611076search13
+
+---
+
+# 136. BRAZIL'S HARD POI — "WHAT IS MEANINGFUL?"
+
+Answer:
+
+> **"At minimum, the human must have enough information to understand the operational context, authority to define relevant limits, confidence in the system's expected behaviour and the ability to intervene or otherwise constrain the system where required."**
+
+Then ask them:
+
+> **"What part of that does your delegation disagree with?"**
+
+That turns the POI back on them.
+
+---
+
+# 137. BRAZIL'S HARD POI — "HOW DO YOU PROVE CONTROL?"
+
+Answer:
+
+> **"Through evidence: operating parameters, legal review, testing, training, records, system-version information and procedures for intervention and incident investigation."**
+
+This is the bridge from principle to implementation.
+
+---
+
+# 138. BRAZIL'S HARD POI — "WHAT IF THE SYSTEM LEARNS?"
+
+Answer:
+
+> **"If learning materially changes a critical function, the assurance process must change as well. A system should not remain permanently certified on the assumption that its critical behaviour can never change."**
+
+---
+
+# 139. BRAZIL'S HARD POI — "WHO VERIFIES?"
+
+Answer:
+
+> **"The State remains responsible for national implementation. Internationally, verification can be graduated through reporting, peer exchange, protected technical review and other agreed mechanisms."**
+
+Do not promise an intrusive global inspectorate unless the negotiation supports it.
+
+---
+
+# 140. BRAZIL'S HARD POI — "WHAT IF A COUNTRY CANNOT AFFORD THIS?"
+
+Answer:
+
+> **"Then capacity-building has to be part of the framework: legal-review support, testing assistance, training, technical exchange and regional assurance capacity."**
+
+---
+
+# 141. BRAZIL'S HARD POI — "ISN'T THIS JUST RED TAPE?"
+
+Answer:
+
+> **"It becomes red tape if it is disconnected from operational decisions. Brazil's approach is to connect review and evidence to development, procurement, deployment, material changes and incident investigation."**
+
+This is exactly how to defend a lifecycle framework.
+
+---
+
+# 142. BRAZIL'S HARDEST LEGAL QUESTION
+
+> "Is Brazil saying that meaningful human control is already customary international law?"
+
+Answer:
+
+> **"Brazil is not relying on an assertion that the exact phrase is already universally codified as a standalone rule. Brazil argues that effective human judgement and control are necessary to ensure compliance with existing international law, and supports developing specific international rules to operationalize that requirement."**
+
+This answer is legally disciplined.
+
+---
+
+# 143. BRAZIL'S HARDEST PROCEDURAL QUESTION
+
+> "If the GGE mandate does not prejudge the legal nature of the instrument, why are you demanding a treaty?"
+
+Answer:
+
+> **"Because the current mandate and Brazil's desired outcome are different questions. The GGE is developing common elements without prejudging final legal form; Brazil's policy objective is that this work should lead to a legally binding instrument. We therefore support moving from the current elements toward a negotiating mandate."**
+
+This is one of the most important answers in the entire file.
+
+---
+
+# 144. BRAZIL'S HARDEST POLITICAL QUESTION
+
+> "Why should Brazil lead on LAWS?"
+
+Never say:
+
+> "Because Brazil is better than other countries."
+
+Say:
+
+> **"Brazil has sustained involvement in the CCW process, chaired the GGE in 2022–2023, has submitted detailed national proposals, has helped build cross-regional support, and continues to participate actively in the current process."** citeturn611076search14turn611076search12
+
+That is factual rather than self-congratulatory.
+
+---
+
+# 145. BRAZIL'S DIPLOMATIC STORY IN ONE PARAGRAPH
+
+You should be able to tell the story like this:
+
+> "Brazil has been involved in the CCW LAWS process for years and chaired the GGE in 2022–2023. It has consistently supported moving toward a binding instrument, while also engaging seriously with the technical questions that make regulation workable. Brazil's submissions discuss prohibitions, positive regulatory obligations, human control, operational limits, legal review, accountability and technical standards. In 2025 it helped build cross-regional support for using the rolling text as a basis for negotiations. In 2026 the GGE continued developing substantive elements. Brazil's position is therefore not to restart the debate, but to turn the existing work into a practical path toward a binding framework." citeturn611076search14turn611076search12turn619388search0
+
+---
+
+# 146. WHAT MAKES BRAZIL USEFUL TO A BLOC
+
+Other delegates have different priorities.
+
+Brazil can connect them.
+
+### Humanitarian delegates
+
+Brazil offers:
+- prohibition;
+- human control;
+- IHL.
+
+### Technical delegates
+
+Brazil offers:
+- testing;
+- predictability;
+- technical standards;
+- operating limits.
+
+### Cautious States
+
+Brazil offers:
+- context-specific control;
+- phased implementation;
+- confidentiality.
+
+### Global South delegates
+
+Brazil offers:
+- capacity-building;
+- broader inclusion;
+- practical implementation.
+
+### Treaty-focused delegates
+
+Brazil offers:
+- a clear binding destination.
+
+This makes Brazil useful as a bridge between different concerns.
+
+---
+
+# 147. BRAZIL'S BRIDGE-LANGUAGE TOOLKIT
+
+Use:
+
+> "Brazil recognizes the concern..."
+
+> "Brazil can work with the delegation on the implementation..."
+
+> "The precise terminology can be discussed..."
+
+> "What matters for Brazil is the substantive safeguard..."
+
+> "We can preserve confidentiality while strengthening verification..."
+
+> "Brazil sees room for flexibility in the sequencing..."
+
+> "The current GGE work gives us a practical basis..."
+
+These phrases help you negotiate without weakening your position.
+
+---
+
+# 148. BRAZIL'S "DON'T ARGUE THE WRONG THING" RULE
+
+Example:
+
+Delegate says:
+
+> "I don't like the phrase meaningful human control."
+
+Do not spend five minutes defending three words.
+
+Say:
+
+> "That's negotiable. Does your delegation support human authority over critical functions, operating limits, situational awareness and intervention?"
+
+If yes:
+
+You have won the substance.
+
+---
+
+# 149. BRAZIL'S "TURN OBJECTION INTO CLAUSE" METHOD
+
+Delegate:
+
+> "Direct human approval is impossible in defensive systems."
+
+Brazil:
+
+> "Then let's write context-appropriate human judgement with defined operational limits and intervention requirements."
+
+Delegate:
+
+> "Verification can't expose classified systems."
+
+Brazil:
+
+> "Then let's build protected technical review."
+
+Delegate:
+
+> "Our legal system already has weapons review."
+
+Brazil:
+
+> "Then the framework can recognize existing national mechanisms while requiring review after material changes."
+
+This is exactly how a high-level delegate negotiates.
+
+---
+
+# 150. WHAT YOU SHOULD MEMORIZE VERBATIM
+
+Not everything.
+
+Memorize these:
+
+### Position
+
+> "Prohibit unacceptable autonomy and strictly regulate the rest."
+
+### Human control
+
+> "Human presence is not enough; judgement must have real effect."
+
+### IHL
+
+> "IHL applies; specific rules are needed to address the challenges of autonomous use."
+
+### Lifecycle
+
+> "If the critical function changes, the assurance must change."
+
+### Accountability
+
+> "Responsibility cannot be transferred to the machine."
+
+### Verification
+
+> "Evidence without unnecessary disclosure."
+
+### Institutional path
+
+> "Build from the CCW work toward a binding instrument."
+
+---
+
+# 151. WHAT YOU SHOULD UNDERSTAND, NOT MEMORIZE
+
+Understand:
+
+- why distinction is difficult;
+- why predictability matters;
+- why operating limits matter;
+- why direct control may not always be possible;
+- why indirect/contextual control can still be meaningful;
+- why software changes can trigger new review;
+- why automation bias matters;
+- why traceability matters;
+- why procurement matters;
+- why capacity-building matters;
+- why UNGA and CCW can complement each other.
+
+If you understand these, you can survive a POI even when the exact wording disappears from memory.
+
+---
+
+# 152. WHAT YOU SHOULD KNOW BY HEART BY COMMITTEE MORNING
+
+### Level 1 — instant
+
+- Brazil's goal;
+- two-tier model;
+- five words;
+- human-control test;
+- CCW + UNGA path.
+
+### Level 2 — 10-second recall
+
+- Article 36;
+- material changes;
+- predictability;
+- operating limits;
+- accountability;
+- verification.
+
+### Level 3 — deep
+
+- exact 2024 Brazilian criteria;
+- 2025 technical paper;
+- 2026 GGE developments;
+- UNGA record;
+- country-specific negotiation questions.
+
+You do not need every paragraph of this file in your head.
+
+You need the **architecture in your head**.
+
+---
+
+# 153. BRAZIL'S 20-SECOND COUNTRY INTRO
+
+> "Brazil supports moving toward a legally binding international instrument on LAWS. We believe the framework should prohibit autonomous uses that cannot satisfy IHL or effective human control, strictly regulate other systems, preserve human responsibility and require practical legal and technical safeguards throughout the system's lifecycle."
+
+---
+
+# 154. BRAZIL'S 20-SECOND NEGOTIATION INTRO
+
+> "Brazil has a two-tier framework in mind, but we are open to discussing the exact thresholds and implementation methods. We'd especially like to compare positions on human control, operating limits, legal review, testing and accountability."
+
+---
+
+# 155. BRAZIL'S 20-SECOND AAWG INTRO
+
+> "Brazil is looking for common ground between strong humanitarian safeguards and technically workable regulation. We think the useful starting point is clear prohibitions, strict regulation for the remaining systems, practical human judgement and control, lifecycle review and traceable accountability."
+
+---
+
+# 156. BRAZIL'S 20-SECOND BRIDGE-STATE INTRO
+
+> "You don't need to settle the final legal form with us today. We want to know which safeguards you think are operationally realistic, especially on testing, operating limits, human judgement and lifecycle assurance."
+
+---
+
+# 157. THE BRAZIL "ONE PAGE IN YOUR HEAD"
+
+Imagine one page divided into five boxes:
+
+## BOX 1 — GOAL
+
+**Binding instrument**
+
+## BOX 2 — LEGAL
+
+**IHL + human responsibility**
+
+## BOX 3 — STRUCTURE
+
+**Prohibit + regulate**
+
+## BOX 4 — CONTROL
+
+**Understand + limit + decide + monitor + intervene + account**
+
+## BOX 5 — PROCESS
+
+**CCW work → Review Conference → negotiations**
+
+That is the core.
+
+---
+
+# 158. THE BRAZIL "IF EVERYTHING GOES WRONG" RECOVERY
+
+If you get hit with a POI and completely blank:
+
+### Step 1
+
+Say:
+
+> "Brazil agrees that..."
+
+### Step 2
+
+Bring it back to IHL.
+
+### Step 3
+
+Use the five words.
+
+> "The relevant question is whether the use can be prohibited, regulated, controlled, reviewed and held accountable."
+
+### Step 4
+
+Give one mechanism.
+
+Example:
+
+> "For material changes, Brazil supports renewed review."
+
+You are back in control.
+
+---
+
+# 159. THE BRAZIL "NO PANIC" RULE
+
+You do not need to know every country's treaty wording.
+
+You need to know:
+
+- Brazil's position;
+- why Brazil holds it;
+- which parts can move;
+- what evidence supports it;
+- what mechanism solves the problem.
+
+That is enough to negotiate intelligently.
+
+---
+
+# 160. FINAL BRAZIL COMMANDMENT
+
+> **Do not try to sound like you know everything. Make every claim you make precise, defensible and useful.**
+
+A strong delegate is not the person who uses the most complicated words.
+
+A strong delegate is the person who can say:
+
+> **"Here is the legal problem. Here is the operational problem. Here is Brazil's position. Here is the mechanism. Here is what we can negotiate."**
+
+That is the standard.
+
+---
+
+# 161. FINAL MASTER SHEET
+
+## BRAZIL
+
+### Goal
+Legally binding international instrument.
+
+### Current process
+2026 CCW GGE elements / rolling text.
+
+### Next institutional milestone
+Seventh Review Conference, 16–20 November 2026.
+
+### Core model
+Two tiers.
+
+### Tier 1
+Prohibit unacceptable autonomous use.
+
+### Tier 2
+Strictly regulate permissible systems.
+
+### Human control
+Must be real and context-appropriate.
+
+### Human responsibility
+Cannot move to the machine.
+
+### IHL
+Applies.
+
+### Legal review
+Important; Article 36 is a key model for States Parties to AP I.
+
+### Testing
+Needed for assurance.
+
+### Lifecycle
+Review before use + after material change + after serious incidents.
+
+### Accountability
+Human and traceable.
+
+### Verification
+Evidence-based and graduated.
+
+### Confidentiality
+Protect sensitive military information.
+
+### Procurement
+Governance checkpoint.
+
+### Capacity
+Technical/legal support for implementation.
+
+### Transfers
+Control diversion and preserve assurance.
+
+### AI scope
+Regulate lethal autonomous functions, not AI as a label.
+
+### Tone
+Firm + practical + multilateral.
+
+### Five words
+**PROHIBIT — REGULATE — CONTROL — REVIEW — ACCOUNT**
+
+---
+
+# 162. SOURCES — PRIMARY RECORD TO KNOW
+
+## Brazil / CCW
+
+- **CCW/MSP/2024/WP.37** — Brazil national statement on LAWS. citeturn611076search14
+- **CCW/GGE.1/2024/CRP.1** — Brazil's detailed response on IHL, human control, prohibitions and regulations. citeturn611076search13
+- **CCW/MSP/2025/WP.11** — Brazil statement on the two-tier model, rolling text and movement toward negotiations. citeturn611076search12
+- **CCW/GGE.1/2025/WP.2** — Brazil technical paper on IEEE 7007-2021. citeturn655502search8
+
+## UN / GGE
+
+- **2026 GGE overview** — sessions and process. citeturn619388search0
+- **CCW/GGE.1/2026/WP.2** — 2026 Chair's summary, including responsibility, human command/control, training, traceability and incident investigation. citeturn619388search12
+- **A/RES/80/57** — 2025 UNGA resolution and vote. citeturn611076search0turn611076search15
+- **A/C.1/80/L.41** — 2025 draft resolution with Brazil among the listed main sponsors. citeturn611076search2
+
+---
+
+# 163. LAST PAGE — THE BRAZIL ANSWER
+
+If you remember only one paragraph, remember this:
+
+> **"Brazil supports moving toward a legally binding international instrument on LAWS. We do not believe every autonomous military function should automatically be treated the same way. We support a two-tier framework: prohibit systems or uses that cannot comply with IHL or preserve effective human judgement and control, and strictly regulate other systems through operational limits, legal review, testing and lifecycle safeguards. Human responsibility cannot be transferred to machines, and accountability requires traceability. Brazil wants to build on the CCW's existing technical and legal work, use the broader UN process as a complement, and move from the current GGE elements toward negotiations for a meaningful international instrument."**
+
+---
+
+# END — PART 1 MASTER BRAZIL DOSSIER
